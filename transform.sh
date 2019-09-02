@@ -2,6 +2,7 @@
 echo Start of Transformation;
 echo $'\n'"git status: $(git status)"$'\n';
 DIR="posts";
+status=false
 if [ -d "$DIR" ]; then
     echo "changing directory to $DIR";
     cd $DIR;
@@ -10,13 +11,18 @@ if [ -d "$DIR" ]; then
         find *.* -type f -exec echo Found file {} \;
         for f in *.*
             do
-                if [ ! -d "../_$DIR"]; then
+                if [ ! -d "../_$DIR" ]; then
                     mkdir "../_$DIR"
                 fi
                 echo "transforming: $f => "../_$DIR/$TODATE-$f"";
                 echo "---"$'\n'"layout: post"$'\n'"title: ${f%.*}"$'\n'"date: $TODATE $(date +"%H:%M:%S") IST"$'\n'"---" > tmp;
                 cat tmp $f > "../_$DIR/$TODATE-$f";
+                status=$status && true;
             done
+    else
+        echo "$DIR is Empty; Skipping Transformation!";
+    if
+    if [ "$status" = true ]; then
         echo "changing directory to root of this repo"
         cd ..;
         echo "deleting $DIR";
@@ -25,8 +31,6 @@ if [ -d "$DIR" ]; then
         git config --global user.name XinYaanZyoy && git config --global user.email XinYaanZyoy@gmail.com
         git add . && git commit -m "transformation: $(date)"
         git push "https://XinYaanZyoy:$GH_PAT@github.com/XinYaanZyoy/XinYaanZyoy.github.io.git" master
-    else
-        echo "$DIR is Empty; Skipping Transformation!";
     fi
 else
     echo "$DIR doesn't exist!"
