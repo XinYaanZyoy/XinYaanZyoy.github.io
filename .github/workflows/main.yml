@@ -1,0 +1,13 @@
+name: transformation
+
+on: [push]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest   
+    steps:
+    - uses: actions/checkout@v1
+    - name: runnning transformation script
+      env: 
+        GH_PAT: ${{secrets.GH_PAT}}
+      run: make
