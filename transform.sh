@@ -15,7 +15,7 @@ if [ -d "$DIR" ]; then
                     mkdir "../_$DIR"
                 fi
                 echo "transforming: $f => "../_$DIR/$TODATE-$f"";
-                echo "---"$'\n'"layout: post"$'\n'"title: ${f%.*}"$'\n'"date: $TODATE $(date +"%H:%M:%S") IST"$'\n'"---" > tmp;
+                echo "---"$'\n'"layout: post"$'\n'"title: ${f%.*}"$'\n'"date: $(date)"$'\n'"---" > tmp;
                 cat tmp $f > "../_$DIR/$TODATE-$f";
                 status=true;
             done
