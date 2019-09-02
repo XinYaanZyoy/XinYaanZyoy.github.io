@@ -10,4 +10,4 @@ jobs:
     - name: runnning transformation script
       env: 
         GH_PAT: ${{secrets.GH_PAT}}
-      run: bash transform.sh
+      run: make
