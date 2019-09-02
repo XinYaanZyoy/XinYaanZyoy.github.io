@@ -2,7 +2,7 @@
 echo Start of Transformation;
 echo $'\n'"git status: $(git status)"$'\n';
 DIR="posts";
-status=false
+status=false;
 if [ -d "$DIR" ]; then
     echo "changing directory to $DIR";
     cd $DIR;
@@ -17,22 +17,22 @@ if [ -d "$DIR" ]; then
                 echo "transforming: $f => "../_$DIR/$TODATE-$f"";
                 echo "---"$'\n'"layout: post"$'\n'"title: ${f%.*}"$'\n'"date: $TODATE $(date +"%H:%M:%S") IST"$'\n'"---" > tmp;
                 cat tmp $f > "../_$DIR/$TODATE-$f";
-                status=$status && true;
+                status=true;
             done
+        if [ "$status" = true ]; then
+            echo "changing directory to root of this repo";
+            cd ..;
+            echo "deleting $DIR";
+            rm -r -f $DIR;
+            echo $'\n'"git status: $(git status)"$'\n';
+            git config --global user.name XinYaanZyoy && git config --global user.email XinYaanZyoy@gmail.com
+            git add . && git commit -m "transformation: $(date)"
+            git push "https://XinYaanZyoy:$GH_PAT@github.com/XinYaanZyoy/XinYaanZyoy.github.io.git" master
+        fi
     else
         echo "$DIR is Empty; Skipping Transformation!";
-    if
-    if [ "$status" = true ]; then
-        echo "changing directory to root of this repo"
-        cd ..;
-        echo "deleting $DIR";
-        rm -r -f $DIR;
-        echo $'\n'"git status: $(git status)"$'\n';
-        git config --global user.name XinYaanZyoy && git config --global user.email XinYaanZyoy@gmail.com
-        git add . && git commit -m "transformation: $(date)"
-        git push "https://XinYaanZyoy:$GH_PAT@github.com/XinYaanZyoy/XinYaanZyoy.github.io.git" master
     fi
 else
-    echo "$DIR doesn't exist!"
+    echo "$DIR doesn't exist!";
 fi
 echo End Of Transformation;
