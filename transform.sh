@@ -15,7 +15,7 @@ if [ -d "$DIR" ]; then
                     mkdir "../_$DIR"
                 fi
                 echo "transforming: $f => "../_$DIR/$TODATE-$f"";
-                echo "---"$'\n'"layout: post"$'\n'"title: ${f%.*}"$'\n'"date: $TODATE $(date +"%H:%M:%S") IST"$'\n'"---" > tmp;
+                echo "---"$'\n'"layout: post"$'\n'"title: ${f%.*}"$'\n'"date: $(date)"$'\n'"---" > tmp;
                 cat tmp $f > "../_$DIR/$TODATE-$f";
                 status=true;
             done
@@ -27,7 +27,7 @@ if [ -d "$DIR" ]; then
             echo $'\n'"git status: $(git status)"$'\n';
             git config --global user.name XinYaanZyoy && git config --global user.email XinYaanZyoy@gmail.com
             git add . && git commit -m "transformation: $(date)"
-            git push "https://XinYaanZyoy:$GH_PAT@github.com/XinYaanZyoy/XinYaanZyoy.github.io.git" master
+            git push "https://XinYaanZyoy:$GH_PAT@github.com/XinYaanZyoy/XinYaanZyoy.github.io.git" HEAD:master
         fi
     else
         echo "$DIR is Empty; Skipping Transformation!";
