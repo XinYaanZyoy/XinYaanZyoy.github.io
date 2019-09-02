@@ -1,1 +1,2 @@
-rename
+transform:
+	bash transform.sh
