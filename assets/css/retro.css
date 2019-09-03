@@ -1,5 +1,13 @@
 /* by XinYaanZyoy */
 
+html {
+  overflow: hidden;
+  overflow-x: hidden;
+  }
+  ::-webkit-scrollbar {
+  width: 0px;
+  }
+
 nav a{
   text-decoration: none;
   font-size: 32px;
@@ -9,7 +17,7 @@ nav a{
   font-family: monospace;
 }
 
-/* retro themw */
+/* from https://github.com/markdowncss/retro */
 
 pre,
 code {
