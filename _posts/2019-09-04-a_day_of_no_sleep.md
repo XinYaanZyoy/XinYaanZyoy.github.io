@@ -1,3 +1,8 @@
+---
+layout: post
+title: a_day_of_no_sleep
+date: Wed Sep  4 22:25:09 UTC 2019
+---
 hereby i begin that lifelong journey with you!
 hola! how're you? i hope you're as laminar as those water flows are becoming, and will be on 10th day from today; which meets that infinite ocean; which in turn is one of those important rendezvous of that infinitely looping cycle of its existence!
 
