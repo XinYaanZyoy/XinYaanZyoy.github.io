@@ -1,8 +1,9 @@
-.DEFAULT_GOAL := transform
+.DEFAULT_GOAL := menu
+
+menu:
+    echo transform - to transform posts by transform.sh
+    echo publish - to push posts to github.com
 
 transform:
 	bash transform.sh
-	# bash transform.sh $(STAGE)
 
-# serve:
-# 	python -m http.server $(PORT)
