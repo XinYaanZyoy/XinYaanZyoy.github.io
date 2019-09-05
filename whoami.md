@@ -28,6 +28,7 @@ and many ...
 
 
 checkout my [collection](/mycollection) to have a perspective of my thoughts!
+
 _____
 
 now if you literaly ask, but who you actually are?
