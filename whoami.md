@@ -11,6 +11,7 @@ i spend my most of the time studying mathematics(Linear Algebra and Partial Diff
 > ## let me be a bit dreamer here ...
 i wish to be an explorer(Astronaut to be specific), i want to explore this physical space, i'm trying my best to gain all the aspects of human knowledge till date, so that i can be the one chosen from the whole earth who can represent the whole humanity to another planet civilization in distant star system!
 
+_____
 > #### i've broad range of skills,
 - computer programming (Javascript, C/C++, Python, and FORTRAN)
 - technical writing (i've written many rough(not publishable) theoretical assays)
@@ -18,7 +19,7 @@ i wish to be an explorer(Astronaut to be specific), i want to explore this physi
 - problem analysis (i can analyze any problem of any field; it then depends on my knowledge whether i come with a solution)
 and many ...
 
-
+_____
 > #### i'm lacking few skills too! (which i don't really would like to posses ever actually)
 - time management (i literally can't manage time, i work, work, and work, i don't care if it's right time to do!)
 - routine irregularity (i have no routine!)
@@ -27,7 +28,7 @@ and many ...
 
 
 checkout my [collection](/mycollection) to have a perspective of my thoughts!
-***
+_____
 
 now if you literaly ask, but who you actually are?
 then...
