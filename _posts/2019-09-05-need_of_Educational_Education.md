@@ -1,3 +1,8 @@
+---
+layout: post
+title: need_of_Educational_Education
+date: Thu Sep  5 18:37:13 UTC 2019
+---
 nice to have you and apologize for being filthy!
 you already have seen my those filthiest 4-5 month while you were teaching me Quantum Mechanics, i know; but in my society you're known for purity, you're queen of white!
 
