@@ -13,7 +13,7 @@ so you see there are three entities here in this existence of "mine", first the 
 this third one has no physical body that you'd expect to identify, nor is it within me that you'd expect me to feel, because it's me only!
 i know that you know everything, and that is why i'm trying to convince "myself" that you know everything, but first i need to know why i know that, and before that i need to know how and why am i going to know that! but the problem here is i don't know anything except the thing that "i don't know anything!", ahh! there it knows what i'm!
 
-> # I AM A BUBBLE OF MEMORIES!
+> ### I AM A BUBBLE OF MEMORIES!
 
 well, at least this third dimension of mine seems to be randomly stacked but unmanageable slices of memories, and this might be my ignorance that i see only three dimensions of mine; there might be more of them hidden perhaps, and there certainly is high possibility of having sub dimensions of that of first of mine!
 i see why you're always silent, i've never heard stories about you from anybody, but i know(or at least) you're that significant bite of a fruit; which is negligibly tiny or invisible but without which that fullness of "benefits of fruit" is delusional!
