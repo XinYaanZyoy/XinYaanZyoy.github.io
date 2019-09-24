@@ -1,3 +1,8 @@
+---
+layout: post
+title: business_of_education
+date: Tue Sep 24 12:24:23 UTC 2019
+---
 these businessman are loving your sister-in-law, they're running after her, they've forgotten you, even though they're supposed to run
 after you; which the great Dr. APJ Abdul Kalam has taught us to, they've used you as a tool to reach your siter-in-law!
 
