@@ -3,9 +3,13 @@
 - name: Who Am I?
   link: /whoami/
 - name: My Diary
-  link: /mydiary.html
+  link: /mydiary
 - name: My Karma
   link: /mykarma/
+- name: My Thoughts
+  link: /thoughtcollection/
+- name: My Notebooks(KoHam)
+  link: /KoHam
 - name: Manuscripts
   link: /manuscripts/
 - name: Research
