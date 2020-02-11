@@ -26,7 +26,7 @@ _____
 and many ...
 
 
-checkout my [collection](/mycollection) to have a perspective of my thoughts!
+checkout my [collection of thoughts](/thoughtcollection) to have a perspective of my thoughts!
 
 _____
 
