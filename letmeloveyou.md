@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Live With Me!
-permalink: /livewithme/
+permalink: /letmeloveyou/
 ---
 
 ### Ask me (XinYaanZyoy) on
