@@ -1,14 +1,14 @@
 - name: XinYaanZyoy
   link: /
-- name: Who Am I?
+- name: Who_Am_I?
   link: /whoami/
-- name: My Diary
+- name: My_Diary
   link: /mydiary
-- name: My Karma
+- name: My_Karma
   link: /mykarma/
-- name: My Thoughts
+- name: My_Thoughts
   link: /thoughtcollection/
-- name: My Notebooks
+- name: My_Notebooks
   link: /mynotebooks
 - name: Manuscripts
   link: /manuscripts/
