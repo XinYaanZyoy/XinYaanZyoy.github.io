@@ -1,3 +1,8 @@
+---
+layout: post
+title: guru_is_brahman_itself
+date: Tue Feb 11 23:24:34 UTC 2020
+---
 with all due respect; ma, your childrens here on earth are becoming GURUs, teachers, professors and what not without having either 
 the precious knowledge to share or an ability to make students learn, are you awake? do you read me? in your presence how come this
 kind of wicked people are educating next generation?
