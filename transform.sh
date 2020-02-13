@@ -15,8 +15,9 @@ if [ -d "$DIR" ]; then
                     mkdir "../_$DIR"
                 fi
                 echo "transforming: $f => "../_$DIR/$TODATE-$f"";
-                echo "---"$'\n'"layout: post"$'\n'"title: ${f%.*}"$'\n'"date: $(date)"$'\n'"---" > tmp;
-                cat tmp $f > "../_$DIR/$TODATE-$f";
+                echo "---"$'\n'"layout: post"$'\n'"title: ${f%.*}"$'\n'"date: $(date)"$'\n'"---" > tmp1;
+                echo "<p align=\"right\">- your scion, XinYaanzyoy</p>" > tmp2;
+                cat tmp1 $f tmp2 > "../_$DIR/$TODATE-$f";
                 status=true;
             done
         if [ "$status" = true ]; then
