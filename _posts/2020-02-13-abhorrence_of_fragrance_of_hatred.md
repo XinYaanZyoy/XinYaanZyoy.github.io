@@ -1,3 +1,8 @@
+---
+layout: post
+title: abhorrence_of_fragrance_of_hatred
+date: Thu Feb 13 12:56:00 UTC 2020
+---
 A THOUGHT, and AN IDEA are those metaphysical elements of this existence, which escalates to all the possible physical surrounding of 
 source point isotropically in a fraction of a blink, may your thought or an idea be of LOVE!
 
