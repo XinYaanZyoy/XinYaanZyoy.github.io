@@ -1,3 +1,8 @@
+---
+layout: post
+title: incomprehensibility_of_human_knowledge
+date: Fri Feb 14 12:43:08 UTC 2020
+---
 what is it that you don't know of this world? you're the creator, flower, educator, giver, helper, enhancer, modifier, and annihilator,
 indeed you're the knowledge itself, you're the part of knowledge, and the knowledge is part of you, the knowledge within and outside this
 realm is you, the realm itself is you, you're not eternal, it's the origin of yours which is eternal, i bow down to that eternal brahman!
@@ -32,3 +37,4 @@ special theory of relativity, i realie that it's almost impossible to formalize 
 is an absolute stupidity, i thus hereby declare the existence of incomprehensibility of human knowledge within the sphere of this realm of 
 physicality, you must know wheather i'm on an approriate conclusion, let mine and of the whole of mother earth have guidence of yours in
 this particular problem or incompleteness of truth, please make me; personally, like sleeping!
+<p align="right">- your scion, XinYaanzyoy</p>
