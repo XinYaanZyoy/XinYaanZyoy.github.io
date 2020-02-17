@@ -1,3 +1,8 @@
+---
+layout: post
+title: TAAB_vs_BOT
+date: Mon Feb 17 01:50:19 UTC 2020
+---
 # Teaching as a business vs business of teaching
 
 while it's been the culture of india to relinquish the materialistic world in order to gain knowledge, the india of today is in contrast
@@ -38,3 +43,4 @@ mother, it's time; the 21st century, for you to flow in within us and purify us 
 i know things will happen the way this time(which is metaphysical, unlike the time which manifests from cycles or periods of physical objects),
 and this flow of brahman wants, i herby prey for the whole world; for the greater good og the knowledge of sons and daughters of the mother earth;
 to you, let the 21st century bring peace on planet through your eternal gift; namely knowledge and wisdom.
+<p align="right">- your scion, XinYaanzyoy</p>
