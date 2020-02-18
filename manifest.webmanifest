@@ -1,0 +1,10 @@
+{
+    "name": "XinYaanZyoy",
+    "short_name": "XinYaanZyoy",
+    "start_url": "/?utm_source=homescreen",
+    "background_color": "#000",
+    "theme_color": "grey",
+    "display": "standalone",
+    "orientation": "portrait",
+    "gcm_sender_id": "103953800507"
+  }
