@@ -1,3 +1,8 @@
+---
+layout: post
+title: A_life_full_of_misinterpreted_actions
+date: Wed Mar  4 11:43:20 UTC 2020
+---
 Hola! Finally I visited Isha Temple, I felt your presence in there, as a consequence I bought 7 books; all written by sadhguru himself i think, from isha life!
 
 **I found Tamil people more peaceful** but ofc I'm a bit scared in generalizing this statement! They were polite, humble, and of great rationality in their actions! Btw the main reason to travel from Punjab to Ramilnadu was the Aero Design Challenge, but I learnt more about the fundamentals of life throughout the journey(I'm on my return journey, and am somewhere in MP)than the science or mathematics! I wish I could sequentially write all those incidents; though I'll try my best to do so in this letter, but it seems illogical to go through each nodes and analyze, since if the expectation was to have conclusion there certainly is no need of the process being undertaken, but it's to be noted that it then doesn't imply that the value of process is null; since the conclusion is a function of process, I'm here going to assume that the process I went through or the all the details of all those incidents happened this week is to be nullified by *THE GREAT PARADOX OF OBSERVATION*; that is an assumption that my all the observations or learnings were in fact the forms of THE TRUTH!
@@ -23,3 +28,4 @@ Travelling in train has many associated challenges for me, one of those being "I
 My compassion problem will always put me in these kind of situations in future I know since I've been all these situations only due to my compassion and not communication problem, it's another thing that expression of compassion includes verbal communication but when verbal communication takes the form of rationalism, even if there's compassion it hides itself within the very words of statements!
 
 May you bless all with the wisdom of compassion within the very knowledge of yours 🤛🏼😊💜
+<p align="right">- your scion, XinYaanzyoy</p>
