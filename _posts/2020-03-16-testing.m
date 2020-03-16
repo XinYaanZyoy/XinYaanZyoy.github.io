@@ -1,3 +1,8 @@
+---
+layout: post
+title: testing
+date: Mon Mar 16 08:51:15 UTC 2020
+---
 # this is my post!!!!
 - onw
 - gr
@@ -21,3 +26,4 @@ dtr
  [] rgujerh
  
  ![](https://xinyaanzyoy.me/favicon.ico)
+<p align="right">- your scion, XinYaanzyoy</p>
