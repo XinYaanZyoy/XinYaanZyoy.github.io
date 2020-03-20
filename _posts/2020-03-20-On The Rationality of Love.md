@@ -8,10 +8,10 @@ date: Fri Mar 20 16:49:30 UTC 2020
 <table>
 <tr>
 <td>
-<img src="https://lh3.googleusercontent.com/proxy/OxMofh_zXY9bnyahkwclR1ZSd0uddYjD-u9AqZfeeBE_3thWBOEIlF9G1d38jbM9MTUENkVqP0Fr_Eq_Vxug4xor5qxOsQdWW_VGLQK5Yt-nybOT4jw"/>
+<img src="assets/saraswati.png"/>
 </td>
 <td>
-<img src="https://lh3.googleusercontent.com/proxy/h8L93SDxdGo7zlJdfjVz1CqncRf_YL5MC2d84PdsjyD1f8opM-NmMEzYdPT_BVnL8uTPygCiPUkoJEeHQblED23-0N8yndnNJXEVFpnn2cf95WjUTiEgz9S6Su2lZOnE8PwiHNzW6lzc7l2-">
+<img src="assets/radhakrishna.png">
 </td>
 </tr>
 </table>
