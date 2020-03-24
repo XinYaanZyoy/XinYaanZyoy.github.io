@@ -3,6 +3,9 @@ layout: default
 title: My Thoughts
 permalink: /thoughtcollection/
 ---
+- *WhatsApp Archives*
+  - <a href="/WhatsApp_Archives.html">Gallary of Stories</a>
+ 
 - *Facebook Archives*
   **NOTE: this will open my albums on FB, kindly click on Feed view to see posts.**
   - <a href="https://www.facebook.com/49yatriyaan.love/media_set?set=a.1949884061925978&type=3" target="_blank">theology and philosophy</a>
