@@ -3,10 +3,4 @@ layout: default
 title: My Karma
 ---
 
-<div>
-{% for image in site.static_files %}
-{% if image.path contains 'images/slider' %}
-<img src="{{ site.baseurl }}{{ image.path }}" alt="image" />
-{% endif %}
-{% endfor %}
-</div>
+{% include image-gallery.html folder="/uploads/album" %}
