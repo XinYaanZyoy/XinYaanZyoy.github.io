@@ -1,7 +1,7 @@
 ---
 layout: default
-title: My Thoughts
-permalink: /thoughtcollection/
+title: Thoughts
+permalink: /thoughts/
 ---
 - *WhatsApp Archives*
   - <a href="/WhatsApp_Archives.html">Gallary of Stories</a>
