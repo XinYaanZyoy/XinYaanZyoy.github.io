@@ -1,7 +1,7 @@
 ---
 layout: default
-title: XinYaanZyoy
-author: XinYaanZyoy
+title: 心言自由(XinYaanZyoy)
+author: 心言自由(XinYaanZyoy)
 ---
 TO WHOM I MAY CONCERN,
 
