@@ -1,0 +1,1 @@
+1. chronology defenately helps; to put the theory intuatively in order, and to treat arguments in a systematic ways, but that choronology must not be of the history; but of "rational deduction", since "Written History" is always ambiguous no matter how one tries to put it!
