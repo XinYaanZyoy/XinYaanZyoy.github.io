@@ -1,7 +1,9 @@
 name: transformation
 
-on: [push]
-
+on: 
+  push:
+    paths: 
+      - 'posts/**'
 jobs:
   build:
     runs-on: ubuntu-latest   
