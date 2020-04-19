@@ -1,4 +1,5 @@
 ---
+layout: default
 title: random thoughts
 permalink: /random_thoughts/
 ---
