@@ -14,6 +14,20 @@ url: "https://XinYaanZyoy.github.io" # the base hostname & protocol for your sit
 twitter_username: XinYaanZyoy
 github_username:  XinYaanZyoy
 
+resume:
+#   - type:
+#     heding:
+#     subheading:
+#     duration:
+#     location:
+#     content:
+  - type: Computer Sci.
+    heading: Software
+    subheading: Xbooks
+    duration: 2018-2019
+    location:
+    content: 🐍📓➡️🌐 | SCIENTIFIC 🔬📔 BLOGGING | turn your jupyter notebook project into an educational eLibrary for next generation! | https://xsoft-technologies.github.io/Xbooks
+
 # Build settings
 theme: minima
 plugins:
