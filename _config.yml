@@ -29,7 +29,7 @@ resume:
     content: 🐍📓➡️🌐 | SCIENTIFIC 🔬📔 BLOGGING | turn your jupyter notebook project into an educational eLibrary for next generation! | https://xsoft-technologies.github.io/Xbooks
 
 # Build settings
-theme: minima
+theme: jekyll-theme-hacker
 plugins:
   - jekyll-feed
 layout: default
