@@ -1,0 +1,94 @@
+---
+layout: default
+title: resume
+permalink: /resume1/
+---
+
+<div class="container resume-content">
+      <nav class="navbar navbar-default hidden-print hidden-xs" role="navigation">
+        <div class="resume-nav">
+          <div class="dropdown resume-dropdown">
+            <button type="button" class="dropdown-toggle btn btn-default" data-toggle="dropdown" role="button" aria-expanded="false">Theme <span class="caret"></span></button>
+            <ul class="dropdown-menu resume-dropdown-menu" role="menu">
+              <li><a href="#" id="default">Default</a></li>
+              <li><a href="#" id="red">Red</a></li>
+              <li><a href="#" id="pink">Pink</a></li>
+              <li><a href="#" id="brown">Brown</a></li>
+              <li><a href="#" id="blue">Blue</a></li>
+              <li><a href="#" id="purple">Purple</a></li>
+              <li><a href="#" id="teal">Teal</a></li>
+              <li><a href="#" id="green">Green</a></li>
+            </ul>
+          </div>
+          <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#saveAsPdf">
+            Save as PDF
+          </button>
+          <div class="modal fade" id="saveAsPdf" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+            <div class="modal-dialog">
+              <div class="modal-content">
+                <div class="modal-body">
+                  <img src="{{ "/images/resume_print_dialog.png" | prepend:site.baseurl }}" class="img-rounded" width="400" height="342">
+                  <p>Warning: Kindly download from chrome for good quality</p>
+                </div>
+                <div class="modal-footer">
+                  <button onclick="window.print()" class="btn btn-primary">Open Print Dialog</button>
+                  <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </nav>
+      <div class="row">
+        <div class="col-sm-8 clearfix">
+          <figure class="resume-pic">
+            <img src="{{ site.data.resume.photo }}" class="img-rounded" width="120" height="120">
+          </figure>
+          <div class="resume-baseinfo">
+            <h1>{{ site.data.resume.name }}</h1>
+            <p>{{ site.data.resume.copy }}</p>
+          </div>
+        </div>
+        <div class="col-sm-4 resume-contact">
+          {% include resume_nav.html %}
+        </div>
+      </div>
+      <div class="row">
+        {% for card in site.posts reversed %}
+          <div class="col-sm-4">
+            <div class="panel panel-default">
+              <div class="panel-heading">
+                <h3 class="panel-title">{{ card.type }}</h3>
+              </div>
+              <div class="panel-body">
+                {% if card.heading %}
+                  <h4>
+                    {{ card.heading }}
+                  </h4>
+                {% endif %}
+                {% if card.subheading %}
+                  <p class="resume-subheading">
+                    {{ card.subheading }}
+                  </p>
+                {% endif %}
+                {% if card.duration %}
+                  <p class="resume-duration">
+                    {{ card.duration }}
+                  </p>
+                {% endif %}
+                {% if card.location %}
+                  <p class="resume-location">
+                    {{ card.location }}
+                  </p>
+                {% endif %}
+                {{ card.content }}
+              </div>
+            </div>
+          </div>
+        {% endfor %}
+      </div>
+      </div>
+      
+      <script src="{{ "/javascripts/jquery.min.js" | prepend:site.baseurl }}"></script>
+    <script src="{{ "/javascripts/bootstrap.min.js" | prepend:site.baseurl }}"></script>
+    <script src="{{ "/javascripts/resumecards.js" | prepend:site.baseurl }}"></script>
