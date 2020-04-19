@@ -121,8 +121,8 @@ $space-lg: 30px;
 /*++ Base Tags +++++++++++++++++++++++*/
 
 body {
-  background-color: $color-bg;
-  color: $color-text;
+  background-color: #222222;
+  color: #FAFAFAt;
 
   @each $color-name in $color-list {
     &.theme-#{$color-name} {
