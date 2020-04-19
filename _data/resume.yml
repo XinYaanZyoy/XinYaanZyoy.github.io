@@ -5,8 +5,8 @@ demo: false
 # you don't have to restart Jekyll to see changes.
 
 photo: "https://avatars2.githubusercontent.com/u/32465479?s=460&v=4"
-name: "Parth Patel (XinYaanZyoy, 心言自由)"
-copy: "I'm a metaphysicist!"
+name: "XinYaanZyoy, 心言自由"
+copy: "I'm a metaphysicist, that is the mathematics and philosophy of metaphysical objects, also study physics, mathematics, philosophy, astronomy, computer science, technologies, and engineering!"
 
 # Color scheme based on http://www.materialui.co/colors.
 # Possible values:
@@ -18,4 +18,4 @@ copy: "I'm a metaphysicist!"
 # - purple
 # - teal
 # - green
-color: default
+color: purple
