@@ -8,10 +8,10 @@ date: Fri Mar 20 16:49:30 UTC 2020
 <table>
 <tr>
 <td>
-<img src="/assets/images/saraswati.png"/>
+<img src="/assets/images/posts/saraswati.png"/>
 </td>
 <td>
-<img src="/assets/images/radhakrishna.png">
+<img src="/assets/images/posts/radhakrishna.png">
 </td>
 </tr>
 </table>

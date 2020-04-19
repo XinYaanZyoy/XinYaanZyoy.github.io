@@ -1,4 +1,4 @@
-name: transformation
+name: entrier
 
 on: 
   push:
@@ -9,7 +9,7 @@ jobs:
     runs-on: ubuntu-latest   
     steps:
     - uses: actions/checkout@v1
-    - name: runnning transformation script
+    - name: making a diary entry
       env: 
         GH_PAT: ${{secrets.GH_PAT}}
-      run: make transform
+      run: bash scripts/transform.sh

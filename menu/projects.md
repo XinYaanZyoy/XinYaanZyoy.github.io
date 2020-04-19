@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Karma
-permalink: /karma/
+title: Projects
+permalink: /projects/
 ---
 
 ## Present projects
