@@ -11,3 +11,4 @@ permalink: /random_thoughts/
 6. > Irrationality is not the opposite of Rationality but the Absence of Rationality!
 7. > Love has never been Irrational, but neither is it Rational! it's just beyond it!
 8. > YOU HATE THE SCIENCE, MATHEMATICS, OR ENGINEERING! if you start attending the "Professional" lectures; but when you realize that your science or mathematics or engineering professor is not a scientist or a mathematician or an engineer him/herself, you begin to realize that "YOU HAVE TO LEARN AND FIGURE IT OUT YOURSLEF", and you do the same, and as a result YOU LOVE THE SCIENCE, MATHEMATICS, OR ENGINEERING!
+9. > just as memorizing is not same as understanding, understanding/learning is not same as memorizing! memories of the learnt things might have been deleted but it always can be recreated with conscious thoughts but the same is not true for memorized things!
