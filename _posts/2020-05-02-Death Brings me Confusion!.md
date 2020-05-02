@@ -3,8 +3,6 @@ layout: post
 title: Death Brings me Confusion!
 date: Sat May  2 12:34:02 UTC 2020
 ---
-Death Brings me Confusion!
-
 hey there! I don't know if I'm that but I for sure know this is not me!, what is this? and why would I be that if I'm here? I know that you have answers to these questions because I think you're the one who brought these questions to my knowledge!
 
 Louis wanted to order pizza, i searched on the internet but there are no restaurants placing orders due to the lockdown, so i suggested; since he was hungry due to not having the food of his preference here i guessed, to go to the restaurant opposite to our hostel, we went out, and a security guard came with us; "hostel rules!", a dog followed us, actually people are saying it was following me since it was licking my legs! i yelled few times while on the way "why the hell is this dog following me?", the dog went away from me but came back again!
