@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A_life_full_of_misinterpreted_actions
+title: A life full of misinterpreted actions
 date: Wed Mar  4 11:43:20 UTC 2020
 ---
 Hola! Finally I visited Isha Temple, I felt your presence in there, as a consequence I bought 7 books; all written by sadhguru himself i think, from isha life!
