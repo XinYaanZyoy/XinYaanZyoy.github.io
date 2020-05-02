@@ -1,6 +1,6 @@
 ---
 layout: post
-title: a_day_of_no_sleep
+title: a day of no sleep
 date: Wed Sep  4 22:25:09 UTC 2019
 ---
 hereby i begin that lifelong journey with you!
