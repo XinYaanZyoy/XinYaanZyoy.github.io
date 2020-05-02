@@ -1,6 +1,6 @@
 ---
 layout: post
-title: need_of_Educational_Education
+title: need of Educational Education
 date: Thu Sep  5 18:37:13 UTC 2019
 ---
 nice to have you and apologize for being filthy!
