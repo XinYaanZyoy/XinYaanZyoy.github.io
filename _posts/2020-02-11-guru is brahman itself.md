@@ -1,6 +1,6 @@
 ---
 layout: post
-title: guru_is_brahman_itself
+title: guru is brahman itself
 date: Tue Feb 11 23:24:34 UTC 2020
 ---
 with all due respect; ma, your childrens here on earth are becoming GURUs, teachers, professors and what not without having either 
