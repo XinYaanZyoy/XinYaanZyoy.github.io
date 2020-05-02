@@ -1,6 +1,6 @@
 ---
 layout: post
-title: TAAB_vs_BOT
+title: TAAB vs BOT
 date: Mon Feb 17 01:50:19 UTC 2020
 ---
 # Teaching as a business vs business of teaching
