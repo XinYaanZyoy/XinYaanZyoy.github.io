@@ -1,6 +1,6 @@
 ---
 layout: post
-title: incomprehensibility_of_human_knowledge
+title: incomprehensibility of human knowledge
 date: Fri Feb 14 12:43:08 UTC 2020
 ---
 what is it that you don't know of this world? you're the creator, flower, educator, giver, helper, enhancer, modifier, and annihilator,
