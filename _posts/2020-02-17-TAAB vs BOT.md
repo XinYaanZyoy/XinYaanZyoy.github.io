@@ -3,7 +3,7 @@ layout: post
 title: TAAB vs BOT
 date: Mon Feb 17 01:50:19 UTC 2020
 ---
-# Teaching as a business vs business of teaching
+Teaching as a business vs business of teaching
 
 while it's been the culture of india to relinquish the materialistic world in order to gain knowledge, the india of today is in contrast
 giving rise to associated hopes and dreams of materialistic world to come true!, today's students are (generally speaking) slave of their 
