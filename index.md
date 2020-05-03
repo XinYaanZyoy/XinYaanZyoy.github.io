@@ -24,5 +24,6 @@ by the way if you're either student or master of science, kindly acquaint me; i 
 
 <p align="right">Sincearly, <a href="/whoami/">心言自由 (XinYaanZyoy)</a>; An Explorer of Existence!</p>
 
-## My Pledgement
+### My Pledgement
+____________________________
 > Every Societal problems; i believe, can be solved by rational Communication, which; i think, can only be accomplished by Education, The Pure, True, and Sure Education, which is possible only if there's Love of People and Hunger of Truth, which can be triggered by Wisdom and Freedom of Love, The Love of this knid faints the physical boundries and assets, I herby take pledge that, "i'll always be working for the greater good of the next generation and its education especially, establishment of a new reformed, evolved, and flexible Educational Culture will always be my first priority, Freedom of Choice being the theme of this Culture will provide a free way of life."
