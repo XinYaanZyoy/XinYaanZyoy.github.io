@@ -3,7 +3,7 @@ layout: default
 title: Who AM I?
 permalink: /whoami/
 ---
-i call myself Metaphysicist, because all that i do and for what i do is all destined to that moment(which i think i'd ever be able to posses) which would make me understand this existence; especially that metaphysical side of it which just fascinates!
+i call myself Metaphysicist, because all that i do and for what i do is all destined to that moment which would make me understand this existence; especially that metaphysical side of it which just fascinates me!
 
 currently i'm a student of Aerospace Engineering.
 
@@ -19,14 +19,14 @@ _____
 and many ...
 
 _____
-> #### i'm lacking few skills too! (which i don't really would like to posses ever actually)
+> #### i'm lacking few skills too! (which i don't really would like to posses ever)
 - time management (i literally can't manage time, i work, work, and work, i don't care if it's right time to do!)
 - routine irregularity (i have no routine!)
 - i "think" more than i read! (this thing has failed me exams!)
 and many ...
 
 
-checkout my [collection of thoughts](/thoughtcollection) to have a perspective of my thoughts!
+checkout my [collection of thoughts](/thoughts) to have a perspective of my thoughts!
 
 _____
 
@@ -45,12 +45,13 @@ but here's what i think i ain't,
 - Scientist, that's a name recognized by my mid school classmates.
 - Pythagoras, that's a name recognized by my junior high classmates.
 - Astronaut, that's a name recognized by my past residential surrounding people.
+- Einstine, that's  a name recognized by my college classmates.
 
 so, i've no name, then how do one identify me?
 none needs to!
 because, they(my physical surrounding) always try to identify what i ain't, not what i'm!
 
-and hens i need to clarify here what i actually am! as mentioned before; i don't know! but let me try to list down what i think i really am and am not...
+and hence i need to clarify here what i actually am! as mentioned before; i don't know! but let me try to list down what i think i really am and am not...
 > ### I ...
 - ain't physical body, of which radiation you'd observe,
 - ain't mouth words, of which sound you'd hear,
@@ -61,11 +62,10 @@ and hens i need to clarify here what i actually am! as mentioned before; i don't
 - ain't in a form you're seeking,
 - ain't living that you'd see me die,
 - ain't posses space that you'd vicinage,
-- am devoid of memories,
-- am there where you aren't,
+- am bunch of memories,
 - am an infinite sub existence,
 - am a mortally immortal wave,
 - am that what you're.
 
-read my [diary](/mydiary/), notebook [KoHam](/KoHam/) to understand me, my thoughts and non-standardized theories!
+read my [diary](/diary/), notebook [KoHam](/KoHam/) to understand me, my thoughts and non-standardized theories!
 <p align="right">- sincerely, XinYaanZyoy; an information Explorer!</p>
