@@ -16,3 +16,5 @@ permalink: /random_thoughts/
 11. > i just realizzed the reason why i fail exams; "i feel better with logical order of thoughts and abstract objects"!
 12. > since last few years all my thoughts and insights of existence is being percieved in terms of vector space like "abstract space", and i'm afraid if these objects becomes my "unforgettable" memories, i won't be able to experience this life the way it is!
 13. > No matter what certificate or degree of a topic one brings in, it is always possible to prove that there's an ambiguity in one's understanding of the same! And if the topic was science or rationally oriented discipline then the proof depicts the failure of assurance of knowledge by certificate or degree!
+14. > Creativity, artistic thoughts, and love are the most judged things, and this education system even tries to assign a "number" or "grade" to it! That's insane! How are you going to assign a number to the mind which is producing enormous amount of thoughts and idea?
+DO NOT ASSIGN NUMBER AND JUDGE THE ART AND CREATIVITY, if you keep doing it, I'll rise with the loudest roar and destroy your whole system!
