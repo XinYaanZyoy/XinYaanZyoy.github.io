@@ -12,4 +12,4 @@ jobs:
     - name: making a diary entry
       env: 
         GH_PAT: ${{secrets.GH_PAT}}
-      run: bash scripts/transform.sh
+      run: bash scripts/entrier.sh
