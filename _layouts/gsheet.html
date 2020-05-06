@@ -19,8 +19,8 @@
      	arr = JSON.parse(data).feed.entry;
 	div = document.getElementById("reslist");
 	     for(let i=3; i<=arr.length; i++){
-		if(cell["col"] == "2"){
-			text = arr[i]["gs$cell"];
+		if(arr[i]["gs$cell"]["col"] == "2"){
+			text = arr[i]["gs$cell"]["$t"];
 			author = arr[i+1]["gs$cell"]["$t"];
 			p = document.createElement("p");
 			txt = document.createTextNode(text+" - "+author);
