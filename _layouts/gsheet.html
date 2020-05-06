@@ -16,7 +16,8 @@
 	
      <script>
      function listEntries(data){
-     console.log(JSON.parse(data));
+     dataobj = JSON.parse(data);
+     console.log(dataobj);
      }
 	var xmlHttp = new XMLHttpRequest();
 	xmlHttp.onreadystatechange = function() { 
