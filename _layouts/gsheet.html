@@ -23,7 +23,7 @@
 			text = arr[i]["gs$cell"]["$t"];
 			author = arr[i+1]["gs$cell"]["$t"];
 			p = document.createElement("p");
-			txt = document.createTextNode(text+" - "+author);
+			txt = document.createTextNode("\""+text+"\""+" - "+author);
 			p.appendChild(txt);
 			div.appendChild(p);
 			console.log(text, author);
