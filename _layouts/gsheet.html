@@ -15,12 +15,17 @@
 	<link rel="manifest" href="manifest.webmanifest">
 	
      <script>
-     var xmlHttp = new XMLHttpRequest();
-     xmlHttp.onreadystatechange = function() { 
-	if (xmlHttp.readyState == 4 && xmlHttp.status == 200)
-		console.log(xmlHttp.responseText);
+     function listEntries(data){
+     console.log(data);
+     }
+	var xmlHttp = new XMLHttpRequest();
+	xmlHttp.onreadystatechange = function() { 
+    		if (xmlHttp.readyState == 4 && xmlHttp.status == 200){
+        		text = xmlHttp.responseText.substring(28);
+        		listEntries(text.substring(0, text.length-2));
+		}
 	}
-     xmlHttp.open("GET", "https://spreadsheets.google.com/feeds/cells/{{page.gSheetID}}/1/public/values?alt=json-in-script", true); 
+     xmlHttp.open("GET", "https://spreadsheets.google.com/feeds/cells/1cFs1W__5oS9Qlz3tgS1WtK2ppsvEEAPj-rjGmrJfo6c/1/public/values?alt=json-in-script&callback=listEntries", true); 
      xmlHttp.send(null);
      </script>
    
