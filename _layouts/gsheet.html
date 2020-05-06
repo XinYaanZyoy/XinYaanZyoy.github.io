@@ -3,14 +3,7 @@
   <head>
     {% include analytics.html %}
     <meta charset="utf-8">
-    <title>{{ page.title }}</title>
-  
-  <script>
-  function listEntries(spreadsheetdata) {
-    console.log(spreadsheetdata);
-  }
-  </script>
-  
+    <title>{{ page.title }}</title>  
     {% if page.image %}
 	<meta property="og:image" content="{{page.image}}">
     {% else %}
@@ -21,7 +14,15 @@
      <!-- Web Application Manifest -->
 	<link rel="manifest" href="manifest.webmanifest">
 	
-   <script src="https://spreadsheets.google.com/feeds/cells/{{page.gSheetID}}/1/public/values?alt=json-in-script&callback=listEntries"></script>
+     <script>
+     var xmlHttp = new XMLHttpRequest();
+     xmlHttp.onreadystatechange = function() { 
+	if (xmlHttp.readyState == 4 && xmlHttp.status == 200)
+		console.log(xmlHttp.responseText);
+	}
+     xmlHttp.open("GET", "https://spreadsheets.google.com/feeds/cells/{{page.gSheetID}}/1/public/values?alt=json-in-script", true); 
+     xmlHttp.send(null);
+     </script>
    
 	<!-- Add to homescreen for Chrome on Android -->
 	<meta name="mobile-web-app-capable" content="yes">
