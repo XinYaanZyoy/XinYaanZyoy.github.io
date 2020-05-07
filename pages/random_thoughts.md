@@ -3,6 +3,7 @@ layout: default
 title: random thoughts
 permalink: /random_thoughts/
 ---
+- > When you go against your professor, and lose respect from his/her eyes, and when some magic happens and professor comes to you and apologizes, that moment neither do you love nor do you hate him/her, neither do you feel great nor do you feel loser, that's the moment the world ends and you feel that you are now finally capable of understanding him/her!
 - > Deductions and Emotions, I'm flowing in the ocean of which tidal phases are deductions and emotions, I'm Oscillating betwixt both, I've spent a lot of time understanding emotions and feeling deductions, and even the usual converse, BUT I'm A TOTAL FAILURE TO EITHER SNUB OR BEFRIEND THESE TWO DEMONS OF MY EXISTENCE!
 - > chronology defenately helps; to put the theory intuatively in order, and to treat arguments in a systematic ways, but that choronology must not be of the history; but of "rational deduction", since "Written History" is always ambiguous no matter how one tries to put it!
 - > GOD must be lazy enough to forget the documentation part of the creation!
