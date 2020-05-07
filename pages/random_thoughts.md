@@ -3,6 +3,7 @@ layout: default
 title: random thoughts
 permalink: /random_thoughts/
 ---
+- > 我不怕死, 我怕回忆!
 - > Life begins when foe becomes friend, and ends when self vanishes!
 - > the source of the knowledge is an important factor of progress, the information gained from original sources might take some time to digest but that's the only we to reach the truth instead of reading some textbooks or "factbook"!
 - > When you go against your professor, and lose respect from his/her eyes, and when some magic happens and professor comes to you and apologizes, that moment neither do you love nor do you hate him/her, neither do you feel great nor do you feel loser, that's the moment the world ends and you feel that you are now finally capable of understanding him/her!
