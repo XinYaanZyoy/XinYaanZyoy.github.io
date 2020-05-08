@@ -3,6 +3,7 @@ layout: default
 title: random thoughts
 permalink: /random_thoughts/
 ---
+- > i put a hypothesis that "understanding this existence" is "a" conclusion of the hypothesis "understanding observer", and put a lemma to it that the hypothesis "understanding observer" is equivlent to the conclusion "understanding this existence" in a subspace of a larger space consisting of "understanding everything(means nothing is unknown!)", and hense the converse of the statement "understanding an observer means understanding this existence" is not true either from logic or from the deduction of the hypothesis.
 - > 我不怕死, 我怕回忆!
 - > Life begins when foe becomes friend, and ends when self vanishes!
 - > the source of the knowledge is an important factor of progress, the information gained from original sources might take some time to digest but that's the only we to reach the truth instead of reading some textbooks or "factbook"!
