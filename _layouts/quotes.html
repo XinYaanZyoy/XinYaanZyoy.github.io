@@ -39,10 +39,6 @@
   }
 </style>
 <script>
-if(document.location.href.includes("#")){  
-	ScrollToResolver(document.querySelectorAll("a[href='"+document.location.href.substring(document.location.href.lastIndexOf("#"))+"']")[0]);
-}
-
 function ScrollToResolver(elem) {
   var jump = parseInt(elem.getBoundingClientRect().top * .2);
   document.body.scrollTop += jump;
@@ -56,6 +52,12 @@ function ScrollToResolver(elem) {
   } else {
     elem.lastjump = null;
   }
+}
+
+window.onload = function(){
+	if(document.location.href.includes("#")){  
+		ScrollToResolver(document.querySelectorAll("a[href='"+document.location.href.substring(document.location.href.lastIndexOf("#"))+"']")[0]);
+	}
 }
 </script>
 
