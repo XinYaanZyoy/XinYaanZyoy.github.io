@@ -3,6 +3,13 @@ layout: default
 title: random thoughts
 permalink: /random_thoughts/
 ---
+<style>
+  a{
+    color: #FAFAFA;
+    text-decoration: none;
+  }
+</style>
+
 - > [i put a hypothesis that "understanding this existence" is "a" conclusion of the hypothesis "understanding observer", and put a lemma to it that the hypothesis "understanding observer" is equivlent to the conclusion "understanding this existence" in a subspace of a larger space consisting of "understanding everything(means nothing is unknown!)", and hense the converse of the statement "understanding an observer means understanding this existence" is not true either from logic or from the deduction of the hypothesis.](#20)
 - > [我不怕死, 我怕回忆!](#19)
 - > [Life begins when foe becomes friend, and ends when self vanishes!](#18)
