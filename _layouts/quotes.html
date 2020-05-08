@@ -39,13 +39,10 @@
   }
 </style>
 <script>
-if(document.location.href.includes("#")){
-	ScrollTo(document.location.href.substring(document.location.href.lastIndexOf("#")));
+if(document.location.href.includes("#")){  
+	ScrollToResolver(document.querySelectorAll("a[href='"+document.location.href.substring(document.location.href.lastIndexOf("#"))+"']")[0]);
 }
-function ScrollTo(name) {
-  //init thread
-  ScrollToResolver(document.getElementById(name));
-}
+
 function ScrollToResolver(elem) {
   var jump = parseInt(elem.getBoundingClientRect().top * .2);
   document.body.scrollTop += jump;
