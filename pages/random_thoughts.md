@@ -26,3 +26,4 @@ permalink: /random_thoughts/
 1. > [Creativity, artistic thoughts, and love are the most judged things, and this education system even tries to assign a "number" or "grade" to it! That's insane! How are you going to assign a number to the mind which is producing enormous amount of thoughts and idea?
 DO NOT ASSIGN NUMBER AND JUDGE THE ART AND CREATIVITY, if you keep doing it, I'll rise with the loudest roar and destroy your whole system!](#1)
 0. > [Unfortunately there still are people (even the students) who believes in grading systems, I must say that these people are vision-less or at least blind of the vision! They've no purpose at all! They're just TRYING TO SURVIVE! Nothing wrong in it, it's understandable and natural but even after making them aware of it if they don't realize, it's called an ANIMAL MIND!](#0)
+{: reversed="reversed"}
