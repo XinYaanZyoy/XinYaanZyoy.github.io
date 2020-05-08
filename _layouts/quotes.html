@@ -1,0 +1,51 @@
+<!doctype html>
+<html>
+  <head>
+    {% include analytics.html %}
+    <meta charset="utf-8">
+    <title>{{ page.title }}</title>
+    {% if page.image %}
+	<meta property="og:image" content="{{page.image}}">
+    {% else %}
+	<meta property="og:image" content="{{site.logo}}">
+    {% endif %}
+    <link rel="stylesheet" href="/assets/css/retro.css">
+    {% feed_meta %}
+     <!-- Web Application Manifest -->
+	<link rel="manifest" href="manifest.webmanifest">
+	
+	<!-- Add to homescreen for Chrome on Android -->
+	<meta name="mobile-web-app-capable" content="yes">
+	<meta name="application-name" content="XinYaanZyoy">
+	<meta name="theme-color" content="grey">
+	
+	<!-- Add to homescreen for Safari on iOS -->
+	<meta name="apple-mobile-web-app-capable" content="yes">
+	<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+	<meta name="apple-mobile-web-app-title" content="XinYaanZyoy">
+	<meta name="apple-mobile-web-app-status-bar-style" content="grey">
+	
+	<!-- Tile icon for Win8 -->
+	<meta name="msapplication-TileColor" content="grey">
+	<meta name="msapplication-navbutton-color" content="grey">
+    {% seo %}
+    {% include adsense.html %}
+  	<script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+    
+    <style>
+  a{
+    color: #FAFAFA;
+    text-decoration: none;
+  }
+</style>
+
+  </head>
+  <body>
+    {% include navigation.html %}
+    <main class="page-content" aria-label="Content">
+      <div class="wrapper">
+        {{ content }}
+      </div>
+    </main>
+  </body>
+</html>
