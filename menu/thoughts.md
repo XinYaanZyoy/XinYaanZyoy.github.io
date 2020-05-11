@@ -4,7 +4,7 @@ title: Thoughts
 permalink: /thoughts/
 ---
 - **thoughts Board**
-  - <a href="https://www.noteboardapp.com/xinyaanzyoythehelperboy">my Ideas and Thoughts on a infographic note board</a>
+  - <a href="https://www.noteboardapp.com/xinyaanzyoythehelperboy">my Ideas and Thoughts on an infographic note board</a>
 - **Random Thoughts**
   - <a href="/random_thoughts">List of Random Thoughts</a>
 - **WhatsApp Archives**
