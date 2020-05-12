@@ -5,7 +5,7 @@ permalink: /random_thoughts/
 ---
 
 0. > [i realize i've been and still am doing things with great mistakes and still naively believe that one day there'll be perfection!](#23)
-0. > [Abstraction is my wife, i love to spend days with her but somehow due to some reasons i've to spend time with her at night too! she is my eternal wife in a sense that if neither of us can exist without another! she even gives me frequent orgasm of thoughts, i'm a little worried about what might people think about us when they'll realize that i exist in a form of their "abstraction"! but this fear actually makes me realize that i'm either alone or nonexistent!](#22)
+0. > [Abstraction is my wife, i love to spend days with her but somehow due to some reasons i've to spend time with her at night too! she is my eternal wife in a sense that neither of us can exist without another! she even gives me frequent orgasm of thoughts, i'm a little worried about what might people think about us when they'll realize that i exist in a form of their "abstraction"! but this fear actually makes me realize that i'm either alone or nonexistent!](#22)
 0. > [i put a hypothesis that "understanding this existence" is "a" conclusion of the hypothesis "understanding observer", and put a lemma to it that the hypothesis "understanding observer" is equivlent to the conclusion "understanding this existence" in a subspace of a larger space consisting of "understanding everything(means nothing is unknown!)", and hense the converse of the statement "understanding an observer means understanding this existence" is not true either from logic or from the deduction of the hypothesis.](#21)
 0. > [我不怕死, 我怕回忆!](#20)
 0. > [Life begins when foe becomes friend, and ends when self vanishes!](#19)
