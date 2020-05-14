@@ -4,6 +4,7 @@ title: random thoughts
 permalink: /random_thoughts/
 ---
 
+0. > [i call them "Barking Dogs" and sometimes "Businessmen" but never "teachers" or "professors", because they've this interesting property, that "they start barking like a dog" (meaning they're not conscious enough to know what they're speaking, understanding it is just beyond their existential scope!) when we are in their "Ilaakaa" (territory), and sometimes "they start selling theories they don't even understand; like a buinessman".](#25)
 0. > [i realize; while reading my past posts, that i'm just finding "a perfect" philosophy to suite "totally" to my current situations and actions, by an egoistic lies!](#24)
 0. > [i realize i've been and still am doing things with great mistakes and still naively believe that one day there'll be perfection!](#23)
 0. > [Abstraction is my wife, i love to spend days with her but somehow due to some reasons i've to spend time with her at night too! she is my eternal wife in a sense that neither of us can exist without another! she even gives me frequent orgasm of thoughts, i'm a little worried about what might people think about us when they'll realize that i exist in a form of their "abstraction"! but this fear actually makes me realize that i'm either alone or nonexistent!](#22)
