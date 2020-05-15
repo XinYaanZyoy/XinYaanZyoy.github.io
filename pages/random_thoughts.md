@@ -3,7 +3,7 @@ layout: quotes
 title: random thoughts
 permalink: /random_thoughts/
 ---
-
+0. > [Why is it that compassion and affection plays a larger role in human communication, be it of any kind, especially the one which is spoken, and even specifically the "rational and successfully productive" communication tends to be more compassionated and affectionate!, WHY?](#26)
 0. > [i call them "Barking Dogs" and sometimes "Businessmen" but never "teachers" or "professors", because they've this interesting property, that "they start barking like a dog" (meaning they're not conscious enough to know what they're speaking, understanding it is just beyond their existential scope!) when we are in their "Ilaakaa" (territory), and sometimes "they start selling theories they don't even understand; like a buinessman".](#25)
 0. > [i realize; while reading my past posts, that i'm just finding "a perfect" philosophy to suite "totally" to my current situations and actions, by an egoistic lies!](#24)
 0. > [i realize i've been and still am doing things with great mistakes and still naively believe that one day there'll be perfection!](#23)
