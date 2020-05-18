@@ -17,7 +17,7 @@ permalink: /engage/
 - [Quora](https://www.quora.com/profile/xin-yaan-zyoy)
 - [Reddit](https://www.reddit.com/user/XinYaanZyoy)
 - [StackExchange](https://stackexchange.com/users/12527545/xinyaanzyoy)
-- [LinkedIn](https://linkedin.com/in/xin-yaan-zyoy-1563b6154)
+- [LinkedIn](https://www.linkedin.com/in/xinyaanzyoy)
 - [VK](http://vk.com/parth0937)
 
 ### listen to me (A life of that mathysicsian) on
