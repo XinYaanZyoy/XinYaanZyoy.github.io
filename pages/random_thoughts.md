@@ -3,6 +3,7 @@ layout: quotes
 title: random thoughts
 permalink: /random_thoughts/
 ---
+0. > [Only two kind of people fail exams in this education system, those who don't want to learn but live, and those who can't live without learning, those who pass exams are those who don't actually care about learning at all!](#28)
 0. > [I'm the most egoistic thing I've ever observed](#27)
 0. > [Why is it that compassion and affection plays a larger role in human communication, be it of any kind, especially the one which is spoken, and even specifically the "rational and successfully productive" communication tends to be more compassionated and affectionate!, WHY?](#26)
 0. > [i call them "Barking Dogs" and sometimes "Businessmen" but never "teachers" or "professors", because they've this interesting property, that "they start barking like a dog" (meaning they're not conscious enough to know what they're speaking, understanding it is just beyond their existential scope!) when we are in their "Ilaakaa" (territory), and sometimes "they start selling theories they don't even understand; like a buinessman".](#25)
