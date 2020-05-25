@@ -3,7 +3,6 @@ layout: quotes
 title: random thoughts
 permalink: /random_thoughts/
 ---
-0. > [ये दुनिया कीसीका सपना है, बोलते हम है उसे सत्यनारायण, सत्य के रास्ते चलते चलते निकले हम है सपने जीने, जब सत्य ही उसका सपना है तो मेरे सपने सत्य कैसे ना हो सके?](#31)
 0. > [Why is it that this person insulted me and cicked me out of the class, in front of the whole class, by saying that i was disturbing the class, though what i did was that i just asked a simple question of ODEs(though i knew the kinda answer i wanted to prove that he didn't knew and was just pretending to be a professor), and the whole class was just watching it happening! why? though outside the class these very same people hate the faculties!](#30)
 0. > [these people here are forcing me to posses the things which I never wanted to! they're asking to posses the degree, possess the name and fame, they're asking to possess the money, and all those garbage! boy why don't you understand simple thing? I don't what the garbage! I want the life! I want to understand it, and that's what I'm working on! if you think I'm failed, I don't really care because my purpose is not to make you understand me! my purpose is to make me understand this existence and hense you too!](#29)
 0. > [Only two kind of people fail exams in this education system, those who don't want to learn but live, and those who can't live without learning, those who pass exams are those who don't actually care about learning at all!](#28)
