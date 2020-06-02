@@ -1,7 +1,7 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7380 64-bit) (preloaded format=pdflatex 2020.3.27)  3 JUN 2020 03:14
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7380 64-bit) (preloaded format=pdflatex 2020.3.27)  3 JUN 2020 03:26
 entering extended mode
-**./XinYaanZyoy.github.io/cv/cv.tex
-(XinYaanZyoy.github.io/cv/cv.tex
+**./XinYaanZyoy.github.io/cv/CV_XinYaanZyoy.tex
+(XinYaanZyoy.github.io/cv/CV_XinYaanZyoy.tex
 LaTeX2e <2020-02-02> patch level 5
 L3 programming layer <2020-03-06>
 (C:\Users\XinYaanZyoy\Downloads\XinYaanZyoy.github.io\cv\moderncv.cls
@@ -555,8 +555,8 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 Package hyperref Info: Option `breaklinks' set `true' on input line 76.
 Package hyperref Info: Option `bookmarksopen' set `true' on input line 76.
 
-(C:\Users\XinYaanZyoy\Downloads\XinYaanZyoy.github.io\cv\cv.aux)
-\openout1 = `cv.aux'.
+No file CV_XinYaanZyoy.aux.
+\openout1 = `CV_XinYaanZyoy.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 76.
 LaTeX Font Info:    ... okay on input line 76.
@@ -745,14 +745,11 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 76.
 LaTeX Info: Redefining \pageref on input line 76.
 LaTeX Info: Redefining \nameref on input line 76.
-
-(C:\Users\XinYaanZyoy\Downloads\XinYaanZyoy.github.io\cv\cv.out)
-(C:\Users\XinYaanZyoy\Downloads\XinYaanZyoy.github.io\cv\cv.out)
 \@outlinefile=\write3
-\openout3 = `cv.out'.
+\openout3 = `CV_XinYaanZyoy.out'.
 
 \makecvtitlepicturebox=\box54
-<pictures/picture.jpg, id=27, 521.95pt x 436.63126pt>
+<pictures/picture.jpg, id=3, 521.95pt x 436.63126pt>
 File: pictures/picture.jpg Graphic file (type jpg)
 <use pictures/picture.jpg>
 Package pdftex.def Info: pictures/picture.jpg  used on input line 105.
@@ -909,24 +906,33 @@ This may cause the page layout to be inconsistent, however.
 ers/XinYaanZyoy/Downloads/XinYaanZyoy.github.io/cv/pictures/picture.jpg>]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 215.
 
-(C:\Users\XinYaanZyoy\Downloads\XinYaanZyoy.github.io\cv\cv.aux)
+(C:\Users\XinYaanZyoy\Downloads\XinYaanZyoy.github.io\cv\CV_XinYaanZyoy.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 215.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 215.
-Package rerunfilecheck Info: File `cv.out' has not changed.
-(rerunfilecheck)             Checksum: D96DB3ACFDBCCCCDF1B8685DE418A1AD;624.
 
+
+Package rerunfilecheck Warning: File `CV_XinYaanZyoy.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `CV_XinYaanZyoy.out':
+(rerunfilecheck)             Before: <no file>
+(rerunfilecheck)             After:  D96DB3ACFDBCCCCDF1B8685DE418A1AD;624.
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
  ) 
 Here is how much of TeX's memory you used:
- 14015 strings out of 480932
- 219184 string characters out of 2897097
- 614715 words of memory out of 3000000
- 29521 multiletter control sequences out of 15000+200000
+ 14002 strings out of 480932
+ 218849 string characters out of 2897097
+ 614612 words of memory out of 3000000
+ 29514 multiletter control sequences out of 15000+200000
  599164 words of font info for 86 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 54i,12n,69p,795b,981s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 54i,12n,69p,807b,981s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Users/XinYaanZyoy/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/lm/lm
 -ts1.enc}{C:/Users/XinYaanZyoy/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvip
 s/lm/lm-ec.enc} <C:\Users\XinYaanZyoy\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/
@@ -948,10 +954,10 @@ b><C:/Users/XinYaanZyoy/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/lm
 1/public/lm/lmsso12.pfb><C:/Users/XinYaanZyoy/AppData/Local/Programs/MiKTeX 2.9
 /fonts/type1/public/lm/lmsso17.pfb><C:/Users/XinYaanZyoy/AppData/Local/Programs
 /MiKTeX 2.9/fonts/type1/public/marvosym/marvosym.pfb>
-Output written on C:\Users\XinYaanZyoy\Downloads\XinYaanZyoy.github.io\cv\cv.pd
-f (1 page, 282141 bytes).
+Output written on C:\Users\XinYaanZyoy\Downloads\XinYaanZyoy.github.io\cv\CV_Xi
+nYaanZyoy.pdf (1 page, 280315 bytes).
 PDF statistics:
- 129 PDF objects out of 1000 (max. 8388607)
+ 110 PDF objects out of 1000 (max. 8388607)
  8 named destinations out of 1000 (max. 500000)
- 28230 words of extra memory for PDF output out of 29859 (max. 10000000)
+ 28182 words of extra memory for PDF output out of 29859 (max. 10000000)
 
