@@ -1,7 +1,7 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7380 64-bit) (preloaded format=pdflatex 2020.3.27)  3 JUN 2020 03:26
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7380 64-bit) (preloaded format=pdflatex 2020.3.27)  3 JUN 2020 05:21
 entering extended mode
-**./XinYaanZyoy.github.io/cv/CV_XinYaanZyoy.tex
-(XinYaanZyoy.github.io/cv/CV_XinYaanZyoy.tex
+**./cv/CV_XinYaanZyoy.tex
+(cv/CV_XinYaanZyoy.tex
 LaTeX2e <2020-02-02> patch level 5
 L3 programming layer <2020-03-06>
 (C:\Users\XinYaanZyoy\Downloads\XinYaanZyoy.github.io\cv\moderncv.cls
@@ -927,12 +927,12 @@ LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
  ) 
 Here is how much of TeX's memory you used:
  14002 strings out of 480932
- 218849 string characters out of 2897097
+ 218805 string characters out of 2897097
  614612 words of memory out of 3000000
  29514 multiletter control sequences out of 15000+200000
  599164 words of font info for 86 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 54i,12n,69p,807b,981s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 54i,12n,69p,785b,981s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Users/XinYaanZyoy/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/lm/lm
 -ts1.enc}{C:/Users/XinYaanZyoy/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvip
 s/lm/lm-ec.enc} <C:\Users\XinYaanZyoy\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/
