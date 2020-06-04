@@ -11,10 +11,10 @@ permalink: /resume
     <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
     <link rel="stylesheet" href="{{ "/assets/stylesheets/resumecards.css" | prepend:site.baseurl }}">
     <title>
-      {% if site.data.resume.demo %}
+      {% if site.resume.demo %}
         ResumeCards, a Markdown based resume generator.
       {% else %}
-        {{ site.data.resume.name }}'s Resume
+        {{ site.resume.name }}'s Resume
       {% endif %}
     </title>
     <!--[if lt IE 9]>
@@ -23,7 +23,7 @@ permalink: /resume
     <![endif]-->
   </head>
   <body>
-    {% if site.data.resume.demo %}
+    {% if site.resume.demo %}
     <div class="hidden-print resume-top">
       <header class="container">
         <div class="row resume-intro">
