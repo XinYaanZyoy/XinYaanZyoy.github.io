@@ -18,7 +18,7 @@ Welcome to this isle of information where i post updates of my life everyday. yo
 hi, i'm 心言自由 (XinYaanZyoy); an Earthian Human Being, who was born, raised, but don't want to die; on earth! if you've landed here and reached to this third para of this boring root page, you're most likely familiar with either my personal life or writtings, so i thank you by this very bottom of my heart for having me in front of you as a bunch of texts!
 
 now since you're still reading this, i want to know you, i want to share my love, may i love you plzz?
-[let me love you the way i do this existence](/letmeloveyou/)
+[let me love you the way i do this existence](/engage/)
 
 by the way if you're either student or master of science, kindly acquaint me; i desperately need some "Rational Love" acquaintance!
 
