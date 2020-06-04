@@ -14,12 +14,7 @@ url: "https://XinYaanZyoy.github.io" # the base hostname & protocol for your sit
 twitter_username: XinYaanZyoy
 github_username:  XinYaanZyoy
 
-resume:
-  demo: false
-  photo: "https://raw.githubusercontent.com/AstroSpaceTech/AstroSpaceTech.github.io/master/assets/images/avatars/XinYaanZyoy.jpg"
-  name: "Parth Patel (XinYaanZyoy)"
-  copy: "I'm a metaphysicist, that is the mathematics and philosophy of metaphysical objects, also study physics, mathematics, philosophy, astronomy, computer science, technologies, and engineering!"
-  # Color scheme based on http://www.materialui.co/colors.
+# Color scheme based on http://www.materialui.co/colors.
   # Possible values:
   # - default
   # - red
@@ -29,13 +24,19 @@ resume:
   # - purple
   # - teal
   # - green
-  color: purple
-    #   - type:
+  
+  #   - type:
     #     heding:
     #     subheading:
     #     duration:
     #     location:
     #     content:
+resume:
+  demo: false
+  photo: "https://raw.githubusercontent.com/AstroSpaceTech/AstroSpaceTech.github.io/master/assets/images/avatars/XinYaanZyoy.jpg"
+  name: "Parth Patel (XinYaanZyoy)"
+  copy: "I'm a metaphysicist, that is the mathematics and philosophy of metaphysical objects, also study physics, mathematics, philosophy, astronomy, computer science, technologies, and engineering!"
+  color: purple
   cards:
     - type: Physics
       heading: QM
