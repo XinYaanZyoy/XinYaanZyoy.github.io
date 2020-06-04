@@ -30,15 +30,13 @@ resume:
   # - teal
   # - green
   color: purple
-  cards:
-    
     #   - type:
     #     heding:
     #     subheading:
     #     duration:
     #     location:
     #     content:
-    
+  cards:
     - type: Physics
       heading: QM
       subheading: Old Quantum theory
