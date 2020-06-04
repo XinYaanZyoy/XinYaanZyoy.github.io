@@ -87,12 +87,12 @@ $all-colors: ("default": ("base": $default-base,
                         "bg": lighten($green-base, 40%),
                         "heading": lighten($green-base, 30%)));
 
-$theme-color: map-get(map-get($all-colors, "{{ site.data.resume.color }}"), "base");
-$theme-sub: map-get(map-get($all-colors, "{{ site.data.resume.color }}"), "sub");
-$theme-text: map-get(map-get($all-colors, "{{ site.data.resume.color }}"), "text");
-$theme-muted: map-get(map-get($all-colors, "{{ site.data.resume.color }}"), "muted");
-$theme-bg: map-get(map-get($all-colors, "{{ site.data.resume.color }}"), "bg");
-$theme-heading: map-get(map-get($all-colors, "{{ site.data.resume.color }}"), "heading");
+$theme-color: map-get(map-get($all-colors, "{{ site.resume.color }}"), "base");
+$theme-sub: map-get(map-get($all-colors, "{{ site.resume.color }}"), "sub");
+$theme-text: map-get(map-get($all-colors, "{{ site.resume.color }}"), "text");
+$theme-muted: map-get(map-get($all-colors, "{{ site.resume.color }}"), "muted");
+$theme-bg: map-get(map-get($all-colors, "{{ site.resume.color }}"), "bg");
+$theme-heading: map-get(map-get($all-colors, "{{ site.resume.color }}"), "heading");
 
 $color-base: $theme-color;
 $color-sub: $theme-sub;
