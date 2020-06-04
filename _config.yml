@@ -15,37 +15,55 @@ twitter_username: XinYaanZyoy
 github_username:  XinYaanZyoy
 
 resume:
-#   - type:
-#     heding:
-#     subheading:
-#     duration:
-#     location:
-#     content:
-  - type: Physics
-    heading: QM
-    subheading: Old Quantum theory
-    duration: 2017-2018
-    content: our physics mam gave me a chance to give 1.5 hrs lec on the transition from Old Quantum theory to New Quantum theory
-  - type: Mathematics
-    heading: Linear Algebra
-    duration: 2017-2018
-    subheading: A playscript on ODEs and LA
-    content: i wrote this 80 pages long play script to discuss about the ODES in basic forms
-  - type: Philosophy
-    heading: Bhagwad Gita
-    subheading: the power of gita
-    content: i wrote a short note on what gives the power to gita according to my understanding
-  - type: Astronomy
-    heading: Start Up
-    duration: 2019-present
-    subheading: AstroSpacetech.in
-    content: i cofounded this startup in which we write articles on Astronomy, Space Sciene, And Technologies and planning to organize events and workshops for scholl students
-  - type: Computer Science.
-    heading: Software Pipeline
-    subheading: Xbooks
-    duration: 2018-2019
-    location:
-    content: 🐍📓➡️🌐 | SCIENTIFIC 🔬📔 BLOGGING | turn your jupyter notebook project into an educational eLibrary for next generation! 
+  demo: false
+  photo: "https://raw.githubusercontent.com/AstroSpaceTech/AstroSpaceTech.github.io/master/assets/images/avatars/XinYaanZyoy.jpg"
+  name: "Parth Patel (XinYaanZyoy)"
+  copy: "I'm a metaphysicist, that is the mathematics and philosophy of metaphysical objects, also study physics, mathematics, philosophy, astronomy, computer science, technologies, and engineering!"
+  # Color scheme based on http://www.materialui.co/colors.
+  # Possible values:
+  # - default
+  # - red
+  # - pink
+  # - brown
+  # - blue
+  # - purple
+  # - teal
+  # - green
+  color: purple
+  cards:
+    
+    #   - type:
+    #     heding:
+    #     subheading:
+    #     duration:
+    #     location:
+    #     content:
+    
+    - type: Physics
+      heading: QM
+      subheading: Old Quantum theory
+      duration: 2017-2018
+      content: our physics mam gave me a chance to give 1.5 hrs lec on the transition from Old Quantum theory to New Quantum theory
+    - type: Mathematics
+      heading: Linear Algebra
+      duration: 2017-2018
+      subheading: A playscript on ODEs and LA
+      content: i wrote this 80 pages long play script to discuss about the ODES in basic forms
+    - type: Philosophy
+      heading: Bhagwad Gita
+      subheading: the power of gita
+      content: i wrote a short note on what gives the power to gita according to my understanding
+    - type: Astronomy
+      heading: Start Up
+      duration: 2019-present
+      subheading: AstroSpacetech.in
+      content: i cofounded this startup in which we write articles on Astronomy, Space Sciene, And Technologies and planning to organize events and workshops for scholl students
+    - type: Computer Science.
+      heading: Software Pipeline
+      subheading: Xbooks
+      duration: 2018-2019
+      location:
+      content: 🐍📓➡️🌐 | SCIENTIFIC 🔬📔 BLOGGING | turn your jupyter notebook project into an educational eLibrary for next generation! 
     
 # CV
 cv:
