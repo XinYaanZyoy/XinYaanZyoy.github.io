@@ -3,6 +3,8 @@ layout: quotes
 title: random thoughts
 permalink: /random_thoughts/
 ---
+0. > [Rigor with beauty is what makes a girl interesting from eyes of my perception!
+I'd rather choose this kinda girl than the beauty of the world or the intelligence of humans!](#37)
 0. > [The more I try to break the chain of random thoughts, I end up having an infinite chain of logically sequential thoughts!](#36)
 0. > [In majority of the conversations I've, my logical questions ends up interested as "my anger"! And my compassion is interpreted as "idiotic action".](#35)
 0. > [I've finally figured it out, "why industry want degrees and certificates?", because they need a proof of your obedience not your intelligence!](#34)
