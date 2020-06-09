@@ -3,6 +3,7 @@ layout: quotes
 title: random thoughts
 permalink: /random_thoughts/
 ---
+0. > [I just can't tolerate the pseudoscience being taught in academia, all the theories, problems, solutions, and examples they include in their syllabus are completely "irrational and nonscientific", if we define science as a deduction from the first principles with rigorously established all the definitions and postulates being used, but instead this academia chooses LAZY way to teach, i.e "this is true and therefore this is true"! Newton's own details are not being provided or even discussed in schools while actually "teaching" newton's laws!](#40)
 0. > [The abstrusity of newton's principia is a symbol of the genius of the very thought processes he has invented, no matter what you believe, I'll always: after having read it raw and from several other authors' commentaries, that he was the greatest geometric; though his analytical skills are also of great value, genius of deductive science known to mankind!](#39)
 0. > [If bipolarized thoughts and information exists in a culture of the digital communication era when the facts are available in the palm, it symbolizes "the fact" that the human mind is seeking a "least actionable way" to get the information, which ofc is most likely to be fake and unreal! And not "most probably true" information.](#38)
 0. > [Rigor with beauty is what makes a girl interesting from eyes of my perception!
