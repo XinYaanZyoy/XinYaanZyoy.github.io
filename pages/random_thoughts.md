@@ -3,6 +3,7 @@ layout: quotes
 title: random thoughts
 permalink: /random_thoughts/
 ---
+0. > [If bipolarized thoughts and information exists in a culture of the digital communication era when the facts are available in the palm, it symbolizes "the fact" that the human mind is seeking a "least actionable way" to get the information, which ofc is most likely to be fake and unreal! And not "most probably true" information.](#38)
 0. > [Rigor with beauty is what makes a girl interesting from eyes of my perception!
 I'd rather choose this kinda girl than the beauty of the world or the intelligence of humans!](#37)
 0. > [The more I try to break the chain of random thoughts, I end up having an infinite chain of logically sequential thoughts!](#36)
