@@ -3,6 +3,7 @@ layout: quotes
 title: random thoughts
 permalink: /random_thoughts/
 ---
+0. > [If you define "success" to be "a moment of positive emotions bursting out of your existence after a long journey of accumulation of all the negative and positive emotions with adventurous action memories", I'm no hungry of such SUCCESSES!](#44)
 0. > [A new entertainment era of web series has already began,
 And a new genre "scientifically infographic nonfiction comedy drama" yet to be born to be the most loved genre of all time even more than "adult" genre! I'd call it "scinfodrama" for short! Definition of which can be given as "drama with informative jokes, actions, and existential questions of reality with scientific answers".](#43)
 0. > [As per "my" current understanding, if The God is within the physical realm of existence, and if The Quantum Theory of truth seekers is true, I'm afraid to make a conclusion that "my entangled interactions; with anything within this physics realm of existence, are not being observed or even noted down by The GOD since that's how the entanglement works!" If the Karma theory of Krishna is correct, there must be something missing in "my" understanding of entanglement.](#42)
