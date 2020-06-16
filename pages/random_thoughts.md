@@ -3,6 +3,7 @@ layout: quotes
 title: random thoughts
 permalink: /random_thoughts/
 ---
+0. > [My "rational" words might hurt you, it might seem like a bullet or a fire or a knife which hurts you to the blood, but if you try to listen to the voice within me; my intention, you'll feel compassion and love towards this whole existence, it's just what I noticed about my existence not what I'm trying to impose on my identity!](#45)
 0. > [If you define "success" to be "a moment of positive emotions bursting out of your existence after a long journey of accumulation of all the negative and positive emotions with adventurous action memories", I'm no hungry of such SUCCESSES!](#44)
 0. > [A new entertainment era of web series has already began,
 And a new genre "scientifically infographic nonfiction comedy drama" yet to be born to be the most loved genre of all time even more than "adult" genre! I'd call it "scinfodrama" for short! Definition of which can be given as "drama with informative jokes, actions, and existential questions of reality with scientific answers".](#43)
