@@ -3,6 +3,7 @@ layout: quotes
 title: random thoughts
 permalink: /random_thoughts/
 ---
+0. > [a righteous human never identifies own existence with caste/religion/nationality/tribe, and in the complicated situations like border conflicts, one never stays calm, instead takes blood for blood kind of action, but one never hates the other side by generality, nor does one become traitor to the mother nation by loving the other side while fighting for the truth, it's just simple humanity, there's no complications at all!](#46)
 0. > [My "rational" words might hurt you, it might seem like a bullet or a fire or a knife which hurts you to the blood, but if you try to listen to the voice within me; my intention, you'll feel compassion and love towards this whole existence, it's just what I noticed about my existence not what I'm trying to impose on my identity!](#45)
 0. > [If you define "success" to be "a moment of positive emotions bursting out of your existence after a long journey of accumulation of all the negative and positive emotions with adventurous action memories", I'm no hungry of such SUCCESSES!](#44)
 0. > [A new entertainment era of web series has already began,
