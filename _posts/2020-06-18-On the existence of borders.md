@@ -26,7 +26,7 @@ The difference comes from the memories. a baby is born, it lives over the period
 
 Borders is an invention man has invented to classify the objects when necessary, for example we define a series of 6 sets from subset to superset of numbers, just to classify them and as a result we define the borders; namely of N, W, Z, Q, R, and C. Borders are "geometric" objects, when it got turned into reality as a physical means to classify the "living lives" is a mystery. Borders when exist in a closed form, it excludes and includes certain objects, and when defined in an open form, it's not even near to "rationally total and complete definition", and as a result it brings the confusion of classification. If such confusion of classification occurs for the physically defined borders of the mother earth, it brings chaos and later the inevitable world wars!
 
-> A plate with colorful food certainly is certainly needed to be served carefully as to classify the dishes present, but when the way of eating certain dishes is to "combine" them, the borders must vanish; even at least for the moment, then it sounds like a paradox! Since the purpose of classification was to have a neat plate not to define the way dishes are to be eaten, if borders doesn't vanish at the right time, it feels like a chaos of the order!
+> A plate with colorful food is certainly needed to be served carefully as to classify the dishes present, but when the way of eating certain dishes is to "combine" them, the borders must vanish; even at least for the moment, then it sounds like a paradox! Since the purpose of classification was to have a neat plate not to define the way dishes are to be eaten, if borders doesn't vanish at the right time, it feels like a chaos of the order!
 
 I'm a human, I've struggled a lot since my childhood to understand the love, I've been oscillating betwixt the rationality and emotionality, I've been isolated in my school and other places due the way my philosophy works, but today since this Indo-China border tension is getting awaken, I've to publicly put a note that, I'm confused!
 
@@ -44,7 +44,7 @@ To organize an economy or a culture, this way of classification works the best; 
 
 Be it Pakistan or china or any other historical or geographical or cultural enemies of India or BHAARAT, for me as a human, my enemies are those who stands and does the non-righteousness actions, such as within India people are faking the education, people call themselves professors and teachers and they've no understanding of the concepts they're teaching at all! This land of vedic culture has always said the exchange of saraswati with laxmi is one of the biggest sin, and today everyone I've seen in my life except few; not to name here, are doing this business! Is this humanity?
 
-> my enemies are standing on the other side of the truth not on the other side of the physicality or mental border!
+> my enemies are standing on the other side of the truth not on the other side of the physical or imaginary borders!
 
 I've met incredibly lovely and helpful people from many countries around the world over the internet, especially from Pakistan and china to mention, and it seems these wars are not at all in the minds of people but instead in the minds of "institutions"; such as government, political parties, international businesses, etc...
 
