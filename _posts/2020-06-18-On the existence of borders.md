@@ -55,6 +55,6 @@ Even two sons of a mother can fight like hell, they might not talk to each other
 
 Let's bring the harmony of the truth seekers in the very culture of humans, borders are important to organize many aspects of life, but let's learn how and when to vanish them.
 
-I hope you, the Goddess of knowledge, will flow within these beings like me, who are ignorant about the truth of the existence, people like me who loves to do rational scientific argumentation has to get a gift from you to stabilize this physical reality for the greater good, I therefore am in a desperate need of "rational love" which will unify the whole globe just a family. 
+I hope you, the Goddess of knowledge, will flow within these beings like me, who are ignorant about the truth of the existence, people like me who loves to do rational scientific argumentation has to get a gift from you to stabilize this physical reality for the greater good, I therefore am in a desperate need of "rational love" which will unify the whole globe just as a family. 
 > वसुधैव कुटुम्बकम्।
 <p align="right">- your scion, XinYaanzyoy</p>
