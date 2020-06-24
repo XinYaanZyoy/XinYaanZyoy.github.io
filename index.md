@@ -22,7 +22,7 @@ now since you're still reading this, i want to know you, i want to share my love
 
 by the way if you're either student or master of science, kindly acquaint me; i desperately need some "Rational Love" acquaintance!
 
-<p align="right">Sincearly, <a href="/whoami/">心言自由 (XinYaanZyoy)</a>; An Explorer of Existence!</p>
+<p align="right">Sincerely, <a href="/whoami/">心言自由 (XinYaanZyoy)</a>; An Explorer of Existence!</p>
 
 ### My Pledgement
 ____________________________
