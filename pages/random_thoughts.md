@@ -3,6 +3,7 @@ layout: quotes
 title: random thoughts
 permalink: /random_thoughts/
 ---
+0. > [My sister used to think that all these mathematics I'm teaching her is super easy to me, she even considered me a god of it!, but today I broke that belief of her by showing ambiguities in my understanding of definate integrals.](#50)
 0. > [I dream of computer memories made up of very natural things like water and other possible quantum memories, once we master this kind of memory devices, the computing based on these memories will allow us to build quantum level computers which are way more efficient and "natural" in a one way and "artificial" in an another way.](#49)
 0. > [When it comes to truth seeking moments, I posses no mercy of heart breaking arguments, the opponent; be it my parents or anyone in the existence including the god itself, has to conclude the dialogue with either the truth or failure acceptance, but never victory without the truth defined with rationally complete arguments.](#48)
 0. > [I loose against those pseudo things I've observed, the people; not to generalize the proposition, who worship and admire gods and call themselves a lover of god are more vicious and unrighteous, the people who talk about science and rationality are more irrational and nonscientific in the very way they live and exchange information!, where do I stand in this binary like world?, how do I not delude myself by these paradoxes of life?](#47)
