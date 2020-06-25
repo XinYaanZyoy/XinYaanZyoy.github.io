@@ -3,6 +3,19 @@ layout: quotes
 title: random thoughts
 permalink: /random_thoughts/
 ---
+
+<details>
+<summary>
+Nskss asks s s.
+</summary>
+1. F
+2. Dkdk
+3. Didi
+4. Lsjs
+5. Sisksj
+6. Aiaiwv
+</details>
+
 0. > [a conversation is not at all happening between two bodies, it's those memories with which another bunch of memories is interacting, a response by these memories is faster than the body itself become aware of it, it therefore is better to put arguments with love, smile, and patience, by the time the opponent's memories has responded, it'stoo late for bothe the bodies to be able to cooperate unless both comes together and tries to dissect the situation as a manifestation of memories.](#51)
 0. > [My sister used to think that all these mathematics I'm teaching her is super easy to me, she even considered me a god of it!, but today I broke that belief of her by showing ambiguities in my understanding of definate integrals.](#50)
 0. > [I dream of computer memories made up of very natural things like water and other possible quantum memories, once we master this kind of memory devices, the computing based on these memories will allow us to build quantum level computers which are way more efficient and "natural" in a one way and "artificial" in an another way.](#49)
