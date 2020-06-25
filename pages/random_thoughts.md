@@ -8,12 +8,11 @@ permalink: /random_thoughts/
 <summary>
 Nskss asks s s.
 </summary>
-1. F
-2. Dkdk
-3. Didi
-4. Lsjs
-5. Sisksj
-6. Aiaiwv
+0. > [No matter what certificate or degree of a topic one brings in, it is always possible to prove that there's an ambiguity in one's understanding of the same! And if the topic was science or rationally oriented discipline then the proof depicts the failure of assurance of knowledge by certificate or degree!](#3)
+0. > [Creativity, artistic thoughts, and love are the most judged things, and this education system even tries to assign a "number" or "grade" to it! That's insane! How are you going to assign a number to the mind which is producing enormous amount of thoughts and idea?
+DO NOT ASSIGN NUMBER AND JUDGE THE ART AND CREATIVITY, if you keep doing it, I'll rise with the loudest roar and destroy your whole system!](#2)
+0. > [Unfortunately there still are people (even the students) who believes in grading systems, I must say that these people are vision-less or at least blind of the vision! They've no purpose at all! They're just TRYING TO SURVIVE! Nothing wrong in it, it's understandable and natural but even after making them aware of it if they don't realize, it's called an ANIMAL MIND!](#1)
+{: reversed="reversed"}
 </details>
 
 0. > [a conversation is not at all happening between two bodies, it's those memories with which another bunch of memories is interacting, a response by these memories is faster than the body itself become aware of it, it therefore is better to put arguments with love, smile, and patience, by the time the opponent's memories has responded, it'stoo late for bothe the bodies to be able to cooperate unless both comes together and tries to dissect the situation as a manifestation of memories.](#51)
