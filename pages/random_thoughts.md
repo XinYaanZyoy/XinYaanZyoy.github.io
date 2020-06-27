@@ -3,8 +3,9 @@ layout: quotes
 title: random thoughts
 permalink: /random_thoughts/
 ---
-Note: these are thoughts from early 2020 to early 2021. During this period a break from social media was the only way to make myself isolated from the things I was suffering socially due to posting there.
+Note: these are thoughts from early 2020 to early 2021. During this period a break from social media was the only way to make myself isolated from the things I was suffering socially.
 
+0. > [I've decided to stay away from the bodies of which any kind of memories; associated with my existence, that invokes an unpleasant existence out of my existence, due to which I end up asking myself; "is this me?", I must therefore end this kind of ill-defined memory transactions; at least till the ambiguities are vanished!](#55)
 0. > [If it's difficult to imagine an object you just encountered in theoratical nature, forget what you already know, just create the new theoratical world! That's the spirit and philosophy of a mathematician!](#54)
 0. > [these irregular routines of my life has turned me into a creature that I never was before, I'm loosing my control over my body I used to have earlier, my words are no more mine, there's something within me which has identified itself with something it isn't at all from any perspective I sight!](#53)
 0. > [Just because you've memories of that particular existence, doesn't mean that existence itself is you, your existence is beyond physical memories and birth of your physical body, let's for now; as an ignorant, say that you're a sub-existence which manifests into brand new existences based on "existential interactions" with other sub-existences, the generalized space of these all sub-existences is then identity of yours!](#52)
