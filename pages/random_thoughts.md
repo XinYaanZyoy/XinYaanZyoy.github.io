@@ -3,7 +3,7 @@ layout: quotes
 title: random thoughts
 permalink: /random_thoughts/
 ---
-Note: these are thoughts from early 2020 to early 2021. During this period a break from social media was the only way to make myself isolated from the things I was suffering socially.
+Note: these are thoughts from JAN 2020 to JULY 2020. During this period a break from social media was the only way to make myself isolated from the things I was suffering socially. Follow me on Twitter for thoughts after this period, and on Facebook for thoughts before this period.😊💜👊🏼
 
 0. > [I always observed this existence very sharply and carefully, and as a result I always found something wrong or inappropriate in others, and isolated myself from the crowd in a hope to find peace, somehow I did for the social peace but I'm now suffering from existential crisis like hell, I must engage in social discussions I think, if I don't I'll be doing more unbelievable things I've done in last few days!, do not throw even a dumb man; not only he will help you but give you chance to become a "man" of human!](#56)
 0. > [I've decided to stay away from the bodies of which any kind of memories; associated with my existence, that invokes an unpleasant existence out of my existence, due to which I end up asking myself; "is this me?", I must therefore end this kind of ill-defined memory transactions; at least till the ambiguities are vanished!](#55)
