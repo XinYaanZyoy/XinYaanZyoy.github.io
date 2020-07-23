@@ -22,7 +22,7 @@ permalink: /application-gna-covid19-fees-protest
 	xmlHttp.onreadystatechange = function() { 
     		if (xmlHttp.readyState == 4 && xmlHttp.status == 200){
         		text = xmlHttp.responseText.substring(28);
-        		listEntries(text.substring(0, text.length));
+        		listEntries(text.substring(0, text.length-2));
 		}
 	}
      xmlHttp.open("GET", "https://spreadsheets.google.com/feeds/cells/1nrCk4IYoMnV9lcrQDqx0yIIynBmeKCz8KL1BUzevbXE/1/public/values?alt=json-in-script&callback=listEntries", true); 
