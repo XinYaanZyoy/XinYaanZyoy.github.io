@@ -2,7 +2,7 @@
 <html>
   <head>
 	  
-{% if !page.standalone %}
+{% if page.standalone == false %}
 	  
     {% include analytics.html %}
     <meta charset="utf-8">
@@ -48,7 +48,7 @@
      xmlHttp.send(null);
      </script>
    
-{% if !page.standalone %}
+{% if page.standalone == false %}
 	  
 	<!-- Add to homescreen for Chrome on Android -->
 	<meta name="mobile-web-app-capable" content="yes">
@@ -70,7 +70,7 @@
   	<script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
   </head>
   <body>
-{% if !page.standalone %}
+{% if page.standalone == false %}
     {% include navigation.html %}
 {% endif %}
     <main class="page-content" aria-label="Content">
