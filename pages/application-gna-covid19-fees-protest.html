@@ -19,10 +19,7 @@ permalink: /application-gna-covid19-fees-protest
 	    	}
 		     if(arr[i]["gs$cell"]["col"] == "4"){
 			text = arr[i]["gs$cell"]["$t"];
-			p = document.createElement("p");
-			txt = document.createTextNode(text);
-			p.appendChild(txt);
-			part.appendChild(p);
+			part.innerHTML = part.innerHTML + text + "&tab;";
 		}
 	     }
      }
@@ -42,6 +39,6 @@ permalink: /application-gna-covid19-fees-protest
 	  <h1 style="color: red;">Statements by Students</h1>
       <div id="stat"></div>
 	  <h1 style="color: red;">Participating Students</h1>
-      <div id="part"></div>
+      <p id="part"></p>
   </body>
 </html>
