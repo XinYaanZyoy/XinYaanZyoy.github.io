@@ -1,10 +1,6 @@
 ---
-gSheetID: 1nrCk4IYoMnV9lcrQDqx0yIIynBmeKCz8KL1BUzevbXE
-column: 9
-title: Application
 permalink: /application-gna-covid19-fees-protest
 ---
-
 <!doctype html>
 <html>
   <head>
@@ -13,7 +9,7 @@ permalink: /application-gna-covid19-fees-protest
      	arr = JSON.parse(data).feed.entry;
 	div = document.getElementById("reslist");
 	     for(let i=3; i<=arr.length; i++){
-		if(arr[i]["gs$cell"]["col"] == "{{page.column}}"){
+		if(arr[i]["gs$cell"]["col"] == "9"){
 			text = arr[i]["gs$cell"]["$t"];
 // 			author = arr[i+1]["gs$cell"]["$t"];
 			p = document.createElement("p");
@@ -31,18 +27,12 @@ permalink: /application-gna-covid19-fees-protest
         		listEntries(text.substring(0, text.length-2));
 		}
 	}
-     xmlHttp.open("GET", "https://spreadsheets.google.com/feeds/cells/{{page.gSheetID}}/1/public/values?alt=json-in-script&callback=listEntries", true); 
+     xmlHttp.open("GET", "https://spreadsheets.google.com/feeds/cells/1nrCk4IYoMnV9lcrQDqx0yIIynBmeKCz8KL1BUzevbXE/1/public/values?alt=json-in-script&callback=listEntries", true); 
      xmlHttp.send(null);
      </script>
   	<script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
   </head>
   <body>
-    <main class="page-content" aria-label="Content">
-      <div class="wrapper">
       <div id="reslist"></div>
-      <hr/>
-      {{ content }}
-      </div>
-    </main>
   </body>
 </html>
