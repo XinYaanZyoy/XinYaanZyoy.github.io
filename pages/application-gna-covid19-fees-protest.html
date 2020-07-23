@@ -9,8 +9,6 @@ permalink: /application-gna-covid19-fees-protest
      	arr = JSON.parse(data).feed.entry;
 	stat = document.getElementById("stat");
 	part = document.getElementById("part");
-	part_no = document.getElementById("part_no");
-	part_num = 0;
 	     for(let i=9; i<=arr.length; i++){
 		if(arr[i]["gs$cell"]["col"] == "9"){
 			text = arr[i]["gs$cell"]["$t"];
@@ -23,9 +21,7 @@ permalink: /application-gna-covid19-fees-protest
 			text = arr[i]["gs$cell"]["$t"];
 			part.innerText = part.innerText + text + "     ";
 		}
-		     part_num = part_num + 1;
 	     }
-	     part_no.innerText = part_num;
      }
 	var xmlHttp = new XMLHttpRequest();
 	xmlHttp.onreadystatechange = function() { 
@@ -43,7 +39,6 @@ permalink: /application-gna-covid19-fees-protest
 	  <h1 style="color: red;">Statements by Students</h1>
       <div id="stat"></div>
 	  <h1 style="color: red;">Participating Students</h1>
-	  <h2 id="part_no" style="color: red;"></h2>
       <p id="part"></p>
   </body>
 </html>
