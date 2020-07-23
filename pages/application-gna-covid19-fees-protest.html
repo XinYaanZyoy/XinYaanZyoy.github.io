@@ -7,15 +7,23 @@ permalink: /application-gna-covid19-fees-protest
      <script>
      function listEntries(data){
      	arr = JSON.parse(data).feed.entry;
-	div = document.getElementById("reslist");
+	stat = document.getElementById("stat");
+	part = document.getElementById("part");
 	     for(let i=9; i<=arr.length; i++){
 		if(arr[i]["gs$cell"]["col"] == "9"){
 			text = arr[i]["gs$cell"]["$t"];
 			p = document.createElement("p");
 			txt = document.createTextNode("\""+text+"\"");
 			p.appendChild(txt);
-			div.appendChild(p);
+			stat.appendChild(p);
 	    	}
+		     if(arr[i]["gs$cell"]["col"] == "9"){
+			text = arr[i]["gs$cell"]["$t"];
+			p = document.createElement("p");
+			txt = document.createTextNode("\""+text+"\"");
+			p.appendChild(txt);
+			part.appendChild(p);
+		}
 	     }
      }
 	var xmlHttp = new XMLHttpRequest();
@@ -32,6 +40,8 @@ permalink: /application-gna-covid19-fees-protest
   </head>
   <body>
 	  <h1 style="color: red;">Statements by Students</h1>
-      <div id="reslist"></div>
+      <div id="stat"></div>
+	  <h1 style="color: red;">Participating Students</h1>
+      <div id="part"></div>
   </body>
 </html>
