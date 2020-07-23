@@ -1,6 +1,9 @@
 <!doctype html>
 <html>
   <head>
+	  
+{% if !page.standalone %}
+	  
     {% include analytics.html %}
     <meta charset="utf-8">
     <title>{{ page.title }}</title>  
@@ -9,11 +12,15 @@
     {% else %}
 	<meta property="og:image" content="{{site.logo}}">
     {% endif %}
-<!--     <link rel="stylesheet" href="/assets/css/retro.css"> -->
+    
+    <link rel="stylesheet" href="/assets/css/retro.css">
+    
     {% feed_meta %}
      <!-- Web Application Manifest -->
 	<link rel="manifest" href="manifest.webmanifest">
-	
+
+{% endif %}
+
      <script>
      function listEntries(data){
      	arr = JSON.parse(data).feed.entry;
@@ -41,6 +48,8 @@
      xmlHttp.send(null);
      </script>
    
+{% if !page.standalone %}
+	  
 	<!-- Add to homescreen for Chrome on Android -->
 	<meta name="mobile-web-app-capable" content="yes">
 	<meta name="application-name" content="XinYaanZyoy">
@@ -57,10 +66,13 @@
 	<meta name="msapplication-navbutton-color" content="grey">
     {% seo %}
     {% include adsense.html %}
+{% endif %}
   	<script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
   </head>
   <body>
+{% if !page.standalone %}
     {% include navigation.html %}
+{% endif %}
     <main class="page-content" aria-label="Content">
       <div class="wrapper">
       <div id="reslist"></div>
