@@ -8,15 +8,13 @@ permalink: /application-gna-covid19-fees-protest
      function listEntries(data){
      	arr = JSON.parse(data).feed.entry;
 	div = document.getElementById("reslist");
-	     for(let i=3; i<=arr.length; i++){
+	     for(let i=0; i<=arr.length; i++){
 		if(arr[i]["gs$cell"]["col"] == "9"){
 			text = arr[i]["gs$cell"]["$t"];
-// 			author = arr[i+1]["gs$cell"]["$t"];
 			p = document.createElement("p");
 			txt = document.createTextNode("\""+text+"\"");
 			p.appendChild(txt);
 			div.appendChild(p);
-// 			console.log(text);
 	    	}
 	     }
      }
@@ -24,7 +22,7 @@ permalink: /application-gna-covid19-fees-protest
 	xmlHttp.onreadystatechange = function() { 
     		if (xmlHttp.readyState == 4 && xmlHttp.status == 200){
         		text = xmlHttp.responseText.substring(28);
-        		listEntries(text.substring(0, text.length-2));
+        		listEntries(text.substring(0, text.length));
 		}
 	}
      xmlHttp.open("GET", "https://spreadsheets.google.com/feeds/cells/1nrCk4IYoMnV9lcrQDqx0yIIynBmeKCz8KL1BUzevbXE/1/public/values?alt=json-in-script&callback=listEntries", true); 
