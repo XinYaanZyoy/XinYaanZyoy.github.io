@@ -19,22 +19,7 @@ permalink: /application-gna-covid19-fees-protest
 	     }
      }
 	     
-	     function listPart(data){
-     	arr = JSON.parse(data).feed.entry;
-	div = document.getElementById("participants");
-	     for(let i=9; i<=arr.length; i++){
-		if(arr[i]["gs$cell"]["col"] == "4"){
-			text = arr[i]["gs$cell"]["$t"];
-			p = document.createElement("p");
-			txt = document.createTextNode("\""+text+"\"");
-			p.appendChild(txt);
-			div.appendChild(p);
-	    	}
-	     }
-     }
-	     
-	     
-	var xmlHttp_stat = new XMLHttpRequest();
+	     	var xmlHttp_stat = new XMLHttpRequest();
 	xmlHttp_stat.onreadystatechange = function() { 
     		if (xmlHttp_stat.readyState == 4 && xmlHttp_stat.status == 200){
         		text = xmlHttp_stat.responseText.substring(28);
@@ -43,16 +28,33 @@ permalink: /application-gna-covid19-fees-protest
 	}
      xmlHttp_stat.open("GET", "https://spreadsheets.google.com/feeds/cells/1nrCk4IYoMnV9lcrQDqx0yIIynBmeKCz8KL1BUzevbXE/1/public/values?alt=json-in-script&callback=listStat", true); 
      xmlHttp_stat.send(null);
+
 	     
-     	var xmlHttp_part = new XMLHttpRequest();
-	xmlHttp_part.onreadystatechange = function() { 
-    		if (xmlHttp_part.readyState == 4 && xmlHttp_part.status == 200){
-        		text = xmlHttp_part.responseText.substring(28);
-        		listPart(text.substring(0, text.length-2));
-		}
-	}
-     xmlHttp_part.open("GET", "https://spreadsheets.google.com/feeds/cells/1nrCk4IYoMnV9lcrQDqx0yIIynBmeKCz8KL1BUzevbXE/1/public/values?alt=json-in-script&callback=listPart", true); 
-     xmlHttp_part.send(null);
+	     
+// 	     function listPart(data){
+//      	arr = JSON.parse(data).feed.entry;
+// 	div = document.getElementById("participants");
+// 	     for(let i=9; i<=arr.length; i++){
+// 		if(arr[i]["gs$cell"]["col"] == "4"){
+// 			text = arr[i]["gs$cell"]["$t"];
+// 			p = document.createElement("p");
+// 			txt = document.createTextNode("\""+text+"\"");
+// 			p.appendChild(txt);
+// 			div.appendChild(p);
+// 	    	}
+// 	     }
+//      }
+	     
+	     	     
+//      	var xmlHttp_part = new XMLHttpRequest();
+// 	xmlHttp_part.onreadystatechange = function() { 
+//     		if (xmlHttp_part.readyState == 4 && xmlHttp_part.status == 200){
+//         		text = xmlHttp_part.responseText.substring(28);
+//         		listPart(text.substring(0, text.length-2));
+// 		}
+// 	}
+//      xmlHttp_part.open("GET", "https://spreadsheets.google.com/feeds/cells/1nrCk4IYoMnV9lcrQDqx0yIIynBmeKCz8KL1BUzevbXE/1/public/values?alt=json-in-script&callback=listPart", true); 
+//      xmlHttp_part.send(null);
      </script>
   	<script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
   </head>
