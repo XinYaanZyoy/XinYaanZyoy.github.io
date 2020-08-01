@@ -94,7 +94,30 @@
 		    color: rgba(255,255,255,.8);
 		}
 	  </style>
-	  <script>
+	  
+  </head>
+  <body>
+	  {% include header.html %}
+	  <hr>
+    {% include navigation.html %}
+    <main class="page-content" aria-label="Content">
+      <div class="wrapper">
+        {{ content }}
+	      <script>
+	  	var today = new Date();
+		var dd = today.getDate();
+		var mm = today.getMonth()+1; //January is 0!
+		var yyyy = today.getFullYear();
+		  if(dd<10){
+			dd='0'+dd
+		    } 
+		    if(mm<10){
+			mm='0'+mm
+		   } 
+		today = yyyy+'-'+mm+'-'+dd;
+		document.getElementById("diary-entry-date").setAttribute("max", today);
+	  </script>
+	      <script>
 		function putNote(datestring) {
 			datearr = datestring.split('-');
 			year = datearr[0];
@@ -136,28 +159,6 @@
 			xhr.open('GET', url, true);
 			xhr.send(null);
 		}
-	  </script>
-  </head>
-  <body>
-	  {% include header.html %}
-	  <hr>
-    {% include navigation.html %}
-    <main class="page-content" aria-label="Content">
-      <div class="wrapper">
-        {{ content }}
-	      <script>
-	  	var today = new Date();
-		var dd = today.getDate();
-		var mm = today.getMonth()+1; //January is 0!
-		var yyyy = today.getFullYear();
-		  if(dd<10){
-			dd='0'+dd
-		    } 
-		    if(mm<10){
-			mm='0'+mm
-		   } 
-		today = yyyy+'-'+mm+'-'+dd;
-		document.getElementById("diary-entry-date").setAttribute("max", today);
 	  </script>
       </div>
     </main>
