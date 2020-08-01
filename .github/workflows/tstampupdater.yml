@@ -1,4 +1,4 @@
-name: entrier
+name: tstampupdater
 on: 
   push
 jobs:
