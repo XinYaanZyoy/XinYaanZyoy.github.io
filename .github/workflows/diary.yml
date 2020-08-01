@@ -13,6 +13,7 @@ jobs:
         GH_PAT: ${{secrets.GH_PAT}}
       run: bash scripts/diary.sh
   time-stamp:
+    needs: diary-entry
     runs-on: ubuntu-latest   
     steps:
     - uses: actions/checkout@v1
