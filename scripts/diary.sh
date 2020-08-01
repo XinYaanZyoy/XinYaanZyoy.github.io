@@ -17,11 +17,13 @@ if [ -d "$DIR" ]; then
         if [ -d "$DIR/$year/$month" ]; then
             echo found $month
             if [ -f "$DIR/$year/$month/$date.txt" ]; then
-                echo found today entry at $DIR/$year/$month/$date.txt;
-                head -n 1 $DIR/$year/$month/$date.txt;
-                echo timestamping...;
-                sed -i "1s/.*/$stamp/" "$DIR/$year/$month/$date.txt";
-                status=true;
+                if [sed -n '1{/^TIMESTAMP/p};q' samp.txt]; then
+                    echo found today entry at $DIR/$year/$month/$date.txt;
+                    head -n 1 $DIR/$year/$month/$date.txt;
+                    echo timestamping...;
+                    sed -i "1s/.*/$stamp/" "$DIR/$year/$month/$date.txt";
+                    status=true;
+                else echo already time stamped!
                 fi
             else
                 echo not found todays entry!
