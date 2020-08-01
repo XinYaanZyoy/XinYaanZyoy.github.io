@@ -34,11 +34,15 @@
   	<script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
   </head>
   <body>
+	  {% include header.html %}
+	  <hr>
     {% include navigation.html %}
     <main class="page-content" aria-label="Content">
       <div class="wrapper">
         {{ content }}
       </div>
     </main>
+	  <hr>
+	  {% include footer.html %}
   </body>
 </html>
