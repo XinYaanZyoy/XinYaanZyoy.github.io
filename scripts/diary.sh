@@ -12,11 +12,11 @@ echo $'\n'"git status: $(git status)"$'\n';
 
 if [ -d "$DIR" ]; then
     echo found diary
-    if [ -d "$year" ]; then
+    if [ -d "$DIR/$year" ]; then
         echo found $year
-        if [ -d "$month" ]; then
+        if [ -d "$DIR/$year/$month" ]; then
             echo found $month
-            if [ -f "$date" ]; then
+            if [ -f "$DIR/$year/$month/$date" ]; then
                 echo found today entry at $DIR/$year/$month/$date.txt;
                 echo timestamping...;
                 sed -i "1s/.*/$stamp/" "$DIR/$year/$month/$date.txt";
@@ -37,7 +37,7 @@ fi
 if [ "$status" = true ]; then
     echo $'\n'"git status: $(git status)"$'\n';
     git config --global user.name XinYaanZyoy && git config --global user.email XinYaanZyoy@gmail.com
-    git add "diary/*"
+    git add "$DIR/$year/$month/$date.txt"
     git commit -m "diary-entry: $stamp"
     git push "https://XinYaanZyoy:$GH_PAT@github.com/XinYaanZyoy/XinYaanZyoy.github.io.git" HEAD:master
     echo End Of diary entry;
