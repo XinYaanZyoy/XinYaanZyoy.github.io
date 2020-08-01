@@ -18,7 +18,7 @@ if [ -d "$DIR" ]; then
             echo found $month
             if [ -f "$DIR/$year/$month/$date.txt" ]; then
                 echo found today entry at $DIR/$year/$month/$date.txt;
-                fline=$(head -n 1 filename);
+                fline="$(head -n 1 filename)";
                 echo fline is $fline
                 if [ "$fline" = "TIMESTAMP" ]; then
                     echo timestamping...;
