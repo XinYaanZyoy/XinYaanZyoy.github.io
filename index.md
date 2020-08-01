@@ -25,7 +25,7 @@ by the way if you're either student or master of science, kindly acquaint me; i 
 <p align="right">Sincerely, <a href="/whoami/">心言自由 (XinYaanZyoy)</a>; An Explorer of Existence!<br/>OCTOBER 2019</p>
 
 <div id="pledgement">
-  <h3> My Pledgement </h3>
+  <a href="/#pledgement"><h3> My Pledgement </h3></a>
 <hr>
     Every Societal problems; i believe, can be solved by rational Communication, which; i think, can only be accomplished by Education, The Pure, True, and Sure Education, which is possible only if there's Love of People and Hunger of Truth, which can be triggered by Wisdom and Freedom of Love, The Love of this kind faints the physical boundries and assets, I herby take pledge that,
 <blockquote> 
