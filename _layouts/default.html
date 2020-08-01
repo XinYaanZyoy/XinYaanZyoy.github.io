@@ -34,10 +34,7 @@
   	<script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
   </head>
   <body>
-	  <div style="color: silver; fonst-family: consolas, monospace; font-size: 10px;">
-		  <code>
-		  	{{ site.url }} | last updated on <i>Sat Aug  1 13:53:37 UTC 2020</i> | online since SEP 02 2k19 10:56 PM GMT+5:30.
-		  </code>
+	  {% include header.html %}
 	   </div>
 	  <hr>
     {% include navigation.html %}
@@ -48,9 +45,6 @@
       </div>
     </main>
     <hr>
-	  <div style="color: green; fonst-family: consolas, monospace">
-                <span><strong> XinYaanZyoy | XinYaanZyoy@gmail.com </strong></span>
-                <span>, Copyright © 2019 - <script>document.write(new Date().getFullYear())</script>. No Rights Reserved. Except where otherwise noted, All The PDFs and Videos are licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/80x15.png" /></a></span>
-          </div>
+	  {% include footer.html %}
   </body>
 </html>
