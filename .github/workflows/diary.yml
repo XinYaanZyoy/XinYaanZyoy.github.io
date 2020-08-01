@@ -4,7 +4,7 @@ on:
     paths: 
       - 'diary/**'
 jobs:
-  build:
+  diary-entry:
     runs-on: ubuntu-latest   
     steps:
     - uses: actions/checkout@v1
@@ -12,3 +12,11 @@ jobs:
       env: 
         GH_PAT: ${{secrets.GH_PAT}}
       run: bash scripts/diary.sh
+  time-stamp:
+    runs-on: ubuntu-latest   
+    steps:
+    - uses: actions/checkout@v1
+    - name: editing update timestamp
+      env: 
+        GH_PAT: ${{secrets.GH_PAT}}
+      run: bash scripts/updatetimestamp.sh
