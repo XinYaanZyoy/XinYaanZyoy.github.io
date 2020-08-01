@@ -6,6 +6,7 @@ month="$(date +%b)";
 date="$(date +%d)";
 DIR="diary";
 status=false;
+keyterm="TIMESTAMP"
 
 echo $stamp;
 echo $'\n'"git status: $(git status)"$'\n';
@@ -17,8 +18,9 @@ if [ -d "$DIR" ]; then
         if [ -d "$DIR/$year/$month" ]; then
             echo found $month
             if [ -f "$DIR/$year/$month/$date.txt" ]; then
-                sed -n '1{/^TIMESTAMP/p};q' "$DIR/$year/$month/$date.txt"
-                if [ "$?" -eq "0" ]; then
+                fline = "$(sed -n '1{/^TIMESTAMP/p};q' "$DIR/$year/$month/$date.txt")";
+                echo fline;
+                if [[ "$fline" == "$keyterm" ]]; then
                     echo found today entry at $DIR/$year/$month/$date.txt;
                     head -n 1 $DIR/$year/$month/$date.txt;
                     echo timestamping...;
