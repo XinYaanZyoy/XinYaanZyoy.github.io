@@ -45,6 +45,7 @@ if [ "$status" = true ]; then
     git config --global user.name XinYaanZyoy && git config --global user.email XinYaanZyoy@gmail.com
     git add "$DIR/$year/$month/$date.txt"
     git commit -m "diary-entry: $stamp"
+    git pull --rebase
     git push "https://XinYaanZyoy:$GH_PAT@github.com/XinYaanZyoy/XinYaanZyoy.github.io.git" HEAD:master
     echo End Of diary entry;
 else
