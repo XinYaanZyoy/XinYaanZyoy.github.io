@@ -1,0 +1,23 @@
+name: journal
+on: 
+  push:
+    paths: 
+      - 'posts/**'
+jobs:
+  journal-entry:
+    runs-on: ubuntu-latest   
+    steps:
+    - uses: actions/checkout@v1
+    - name: making a journal entry
+      env: 
+        GH_PAT: ${{secrets.GH_PAT}}
+      run: bash scripts/journal.sh
+  time-stamp:
+    needs: journal-entry
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v1
+    - name: editing update timestamp
+      env: 
+        GH_PAT: ${{secrets.GH_PAT}}
+      run: bash scripts/updatetimestamp.sh
