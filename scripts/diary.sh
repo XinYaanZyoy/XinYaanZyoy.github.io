@@ -19,6 +19,7 @@ if [ -d "$DIR" ]; then
             if [ -f "$DIR/$year/$month/$date.txt" ]; then
                 echo found today entry at $DIR/$year/$month/$date.txt;
                 fline=$(head -n 1 filename);
+                echo fline is $fline
                 if [ "$fline" = "TIMESTAMP" ]; then
                     echo timestamping...;
                     sed -i "1s/.*/$stamp/" "$DIR/$year/$month/$date.txt";
