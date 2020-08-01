@@ -15,9 +15,9 @@ html {
 
 nav a{
   text-decoration: none;
-  font-size: 32px;
+/*   font-size: 32px; */
   background-color: rgb(88, 87, 87);
-  border-radius: 15%;
+/*   border-radius: 15%; */
   box-shadow: 1px 1px 1px white;
   font-family: monospace;
 }
