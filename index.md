@@ -36,6 +36,6 @@ by the way if you're either student or master of science, kindly acquaint me; i 
 
 <div style="color: red; fonst-family: consolas, monospace">
 		  <code>
-		  	{{ site.url }} | last updated on <i>Sat Aug  1 03:17:45 UTC 2020</i> | alive since SEP 02 2k19 10:56 PM GMT+5:30
+		  	{{ site.url }} | last updated on <i>Sat Aug  1 03:18:00 UTC 2020</i> | alive since SEP 02 2k19 10:56 PM GMT+5:30
 		  </code>
 </div>
