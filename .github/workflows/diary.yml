@@ -1,0 +1,15 @@
+name: diary
+
+on: 
+  push:
+    paths: 
+      - 'diary/**'
+jobs:
+  build:
+    runs-on: ubuntu-latest   
+    steps:
+    - uses: actions/checkout@v1
+    - name: making a diary entry
+      env: 
+        GH_PAT: ${{secrets.GH_PAT}}
+      run: bash scripts/diary.sh
