@@ -24,6 +24,7 @@ if [ -d "$DIR" ]; then
                     sed -i "1s/.*/$stamp/" "$DIR/$year/$month/$date.txt";
                     status=true;
                 else
+                    echo already time stamped
                     status=false;
                 fi
             else
