@@ -1,5 +1,5 @@
 #!/bin/bash
-echo Start of Transformation;
+echo Start of Journal Entry;
 echo $'\n'"git status: $(git status)"$'\n';
 DIR="posts";
 status=false;
@@ -37,4 +37,4 @@ if [ -d "$DIR" ]; then
 else
     echo "$DIR doesn't exist!";
 fi
-echo End Of Transformation;
+echo End Journal Entry;
