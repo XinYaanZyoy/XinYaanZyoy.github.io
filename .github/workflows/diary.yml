@@ -1,7 +1,6 @@
 name: diary
-
 on: 
-  create:
+  push:
     paths: 
       - 'diary/**'
 jobs:
