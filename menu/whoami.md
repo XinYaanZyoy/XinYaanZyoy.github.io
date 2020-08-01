@@ -67,5 +67,5 @@ and hence i need to clarify here what i actually am! as mentioned before; i don'
 - am a mortally immortal wave,
 - am that what you're.
 
-read my [diary](/diary/), notebook [KoHam](/KoHam/) to understand me, my thoughts and non-standardized theories!
+read my [journal](/journal/), [diary](/diary/), and notebook [KoHam](/KoHam/) to understand me, my thoughts and non-standardized theories!
 <p align="right">- sincerely, XinYaanZyoy; an information Explorer!</p>
