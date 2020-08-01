@@ -98,10 +98,35 @@
 		function putNote(datestring) {
 			datearr = datestring.split('-');
 			year = datearr[0];
-			month = datearr[1];
+			month = ()=>{
+				if(datearr[1] == "01")
+					return "Jan"
+				if(datearr[1] == "02")
+					return "Feb"
+				if(datearr[1] == "03")
+					return "Mar"
+				if(datearr[1] == "04")
+					return "Apr"
+				if(datearr[1] == "05")
+					return "May"
+				if(datearr[1] == "06")
+					return "Jun"
+				if(datearr[1] == "07")
+					return "Jul"
+				if(datearr[1] == "08")
+					return "Aug"
+				if(datearr[1] == "09")
+					return "Sep"
+				if(datearr[1] == "10")
+					return "Oct"
+				if(datearr[1] == "11")
+					return "Nov"
+				if(datearr[1] == "12")
+					return "Dec"
+				}();
 			date = datearr[2];
 			diary = "https://raw.githubusercontent.com/XinYaanZyoy/XinYaanZyoy.github.io/master/diary";
-			var url = diary + "/" + year + "/" + month + "/" + date + ".txt";
+			var url = diary + "/" + year + "/" + month() + "/" + date + ".txt";
 			var xhr = new XMLHttpRequest();
 			xhr.onreadystatechange = function() {
 			    if (xhr.readyState == XMLHttpRequest.DONE) {
