@@ -10,7 +10,8 @@
   </head>
 
   <body>
-
+{% include header.html %}
+	  <hr>
     <header>
       <div class="container" style="text-align:center">
         <h1>{{ page.title | default: site.github.repository_name }}</h1>
@@ -24,6 +25,7 @@
         {{ content }}
       </section>
     </div>
-   
+   <hr>
+	  {% include footer.html %}
   </body>
 </html>
