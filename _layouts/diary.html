@@ -94,6 +94,20 @@
 		    color: rgba(255,255,255,.8);
 		}
 	  </style>
+	  <script>
+		function putNote(year, month, date) {
+			diary = "https://raw.githubusercontent.com/XinYaanZyoy/XinYaanZyoy.github.io/master/diary";
+			var url = diary + "/" + year + "/" + month + "/" + date + ".txt";
+			var xhr = new XMLHttpRequest();
+			xhr.onreadystatechange = function() {
+			    if (xhr.readyState == XMLHttpRequest.DONE) {
+				document.getElementById("diary").innerHTML = xhr.responseText;
+			    }
+			}
+			xhr.open('GET', url, true);
+			xhr.send(null);
+		}
+	  </script>
   </head>
   <body>
 	  {% include header.html %}
