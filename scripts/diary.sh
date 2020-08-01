@@ -16,7 +16,7 @@ if [ -d "$DIR" ]; then
         echo found $year
         if [ -d "$DIR/$year/$month" ]; then
             echo found $month
-            if [ -f "$DIR/$year/$month/$date" ]; then
+            if [ -f "$DIR/$year/$month/$date.txt" ]; then
                 echo found today entry at $DIR/$year/$month/$date.txt;
                 echo timestamping...;
                 sed -i "1s/.*/$stamp/" "$DIR/$year/$month/$date.txt";
