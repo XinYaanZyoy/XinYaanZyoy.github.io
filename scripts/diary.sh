@@ -1,9 +1,9 @@
 #!/bin/bash
 echo Start of diary entry;
-stamp=$(date);
-year=$(date +%Y);
-month=$(date +%b);
-date=$(date +%d);
+stamp="$(date)";
+year="$(date +%Y)";
+month="$(date +%b)";
+date="$(date +%d)";
 DIR="diary";
 status=false;
 
@@ -17,12 +17,12 @@ if [ -d "$DIR" ]; then
         if [ -d "$month" ]; then
             echo found $month
             if [ -f "$date" ]; then
-                echo found today's entry at $DIR/$year/$month/$date.txt
-                echo timestamping...
+                echo found today entry at $DIR/$year/$month/$date.txt;
+                echo timestamping...;
                 sed -i "1s/.*/$stamp/" "$DIR/$year/$month/$date.txt";
                 status=true;
             else
-                echo not found today's entry!
+                echo not found todays entry!
             fi
         else
             echo not found $month
