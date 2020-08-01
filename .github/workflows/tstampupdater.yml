@@ -2,7 +2,7 @@ name: tstampupdater
 on: 
   push:
     paths-ignore:
-      - '_layouts/default.html'
+      - '_includes/header.html'
 jobs:
   build:
     runs-on: ubuntu-latest   
