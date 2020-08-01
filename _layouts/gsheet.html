@@ -71,6 +71,8 @@
   	<script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
   </head>
   <body>
+	  {% include header.html %}
+	  <hr>
 {% if page.standalone == false %}
     {% include navigation.html %}
 {% endif %}
@@ -81,5 +83,7 @@
       {{ content }}
       </div>
     </main>
+	  <hr>
+	  {% include footer.html %}
   </body>
 </html>
