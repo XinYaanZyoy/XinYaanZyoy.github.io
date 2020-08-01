@@ -33,3 +33,9 @@ by the way if you're either student or master of science, kindly acquaint me; i 
 </blockquote>
   <p align="right">MAY 03 2020</p>
 </div>
+
+<div style="color: red; fonst-family: consolas, monospace">
+		  <code>
+		  	{{ site.url }} | last updated on <i>UPDATE</i> | alive since SEP 02 2k19 10:56 PM GMT+5:30
+		  </code>
+</div>
