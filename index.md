@@ -25,10 +25,11 @@ by the way if you're either student or master of science, kindly acquaint me; i 
 <p align="right">Sincerely, <a href="/whoami/">心言自由 (XinYaanZyoy)</a>; An Explorer of Existence!<br/>OCTOBER 2019</p>
 
 <div id="pledgement">
-  <h3> My Pledgement <h5><strong>MAY 03 2020</strong></h5> </h3>
+  <h3> My Pledgement </h3>
 <hr>
+    Every Societal problems; i believe, can be solved by rational Communication, which; i think, can only be accomplished by Education, The Pure, True, and Sure Education, which is possible only if there's Love of People and Hunger of Truth, which can be triggered by Wisdom and Freedom of Love, The Love of this kind faints the physical boundries and assets, I herby take pledge that,
 <blockquote> 
-  Every Societal problems; i believe, can be solved by rational Communication, which; i think, can only be accomplished by Education, The Pure, True, and Sure Education, which is possible only if there's Love of People and Hunger of Truth, which can be triggered by Wisdom and Freedom of Love, The Love of this kind faints the physical boundries and assets, I herby take pledge that, 
-  <b>"i'll always be working for the greater good of the next generation and its education especially, establishment of a new reformed, evolved, and flexible Educational Culture will always be my first priority, Freedom of Choice being the theme of this Culture will provide a free way of life."</b>
+  "i'll always be working for the greater good of the next generation and its education especially, establishment of a new reformed, evolved, and flexible Educational Culture will always be my first priority, Freedom of Choice being the theme of this Culture will provide a free way of life."
 </blockquote>
+  <h5 align="right"><strong>MAY 03 2020</strong></h5>
 </div>
