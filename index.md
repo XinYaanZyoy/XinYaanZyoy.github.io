@@ -31,5 +31,5 @@ by the way if you're either student or master of science, kindly acquaint me; i 
 <blockquote> 
   "i'll always be working for the greater good of the next generation and its education especially, establishment of a new reformed, evolved, and flexible Educational Culture will always be my first priority, Freedom of Choice being the theme of this Culture will provide a free way of life."
 </blockquote>
-  <p align="right"><strong>MAY 03 2020</strong></p>
+  <p align="right">MAY 03 2020</p>
 </div>
