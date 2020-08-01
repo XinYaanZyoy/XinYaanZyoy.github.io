@@ -32,6 +32,15 @@
     {% seo %}
     {% include adsense.html %}
   	<script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+	  <script>
+	  	var today = new Date();
+		var dd = today.getDate();
+		var mm = today.getMonth()+1; //January is 0!
+		var yyyy = today.getFullYear();
+
+		today = yyyy+'-'+mm+'-'+dd;
+		document.getElementById("diary-entry-date").setAttribute("max", today);
+	  </script>
   </head>
   <body>
 	  {% include header.html %}
