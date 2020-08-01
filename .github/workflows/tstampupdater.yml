@@ -3,6 +3,8 @@ on:
   push:
     paths-ignore:
       - '_includes/header.html'
+      - 'diary/**'
+      - 'posts/**' 
 jobs:
   build:
     runs-on: ubuntu-latest   
