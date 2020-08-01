@@ -119,6 +119,43 @@
 		document.getElementById("diary-entry-date").setAttribute("max", today);
 	  </script>
 	      <script>
+		      var d = new Date();
+		      d = d.toUTCString();
+		      d = d.split(',')[1].split(" ");
+		      year = d[3];
+// 		      month = d[2];
+		      month = ()=>{
+				if(d[2] == "Jan")
+					return "01"
+				if(d[2] == "Feb")
+					return "02"
+				if(d[2] == "Mar")
+					return "03"
+				if(d[2] == "Apr")
+					return "04"
+				if(d[2] == "May")
+					return "05"
+				if(d[2] == "Jun")
+					return "06"
+				if(d[2] == "Jul")
+					return "07"
+				if(d[2] == "Aug")
+					return "08"
+				if(d[2] == "Sep")
+					return "09"
+				if(d[2] == "Oct")
+					return "10"
+				if(d[2] == "Nov")
+					return "11"
+				if(d[2] == "Dec")
+					return "12"
+				}
+		      date = d[1];
+		      datestring = year + '-' + month() + '-' + date;
+		      document.getElementById("diary-entry-date").value = datestring
+		      putNote(datestring);
+	      </script>
+	      <script>
 		function putNote(datestring) {
 			datearr = datestring.split('-');
 			year = datearr[0];
