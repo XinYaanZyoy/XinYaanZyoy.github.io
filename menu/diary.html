@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: diary
 title: diary
 permalink: /diary/
 ---
@@ -8,17 +8,12 @@ permalink: /diary/
 <label for="diary-entry-date">Entry Date:</label>
 <input type="date" id="diary-entry-date" name="diary-entry-date" min="2020-08-01">
 
-<script>
-	  	var today = new Date();
-		var dd = today.getDate();
-		var mm = today.getMonth()+1; //January is 0!
-		var yyyy = today.getFullYear();
-		  if(dd<10){
-			dd='0'+dd
-		    } 
-		    if(mm<10){
-			mm='0'+mm
-		   } 
-		today = yyyy+'-'+mm+'-'+dd;
-		document.getElementById("diary-entry-date").setAttribute("max", today);
-	  </script>
+<div class="paper">
+    <div class="paper-content">
+        <textarea autofocus>Hello world !&#10;Here's a paper textarea tag.</textarea>
+    </div>
+</div>
+    
+<footer>
+    Inspired by a <a href="https://dribbble.com/shots/2126836-Inch-x-Inch-Sneak-Peek-2" target="_blank">Dribble</a> by Allan Peters
+</footer>
