@@ -95,7 +95,11 @@
 		}
 	  </style>
 	  <script>
-		function putNote(year, month, date) {
+		function putNote(datestring) {
+			datearr = datestring.split('-');
+			year = datearr[0];
+			month = datearr[1];
+			date = datearr[2];
 			diary = "https://raw.githubusercontent.com/XinYaanZyoy/XinYaanZyoy.github.io/master/diary";
 			var url = diary + "/" + year + "/" + month + "/" + date + ".txt";
 			var xhr = new XMLHttpRequest();
