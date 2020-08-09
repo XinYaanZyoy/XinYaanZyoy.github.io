@@ -155,7 +155,10 @@
 			var xhr = new XMLHttpRequest();
 			xhr.onreadystatechange = function() {
 			    if (xhr.readyState == XMLHttpRequest.DONE) {
-				document.getElementById("diary").innerHTML = xhr.responseText;
+				if(xhr.responseText.includes("404"))
+				    document.getElementById("diary").innerHTML = "There's no Entry! try to make entries everyday. (if you're XYZ ofc!)"
+				else
+				    document.getElementById("diary").innerHTML = xhr.responseText;
 			    }
 			}
 			xhr.open('GET', url, true);
