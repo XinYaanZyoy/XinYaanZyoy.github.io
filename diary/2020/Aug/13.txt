@@ -1,0 +1,2 @@
+TIMESTAMP
+doing some integrals, it fascinates me! though i had seen gaussian integrals before, but today awesome integrals which are its descendants! also encountered the way Jacobians help in these integrals; i knew jacobinas are used to change the coordinates but it is so sexy when used for change of variables of integrals!
