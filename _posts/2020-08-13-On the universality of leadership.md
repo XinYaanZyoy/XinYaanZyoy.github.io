@@ -7,7 +7,7 @@ It's birthdate of that manifestation of the brahman which tried to establish the
 
 Today i want to discuss about the leadership, its existence, its qualities, its manifestations, its causes etc.. and since it's the day of KRISHNA how is it possible that i don't mention teachings of great PURUSHA! I think this is my 2nd public letter to you in which i mentioned Krishna, I'm pretty sure you understand Krishna and Krishna's existence, and ofc it'd be better than how i do, for now I'll just pen down what i understand.
 
-> leader is not who leads, commands, or manages, a group of people, leader is one who unifies constituents of a group by direct or indirect "actions".
+> leader is not who leads, commands, or manages, a group of people, leader is one who unifies constituents of a group by direct or indirect "actions", to reach the greater universal purpose.
 
 These "actions" of a leader has various properties or qualities but the most important of those or the base of all other qualities is;
 
