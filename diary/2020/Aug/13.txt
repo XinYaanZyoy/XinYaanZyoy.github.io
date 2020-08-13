@@ -1,2 +1,2 @@
 Thu Aug 13 23:22:33 UTC 2020
-doing some integrals, it fascinates me! though i had seen gaussian integrals before, but today awesome integrals which are its descendants! also encountered the way Jacobians help in these integrals; i knew jacobinas are used to change the coordinates but it is so sexy when used for change of variables of integrals!
+doing some integrals, it fascinates me! though i had seen gaussian integrals before, but today encountered awesome integrals which are its descendants! also encountered the way Jacobians help in these integrals; i knew jacobinas are used to change the coordinates but it is so sexy when used for change of variables of integrals! also found out the comments on finding derivative of integral functions by Richard Feynman!
