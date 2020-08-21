@@ -10,9 +10,6 @@ url: "https://XinYaanZyoy.github.io" # the base hostname & protocol for your sit
 twitter_username: XinYaanZyoy
 github_username:  XinYaanZyoy
 
-collections:
-  - notebooks
-
 # Color scheme based on http://www.materialui.co/colors.
   # Possible values:
   # - default
