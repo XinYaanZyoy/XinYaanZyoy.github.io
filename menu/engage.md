@@ -30,6 +30,6 @@ permalink: /engage/
 
 ### Have Conversation with me
 - [Email](mailto:XinYaanZyoy@gmail.com)
-- [Whatsapp](htps://wa.me/+918155903610)
+- [Whatsapp](https://wa.me/+918155903610)
 - [Messenger](https://www.messenger.com/t/49yatriyaan.love)
 - [Discord](https://discordapp.com/channels/@me/XinYaanZyoy/)
