@@ -27,3 +27,9 @@ permalink: /engage/
 - [Google](https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy80OGM3YjZjL3BvZGNhc3QvcnNz&)
 - [RadioPublic](https://radiopublic.com/a-life-of-that-mathysicsian-WY5Awr)
 - [Breaker](https://www.breaker.audio/a-life-of-that-mathysicsian)
+
+### contact me at
+- [Email](mailto:XinYaanZyoy@gmail.com)
+- [Whatsapp](https://we.me/+918155903610)
+- [Messenger](https://www.messenger.com/t/49yatriyaan.love)
+- [Discord](https://discordapp.com/channels/@me/XinYaanZyoy/)
