@@ -8,7 +8,7 @@ TO WHOM I MAY CONCERN,
 👊hola!🙂
 I do only 3 things;
 AI, QG, and ET; [#AIQGET](https://twitter.com/hashtag/AIQGET)!
-I'm a metaphysicist;
+I'm a metaphysicist (#ब्रह्मात्सर्वमुदच्यते);
 engineering is my livelihood;
 computer science is my hobby;
 meet my wife; mathematics, brothers; physics and philosophy, sisters; music, linguistics, arts and biology!
