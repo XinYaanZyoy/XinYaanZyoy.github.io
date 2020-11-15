@@ -23,12 +23,12 @@ if [ -d "$DIR" ]; then
                 more "$DIR/$year/$month/$date.txt"
                 echo _____
                 echo replacing the note
-                cat $keyterm note.txt > "$DIR/$year/$month/$date.txt"
+                echo "$keyterm, \n, $(< note.txt)" > "$DIR/$year/$month/$date.txt"
                 echo saved!
                 status=true;
             else
                 echo creating today note
-                cat $keyterm note.txt > "$DIR/$year/$month/$date.txt"
+                echo "$keyterm, \n, $(< note.txt)" > "$DIR/$year/$month/$date.txt"
                 echo saved!
                 status=true;
             fi
@@ -43,12 +43,12 @@ if [ -d "$DIR" ]; then
                 more "$DIR/$year/$month/$date.txt"
                 echo _____
                 echo replacing the note
-                cat $keyterm note.txt > "$DIR/$year/$month/$date.txt"
+                echo "$keyterm, \n, $(< note.txt)" > "$DIR/$year/$month/$date.txt"
                 echo saved!
                 status=true;
             else
                 echo creating today note
-                cat $keyterm note.txt > "$DIR/$year/$month/$date.txt"
+                echo "$keyterm, \n, $(< note.txt)" > "$DIR/$year/$month/$date.txt"
                 echo saved!
                 status=true;
             fi
@@ -66,12 +66,12 @@ if [ -d "$DIR" ]; then
                 more "$DIR/$year/$month/$date.txt"
                 echo _____
                 echo replacing the note
-                cat $keyterm note.txt > "$DIR/$year/$month/$date.txt"
+                echo "$keyterm, \n, $(< note.txt)" > "$DIR/$year/$month/$date.txt"
                 echo saved!
                 status=true;
             else
                 echo creating today note
-                cat $keyterm note.txt > "$DIR/$year/$month/$date.txt"
+                echo "$keyterm, \n, $(< note.txt)" > "$DIR/$year/$month/$date.txt"
                 echo saved!
                 status=true;
             fi
@@ -86,12 +86,12 @@ if [ -d "$DIR" ]; then
                 more "$DIR/$year/$month/$date.txt"
                 echo _____
                 echo replacing the note
-                cat $keyterm note.txt > "$DIR/$year/$month/$date.txt"
+                echo "$keyterm, \n, $(< note.txt)" > "$DIR/$year/$month/$date.txt"
                 echo saved!
                 status=true;
             else
                 echo creating today note
-                cat $keyterm note.txt > "$DIR/$year/$month/$date.txt"
+                echo "$keyterm, \n, $(< note.txt)" > "$DIR/$year/$month/$date.txt"
                 echo saved!
                 status=true;
             fi
