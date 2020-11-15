@@ -18,7 +18,7 @@ if [ -d "$DIR" ]; then
         if [ -d "$DIR/$year/$month" ]; then
             echo found $month
             if [ -f "$DIR/$year/$month/$date.txt" ]; then
-                echo today's note already saved
+                echo today note already saved
                 echo _____
                 more "$DIR/$year/$month/$date.txt"
                 echo _____
@@ -27,7 +27,7 @@ if [ -d "$DIR" ]; then
                 echo saved!
                 status=true;
             else
-                echo creating today's note
+                echo creating today note
                 cat > "$DIR/$year/$month/$date.txt" << EOF
                 echo saved!
                 status=true;
@@ -38,7 +38,7 @@ if [ -d "$DIR" ]; then
             mkdir "$DIR/$year/$month"
             echo created $month
             if [ -f "$DIR/$year/$month/$date.txt" ]; then
-                echo today's note already saved
+                echo today note already saved
                 echo _____
                 more "$DIR/$year/$month/$date.txt"
                 echo _____
@@ -47,7 +47,7 @@ if [ -d "$DIR" ]; then
                 echo saved!
                 status=true;
             else
-                echo creating today's note
+                echo creating today note
                 cat > "$DIR/$year/$month/$date.txt" << EOF
                 echo saved!
                 status=true;
@@ -61,7 +61,7 @@ if [ -d "$DIR" ]; then
         if [ -d "$DIR/$year/$month" ]; then
             echo found $month
             if [ -f "$DIR/$year/$month/$date.txt" ]; then
-                echo today's note already saved
+                echo today note already saved
                 echo _____
                 more "$DIR/$year/$month/$date.txt"
                 echo _____
@@ -70,7 +70,7 @@ if [ -d "$DIR" ]; then
                 echo saved!
                 status=true;
             else
-                echo creating today's note
+                echo creating today note
                 cat > "$DIR/$year/$month/$date.txt" << EOF
                 echo saved!
                 status=true;
@@ -81,7 +81,7 @@ if [ -d "$DIR" ]; then
             mkdir "$DIR/$year/$month"
             echo created $month
             if [ -f "$DIR/$year/$month/$date.txt" ]; then
-                echo today's note already saved
+                echo today note already saved
                 echo _____
                 more "$DIR/$year/$month/$date.txt"
                 echo _____
@@ -90,7 +90,7 @@ if [ -d "$DIR" ]; then
                 echo saved!
                 status=true;
             else
-                echo creating today's note
+                echo creating today note
                 cat > "$DIR/$year/$month/$date.txt" << EOF
                 echo saved!
                 status=true;
