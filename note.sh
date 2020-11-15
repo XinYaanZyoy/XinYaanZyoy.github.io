@@ -23,12 +23,12 @@ if [ -d "$DIR" ]; then
                 more "$DIR/$year/$month/$date.txt"
                 echo _____
                 echo replacing the note
-                cat > "$DIR/$year/$month/$date.txt" << EOF
+                cat $keyterm note.txt > "$DIR/$year/$month/$date.txt"
                 echo saved!
                 status=true;
             else
                 echo creating today note
-                cat > "$DIR/$year/$month/$date.txt" << EOF
+                cat $keyterm note.txt > "$DIR/$year/$month/$date.txt"
                 echo saved!
                 status=true;
             fi
@@ -43,12 +43,12 @@ if [ -d "$DIR" ]; then
                 more "$DIR/$year/$month/$date.txt"
                 echo _____
                 echo replacing the note
-                cat > "$DIR/$year/$month/$date.txt" << EOF
+                cat $keyterm note.txt > "$DIR/$year/$month/$date.txt"
                 echo saved!
                 status=true;
             else
                 echo creating today note
-                cat > "$DIR/$year/$month/$date.txt" << EOF
+                cat $keyterm note.txt > "$DIR/$year/$month/$date.txt"
                 echo saved!
                 status=true;
             fi
@@ -66,12 +66,12 @@ if [ -d "$DIR" ]; then
                 more "$DIR/$year/$month/$date.txt"
                 echo _____
                 echo replacing the note
-                cat > "$DIR/$year/$month/$date.txt" << EOF
+                cat $keyterm note.txt > "$DIR/$year/$month/$date.txt"
                 echo saved!
                 status=true;
             else
                 echo creating today note
-                cat > "$DIR/$year/$month/$date.txt" << EOF
+                cat $keyterm note.txt > "$DIR/$year/$month/$date.txt"
                 echo saved!
                 status=true;
             fi
@@ -86,12 +86,12 @@ if [ -d "$DIR" ]; then
                 more "$DIR/$year/$month/$date.txt"
                 echo _____
                 echo replacing the note
-                cat > "$DIR/$year/$month/$date.txt" << EOF
+                cat $keyterm note.txt > "$DIR/$year/$month/$date.txt"
                 echo saved!
                 status=true;
             else
                 echo creating today note
-                cat > "$DIR/$year/$month/$date.txt" << EOF
+                cat $keyterm note.txt > "$DIR/$year/$month/$date.txt"
                 echo saved!
                 status=true;
             fi
@@ -104,7 +104,7 @@ fi
 if [ "$status" = true ]; then
   echo $'\n'"git status: $(git status)"$'\n';
   git add "$DIR/$year/$month/$date.txt"
-  git commit -m "diary-entry: $stamp"
+  git commit -m "note-entry: $stamp"
   git pull --rebase origin master
   git push origin master
   echo End Of note entry;
