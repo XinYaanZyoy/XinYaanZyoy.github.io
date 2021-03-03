@@ -4,39 +4,164 @@ title: Library
 permalink: /library/
 ---
 
-NOTE: this might not be up-to-date, follow me on goodreads for that, [here](https://www.goodreads.com/XinYaanZyoy).
+NOTE: this is not be up-to-date, follow me on goodreads for that, [here](https://www.goodreads.com/XinYaanZyoy).
 
-<div id="gr_challenge_11650" style="border: 2px solid #EBE8D5; border-radius:10px; padding: 0px 7px 0px 7px; max-width:230px; min-height: 100px">
-  <div id="gr_challenge_progress_body_11650" style="font-size: 12px; font-family: georgia,serif;line-height: 18px">
-    <h3 style="margin: 4px 0 10px; font-weight: normal; text-align: center">
-      <a style="text-decoration: none; font-family:georgia,serif;font-style:italic; font-size: 1.1em" rel="nofollow" href="https://www.goodreads.com/challenges/11650-2021-reading-challenge">2021 Reading Challenge</a>
-    </h3>
-        <div class="challengePic">
-          <a rel="nofollow" href="https://www.goodreads.com/challenges/11650-2021-reading-challenge"><img alt="2021 Reading Challenge" style="float:left; margin-right: 10px; border: 0 none" src="https://images.gr-assets.com/challenges/1608245803p2/11650.jpg" /></a>
-        </div>
-      <div>
-        <a rel="nofollow" href="https://www.goodreads.com/user/show/75836811-xinyaanzyoy">XinYaanZyoy</a> has
-             read 0 books toward
-             their goal of
-             21 books.
-      </div>
-      <div style="width: 100px; margin: 4px 5px 5px 0; float: left; border: 1px solid #382110; height: 8px; overflow: hidden; background-color: #FFF">
-        <div style="width: 0%; background-color: #D7D2C4; float: left"><span style="visibility:hidden">hide</span></div>
-      </div>
-      <div style="font-family: arial, verdana, helvetica, sans-serif;font-size:90%">
-        <a rel="nofollow" href="https://www.goodreads.com/user_challenges/28209441">0 of 21 (0%)</a>
-      </div>
-        <div style="text-align: right;">
-          <a style="text-decoration: none; font-size: 10px;" rel="nofollow" href="https://www.goodreads.com/user_challenges/28209441">view books</a>
-        </div>
+<hr/>
+      <style type="text/css" media="screen">
+        .gr_grid_container {
+          /* customize grid container div here. eg: width: 500px; */
+        }
+
+        .gr_grid_book_container {
+          /* customize book cover container div here */
+          float: left;
+          width: 39px;
+          height: 60px;
+          padding: 0px 0px;
+          overflow: hidden;
+        }
+      </style>
+      <div id="gr_grid_widget_1614786832">
+        <!-- Show static html as a placeholder in case js is not enabled - javascript include will override this if things work -->
+            <h2>
+      <a style="text-decoration: none;" rel="nofollow" href="https://www.goodreads.com/review/list/75836811-xinyaanzyoy?shelf=currently-reading&utm_medium=api&utm_source=grid_widget">XinYaanZyoy's currently-reading book montage</a>
+    </h2>
+  <div class="gr_grid_container">
+    <div class="gr_grid_book_container"><a title="The Road to Reality: A Complete Guide to the Laws of the Universe" rel="nofollow" href="https://www.goodreads.com/book/show/10638.The_Road_to_Reality"><img alt="The Road to Reality: A Complete Guide to the Laws of the Universe" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1386924912l/10638._SX50_.jpg" /></a></div>
+  <noscript><br/>Share <a rel="nofollow" href="/">book reviews</a> and ratings with XinYaanZyoy, and even join a <a rel="nofollow" href="/group">book club</a> on Goodreads.</noscript>
   </div>
-	<script src="https://www.goodreads.com/user_challenges/widget/75836811-xinyaanzyoy?challenge_id=11650&v=2"></script>
-</div>
+
+      </div>
+      <script src="https://www.goodreads.com/review/grid_widget/75836811.XinYaanZyoy's%20currently-reading%20book%20montage?cover_size=small&hide_link=true&hide_title=&num_books=200&order=a&shelf=currently-reading&sort=date_added&widget_id=1614786832" type="text/javascript" charset="utf-8"></script>
+
+<hr/>
 
 
-- goodreads
-  - [Currently Reading](/library/currently-reading)
-  - [Have Read](/library/have-read)
-  - [Will be Reading](/library/to-read)
+<hr/>
+      <style type="text/css" media="screen">
+        .gr_grid_container {
+          /* customize grid container div here. eg: width: 500px; */
+        }
 
-<div style="border: 2px solid #EBE8D5; border-radius:10px; padding: 0px 7px 0px 7px;"><h3 style=""><a href="https://www.goodreads.com/user/show/75836811-xinyaanzyoy" style="text-decoration: none;color:#aaa;font-family:georgia,serif;font-style:italic;" rel="nofollow">XinYaanZyoy’s quotes</a></h3><br/><div id="gr_quote_body"></div><script src="https://www.goodreads.com/quotes/widget/75836811-xinyaanzyoy?v=2" type="text/javascript"></script><div style="text-align: right;"><a href="https://www.goodreads.com/quotes" style="color: #382110; text-decoration: none; font-size: 10px;" rel="nofollow">Goodreads Quotes</a></div></div>
+        .gr_grid_book_container {
+          /* customize book cover container div here */
+          float: left;
+          width: 39px;
+          height: 60px;
+          padding: 0px 0px;
+          overflow: hidden;
+        }
+      </style>
+      <div id="gr_grid_widget_1614786847">
+        <!-- Show static html as a placeholder in case js is not enabled - javascript include will override this if things work -->
+            <h2>
+      <a style="text-decoration: none;" rel="nofollow" href="https://www.goodreads.com/review/list/75836811-xinyaanzyoy?shelf=read&utm_medium=api&utm_source=grid_widget">XinYaanZyoy's read book montage</a>
+    </h2>
+  <div class="gr_grid_container">
+    <div class="gr_grid_book_container"><a title="Mathematics and Its History" rel="nofollow" href="https://www.goodreads.com/book/show/946185.Mathematics_and_Its_History"><img alt="Mathematics and Its History" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1347970151l/946185._SY75_.jpg" /></a></div>
+    <div class="gr_grid_book_container"><a title="CAN is the word of Power" rel="nofollow" href="https://www.goodreads.com/book/show/8603685-can-is-the-word-of-power"><img alt="CAN is the word of Power" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1394273615l/8603685._SY75_.jpg" /></a></div>
+    <div class="gr_grid_book_container"><a title="For the Love of Physics: From the End of the Rainbow to the Edge of Time - A Journey Through the Wonders of Physics" rel="nofollow" href="https://www.goodreads.com/book/show/7841672-for-the-love-of-physics"><img alt="For the Love of Physics: From the End of the Rainbow to the Edge of Time - A Journey Through the Wonders of Physics" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1438420090l/7841672._SY75_.jpg" /></a></div>
+    <div class="gr_grid_book_container"><a title="What If? Serious Scientific Answers to Absurd Hypothetical Questions" rel="nofollow" href="https://www.goodreads.com/book/show/21413662-what-if-serious-scientific-answers-to-absurd-hypothetical-questions"><img alt="What If? Serious Scientific Answers to Absurd Hypothetical Questions" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1451351509l/21413662._SX50_.jpg" /></a></div>
+    <div class="gr_grid_book_container"><a title="Cosmos (Gujarati)" rel="nofollow" href="https://www.goodreads.com/book/show/17218785-cosmos"><img alt="Cosmos" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1357558182l/17218785._SX50_.jpg" /></a></div>
+    <div class="gr_grid_book_container"><a title="Einstein ane sapekshavad" rel="nofollow" href="https://www.goodreads.com/book/show/23611449-einstein-ane-sapekshavad"><img alt="Einstein ane sapekshavad" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1416909700l/23611449._SY75_.jpg" /></a></div>
+  <noscript><br/>Share <a rel="nofollow" href="/">book reviews</a> and ratings with XinYaanZyoy, and even join a <a rel="nofollow" href="/group">book club</a> on Goodreads.</noscript>
+  </div>
+
+      </div>
+      <script src="https://www.goodreads.com/review/grid_widget/75836811.XinYaanZyoy's%20read%20book%20montage?cover_size=small&hide_link=true&hide_title=&num_books=200&order=a&shelf=read&sort=date_added&widget_id=1614786847" type="text/javascript" charset="utf-8"></script>
+
+<hr/>
+
+
+<hr/>
+      <style type="text/css" media="screen">
+        .gr_grid_container {
+          /* customize grid container div here. eg: width: 500px; */
+        }
+
+        .gr_grid_book_container {
+          /* customize book cover container div here */
+          float: left;
+          width: 39px;
+          height: 60px;
+          padding: 0px 0px;
+          overflow: hidden;
+        }
+      </style>
+      <div id="gr_grid_widget_1614786862">
+        <!-- Show static html as a placeholder in case js is not enabled - javascript include will override this if things work -->
+            <h2>
+      <a style="text-decoration: none;" rel="nofollow" href="https://www.goodreads.com/review/list/75836811-xinyaanzyoy?shelf=to-read&utm_medium=api&utm_source=grid_widget">XinYaanZyoy's to-read book montage</a>
+    </h2>
+  <div class="gr_grid_container">
+    <div class="gr_grid_book_container"><a title="Euclid's Elements" rel="nofollow" href="https://www.goodreads.com/book/show/214441.Euclid_s_Elements"><img alt="Euclid's Elements" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1386924722l/214441._SX50_.jpg" /></a></div>
+    <div class="gr_grid_book_container"><a title="Faraday, Maxwell, and the Electromagnetic Field: How Two Men Revolutionized Physics" rel="nofollow" href="https://www.goodreads.com/book/show/18240286-faraday-maxwell-and-the-electromagnetic-field"><img alt="Faraday, Maxwell, and the Electromagnetic Field: How Two Men Revolutionized Physics" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1390172532l/18240286._SY75_.jpg" /></a></div>
+    <div class="gr_grid_book_container"><a title="Vocabulary Advantage: GRE/GMAT/CAT and Other Examinations" rel="nofollow" href="https://www.goodreads.com/book/show/39069388-vocabulary-advantage"><img alt="Vocabulary Advantage: GRE/GMAT/CAT and Other Examinations" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1520398379l/39069388._SX50_.jpg" /></a></div>
+    <div class="gr_grid_book_container"><a title="Topics in Advanced Model Rocketry" rel="nofollow" href="https://www.goodreads.com/book/show/1431963.Topics_in_Advanced_Model_Rocketry"><img alt="Topics in Advanced Model Rocketry" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1387701955l/1431963._SX50_.jpg" /></a></div>
+    <div class="gr_grid_book_container"><a title="The Computer Modeling of Mathematical Reasoning" rel="nofollow" href="https://www.goodreads.com/book/show/3119407-the-computer-modeling-of-mathematical-reasoning"><img alt="The Computer Modeling of Mathematical Reasoning" border="0" src="https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png" /></a></div>
+    <div class="gr_grid_book_container"><a title="Basic Topology" rel="nofollow" href="https://www.goodreads.com/book/show/116425.Basic_Topology"><img alt="Basic Topology" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348835819l/116425._SX50_.jpg" /></a></div>
+    <div class="gr_grid_book_container"><a title="Topology" rel="nofollow" href="https://www.goodreads.com/book/show/4955922-topology"><img alt="Topology" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348944409l/4955922._SX50_.jpg" /></a></div>
+    <div class="gr_grid_book_container"><a title="Groups and Symmetry" rel="nofollow" href="https://www.goodreads.com/book/show/2467390.Groups_and_Symmetry"><img alt="Groups and Symmetry" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348581594l/2467390._SY75_.jpg" /></a></div>
+    <div class="gr_grid_book_container"><a title="Lineare Algebra" rel="nofollow" href="https://www.goodreads.com/book/show/7213290-lineare-algebra"><img alt="Lineare Algebra" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1267329743l/7213290._SY75_.jpg" /></a></div>
+    <div class="gr_grid_book_container"><a title="Vector Analysis" rel="nofollow" href="https://www.goodreads.com/book/show/2228559.Vector_Analysis"><img alt="Vector Analysis" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348543069l/2228559._SX50_.jpg" /></a></div>
+    <div class="gr_grid_book_container"><a title="Mathematical Methods of Classical Mechanics" rel="nofollow" href="https://www.goodreads.com/book/show/245487.Mathematical_Methods_of_Classical_Mechanics"><img alt="Mathematical Methods of Classical Mechanics" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348941395l/245487._SX50_.jpg" /></a></div>
+    <div class="gr_grid_book_container"><a title="Ordinary Differential Equations" rel="nofollow" href="https://www.goodreads.com/book/show/1115400.Ordinary_Differential_Equations"><img alt="Ordinary Differential Equations" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1347263412l/1115400._SY75_.jpg" /></a></div>
+    <div class="gr_grid_book_container"><a title="Catastrophe Theory" rel="nofollow" href="https://www.goodreads.com/book/show/938173.Catastrophe_Theory"><img alt="Catastrophe Theory" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1371438445l/938173._SY75_.jpg" /></a></div>
+    <div class="gr_grid_book_container"><a title="Lectures on Partial Differential Equations" rel="nofollow" href="https://www.goodreads.com/book/show/155543.Lectures_on_Partial_Differential_Equations"><img alt="Lectures on Partial Differential Equations" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348202109l/155543._SY75_.jpg" /></a></div>
+    <div class="gr_grid_book_container"><a title="Huygens & Barrow, Newton & Hooke: pioneers in mathematical analysis and catastrophe theory" rel="nofollow" href="https://www.goodreads.com/book/show/612357.Huygens_Barrow_Newton_Hooke"><img alt="Huygens & Barrow, Newton & Hooke: pioneers in mathematical analysis and catastrophe theory" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1382936037l/612357._SX50_.jpg" /></a></div>
+    <div class="gr_grid_book_container"><a title="Mathematical Understanding of Nature: Essays on Amazing Physical Phenomena and Their Understanding by Mathematicians" rel="nofollow" href="https://www.goodreads.com/book/show/25332440-mathematical-understanding-of-nature"><img alt="Mathematical Understanding of Nature: Essays on Amazing Physical Phenomena and Their Understanding by Mathematicians" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1428645888l/25332440._SY75_.jpg" /></a></div>
+    <div class="gr_grid_book_container"><a title="Topological Methods in Hydrodynamics" rel="nofollow" href="https://www.goodreads.com/book/show/2643958-topological-methods-in-hydrodynamics"><img alt="Topological Methods in Hydrodynamics" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1349025515l/2643958._SX50_.jpg" /></a></div>
+    <div class="gr_grid_book_container"><a title="Arnold's Problems" rel="nofollow" href="https://www.goodreads.com/book/show/155541.Arnold_s_Problems"><img alt="Arnold's Problems" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348692514l/155541._SX50_.jpg" /></a></div>
+    <div class="gr_grid_book_container"><a title="Yesterday and Long Ago" rel="nofollow" href="https://www.goodreads.com/book/show/78724.Yesterday_and_Long_Ago"><img alt="Yesterday and Long Ago" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348671149l/78724._SX50_.jpg" /></a></div>
+    <div class="gr_grid_book_container"><a title="A History of Mathematics" rel="nofollow" href="https://www.goodreads.com/book/show/326148.A_History_of_Mathematics"><img alt="A History of Mathematics" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348085392l/326148._SY75_.jpg" /></a></div>
+  <noscript><br/>Share <a rel="nofollow" href="/">book reviews</a> and ratings with XinYaanZyoy, and even join a <a rel="nofollow" href="/group">book club</a> on Goodreads.</noscript>
+  </div>
+
+      </div>
+      <script src="https://www.goodreads.com/review/grid_widget/75836811.XinYaanZyoy's%20to-read%20book%20montage?cover_size=small&hide_link=true&hide_title=&num_books=200&order=a&shelf=to-read&sort=date_added&widget_id=1614786862" type="text/javascript" charset="utf-8"></script>
+
+
+      <style type="text/css" media="screen">
+        .gr_grid_container {
+          /* customize grid container div here. eg: width: 500px; */
+        }
+
+        .gr_grid_book_container {
+          /* customize book cover container div here */
+          float: left;
+          width: 39px;
+          height: 60px;
+          padding: 0px 0px;
+          overflow: hidden;
+        }
+      </style>
+      <div id="gr_grid_widget_1614786884">
+        <!-- Show static html as a placeholder in case js is not enabled - javascript include will override this if things work -->
+          <div class="gr_grid_container">
+    <div class="gr_grid_book_container"><a title="The Secret (The Secret, #1)" rel="nofollow" href="https://www.goodreads.com/book/show/52529.The_Secret"><img alt="The Secret" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1591728338l/52529._SX50_.jpg" /></a></div>
+    <div class="gr_grid_book_container"><a title="Autobiography of a Yogi" rel="nofollow" href="https://www.goodreads.com/book/show/639864.Autobiography_of_a_Yogi"><img alt="Autobiography of a Yogi" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1347427162l/639864._SY75_.jpg" /></a></div>
+    <div class="gr_grid_book_container"><a title="The Art of Happiness" rel="nofollow" href="https://www.goodreads.com/book/show/38210.The_Art_of_Happiness"><img alt="The Art of Happiness" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1309287434l/38210._SX50_.jpg" /></a></div>
+    <div class="gr_grid_book_container"><a title="Tao Te Ching" rel="nofollow" href="https://www.goodreads.com/book/show/67896.Tao_Te_Ching"><img alt="Tao Te Ching" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1333578861l/67896._SY75_.jpg" /></a></div>
+    <div class="gr_grid_book_container"><a title="Siddhartha" rel="nofollow" href="https://www.goodreads.com/book/show/52036.Siddhartha"><img alt="Siddhartha" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1428715580l/52036._SY75_.jpg" /></a></div>
+    <div class="gr_grid_book_container"><a title="The Alchemist" rel="nofollow" href="https://www.goodreads.com/book/show/18144590-the-alchemist"><img alt="The Alchemist" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1466865542l/18144590._SY75_.jpg" /></a></div>
+    <div class="gr_grid_book_container"><a title="Astrophysics for People in a Hurry" rel="nofollow" href="https://www.goodreads.com/book/show/32191710-astrophysics-for-people-in-a-hurry"><img alt="Astrophysics for People in a Hurry" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1562761669l/32191710._SY75_.jpg" /></a></div>
+    <div class="gr_grid_book_container"><a title="Cosmos" rel="nofollow" href="https://www.goodreads.com/book/show/55030.Cosmos"><img alt="Cosmos" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388620656l/55030._SX50_.jpg" /></a></div>
+    <div class="gr_grid_book_container"><a title="The Selfish Gene" rel="nofollow" href="https://www.goodreads.com/book/show/61535.The_Selfish_Gene"><img alt="The Selfish Gene" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1366758096l/61535._SY75_.jpg" /></a></div>
+    <div class="gr_grid_book_container"><a title="A History of God: The 4,000-Year Quest of Judaism, Christianity, and Islam" rel="nofollow" href="https://www.goodreads.com/book/show/3873.A_History_of_God"><img alt="A History of God: The 4,000-Year Quest of Judaism, Christianity, and Islam" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1386924363l/3873._SX50_.jpg" /></a></div>
+    <div class="gr_grid_book_container"><a title="God Is Not Great: How Religion Poisons Everything" rel="nofollow" href="https://www.goodreads.com/book/show/43369.God_Is_Not_Great"><img alt="God Is Not Great: How Religion Poisons Everything" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1411218313l/43369._SY75_.jpg" /></a></div>
+    <div class="gr_grid_book_container"><a title="The God Delusion" rel="nofollow" href="https://www.goodreads.com/book/show/14743.The_God_Delusion"><img alt="The God Delusion" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1347220693l/14743._SY75_.jpg" /></a></div>
+    <div class="gr_grid_book_container"><a title="The Nicomachean Ethics" rel="nofollow" href="https://www.goodreads.com/book/show/19068.The_Nicomachean_Ethics"><img alt="The Nicomachean Ethics" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1520339295l/19068._SY75_.jpg" /></a></div>
+    <div class="gr_grid_book_container"><a title="The Art of War" rel="nofollow" href="https://www.goodreads.com/book/show/10534.The_Art_of_War"><img alt="The Art of War" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1453417993l/10534._SY75_.jpg" /></a></div>
+    <div class="gr_grid_book_container"><a title="The Subtle Art of Not Giving a F*ck: A Counterintuitive Approach to Living a Good Life" rel="nofollow" href="https://www.goodreads.com/book/show/28257707-the-subtle-art-of-not-giving-a-f-ck"><img alt="The Subtle Art of Not Giving a F*ck: A Counterintuitive Approach to Living a Good Life" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1465761302l/28257707._SX50_.jpg" /></a></div>
+    <div class="gr_grid_book_container"><a title="Meditations" rel="nofollow" href="https://www.goodreads.com/book/show/30659.Meditations"><img alt="Meditations" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1421618636l/30659._SY75_.jpg" /></a></div>
+    <div class="gr_grid_book_container"><a title="Euthyphro, Apologia Socratis, Crito, Phaedo, Cratylus, Sophista, Politicus, Theaetetus" rel="nofollow" href="https://www.goodreads.com/book/show/294579.Euthyphro_Apologia_Socratis_Crito_Phaedo_Cratylus_Sophista_Politicus_Theaetetus"><img alt="Euthyphro, Apologia Socratis, Crito, Phaedo, Cratylus, Sophista, Politicus, Theaetetus" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1347185976l/294579._SY75_.jpg" /></a></div>
+    <div class="gr_grid_book_container"><a title="Sapiens: A Brief History of Humankind" rel="nofollow" href="https://www.goodreads.com/book/show/23692271-sapiens"><img alt="Sapiens: A Brief History of Humankind" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1595674533l/23692271._SY75_.jpg" /></a></div>
+    <div class="gr_grid_book_container"><a title="Light Falls: Space, Time, and an Obsession of Einstein" rel="nofollow" href="https://www.goodreads.com/book/show/32796171-light-falls"><img alt="Light Falls: Space, Time, and an Obsession of Einstein" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1497721479l/32796171._SX50_.jpg" /></a></div>
+    <div class="gr_grid_book_container"><a title="Until the End of Time: Mind, Matter, and Our Search for Meaning in an Evolving Universe" rel="nofollow" href="https://www.goodreads.com/book/show/43685238-until-the-end-of-time"><img alt="Until the End of Time: Mind, Matter, and Our Search for Meaning in an Evolving Universe" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1582412454l/43685238._SY75_.jpg" /></a></div>
+  <noscript><br/>Share <a rel="nofollow" href="/">book reviews</a> and ratings with XinYaanZyoy, and even join a <a rel="nofollow" href="/group">book club</a> on Goodreads.</noscript>
+  </div>
+
+      </div>
+      <script src="https://www.goodreads.com/review/grid_widget/75836811.XinYaanZyoy's%20to-read%20book%20montage?cover_size=small&hide_link=true&hide_title=true&num_books=200&order=d&shelf=to-read&sort=date_added&widget_id=1614786884" type="text/javascript" charset="utf-8"></script>
+
+<hr/>
