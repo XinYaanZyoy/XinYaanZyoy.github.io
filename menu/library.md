@@ -6,7 +6,6 @@ permalink: /library/
 
 NOTE: this is not be up-to-date, follow me on goodreads for that, [here](https://www.goodreads.com/XinYaanZyoy).
 
-<hr/>
       <style type="text/css" media="screen">
         .gr_grid_container {
           /* customize grid container div here. eg: width: 500px; */
@@ -34,10 +33,6 @@ NOTE: this is not be up-to-date, follow me on goodreads for that, [here](https:/
       </div>
       <script src="https://www.goodreads.com/review/grid_widget/75836811.XinYaanZyoy's%20currently-reading%20book%20montage?cover_size=small&hide_link=true&hide_title=&num_books=200&order=a&shelf=currently-reading&sort=date_added&widget_id=1614786832" type="text/javascript" charset="utf-8"></script>
 
-<hr/>
-
-
-<hr/>
       <style type="text/css" media="screen">
         .gr_grid_container {
           /* customize grid container div here. eg: width: 500px; */
@@ -56,8 +51,9 @@ NOTE: this is not be up-to-date, follow me on goodreads for that, [here](https:/
         <!-- Show static html as a placeholder in case js is not enabled - javascript include will override this if things work -->
             <h2>
       <a style="text-decoration: none;" rel="nofollow" href="https://www.goodreads.com/review/list/75836811-xinyaanzyoy?shelf=read&utm_medium=api&utm_source=grid_widget">XinYaanZyoy's read book montage</a>
-    </h2>
-  <div class="gr_grid_container">
+
+
+<div class="gr_grid_container">
     <div class="gr_grid_book_container"><a title="Mathematics and Its History" rel="nofollow" href="https://www.goodreads.com/book/show/946185.Mathematics_and_Its_History"><img alt="Mathematics and Its History" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1347970151l/946185._SY75_.jpg" /></a></div>
     <div class="gr_grid_book_container"><a title="CAN is the word of Power" rel="nofollow" href="https://www.goodreads.com/book/show/8603685-can-is-the-word-of-power"><img alt="CAN is the word of Power" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1394273615l/8603685._SY75_.jpg" /></a></div>
     <div class="gr_grid_book_container"><a title="For the Love of Physics: From the End of the Rainbow to the Edge of Time - A Journey Through the Wonders of Physics" rel="nofollow" href="https://www.goodreads.com/book/show/7841672-for-the-love-of-physics"><img alt="For the Love of Physics: From the End of the Rainbow to the Edge of Time - A Journey Through the Wonders of Physics" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1438420090l/7841672._SY75_.jpg" /></a></div>
@@ -70,11 +66,8 @@ NOTE: this is not be up-to-date, follow me on goodreads for that, [here](https:/
       </div>
       <script src="https://www.goodreads.com/review/grid_widget/75836811.XinYaanZyoy's%20read%20book%20montage?cover_size=small&hide_link=true&hide_title=&num_books=200&order=a&shelf=read&sort=date_added&widget_id=1614786847" type="text/javascript" charset="utf-8"></script>
 
-<hr/>
 
-
-<hr/>
-      <style type="text/css" media="screen">
+<style type="text/css" media="screen">
         .gr_grid_container {
           /* customize grid container div here. eg: width: 500px; */
         }
@@ -164,4 +157,3 @@ NOTE: this is not be up-to-date, follow me on goodreads for that, [here](https:/
       </div>
       <script src="https://www.goodreads.com/review/grid_widget/75836811.XinYaanZyoy's%20to-read%20book%20montage?cover_size=small&hide_link=true&hide_title=true&num_books=200&order=d&shelf=to-read&sort=date_added&widget_id=1614786884" type="text/javascript" charset="utf-8"></script>
 
-<hr/>
