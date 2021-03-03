@@ -4,6 +4,7 @@ title: Library
 permalink: /library/
 ---
 
+NOTE: this might not be up-to-date, follow me on goodreads for that, [here](https://www.goodreads.com/XinYaanZyoy).
 
 <div id="gr_challenge_11650" style="border: 2px solid #EBE8D5; border-radius:10px; padding: 0px 7px 0px 7px; max-width:230px; min-height: 100px">
   <div id="gr_challenge_progress_body_11650" style="font-size: 12px; font-family: georgia,serif;line-height: 18px">
