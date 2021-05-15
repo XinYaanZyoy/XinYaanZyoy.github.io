@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/xinyaanzyoy
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://xinyaanzyoy.github.io
+  * I am xinyaanzyoy (https://keybase.io/xinyaanzyoy) on keybase.
+  * I have a public key with fingerprint 8E99 E475 FCEF EEB9 DC38  91A6 931C D1A8 D9F0 405C
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0101325721124f1f89f32562abc004a66c913c76e293143e16e1d68979c3c7040eca0a",
+      "fingerprint": "8e99e475fcefeeb9dc3891a6931cd1a8d9f0405c",
+      "host": "keybase.io",
+      "key_id": "931cd1a8d9f0405c",
+      "kid": "0101325721124f1f89f32562abc004a66c913c76e293143e16e1d68979c3c7040eca0a",
+      "uid": "41817d401d75aae55becfd223dde6f19",
+      "username": "xinyaanzyoy"
+    },
+    "service": {
+      "hostname": "xinyaanzyoy.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1621095175,
+  "expire_in": 157680000,
+  "prev": "54d2effae76531b78605746fa6c443bb6bfa3b1b8c01a6bdfd9b392571faeb53",
+  "seqno": 4,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.1.13
+Comment: https://keybase.io/crypto
+
+yMIuAnicrZJrbExBFMe3VUWpIJSSSFxRCVV37vsukRAkJU0rSNUj25k7c3dvu+5d
+u3d3u2qFeEdWE6+miEc00YiSbEQk2rRl2cgKkagoTUMaJYRI6vkFc4tPfDRfJufM
+//+bc85MKn+YKy+rcs1ktwXZM1mZrvNhV/WZwRH1DLJwjHHXM7VkaCN+TEK2p9bA
+jJthAQt4TpQ5ADhBB7qi6jSUOIg0lhWgJGkq4DVZIpzKA4EnQCIAS4oqqxpNswJL
+NMhCppjRDdNLgoGgYdoUqxBVJYIs6hrRCUEq1nhFBVCiEA0DqGBVp15Ro0afFXIc
+tDgEQ6TEsGiOBp6h8v6h/891h4dwAlCAjAUWYFmEkIgiIpqOOY7HmEg6UB1hiARN
+uJlQdZ1hxiA0t8asGBMvZuhBxNCIM1unmb9FJV7D9oXRr94CQcu2NMtPJT7bDoTc
+DsKOBRxPlCDPb5oHGSamM6WOCAmGDMtk3IAqNdtw8EDiAKuKQBaLGVIXMILEYzgK
+UZYUli7nHhKhSFHAHNF1SGRJ5AGSFYkVZUHSoaQJAo+QhHTII4AUjaXvg7COVcSr
+dLKAepDIM05/W0yLcQu0TOilyJDhNaEdDhImfrNzY44rK8+VOzzb+WuuvFHj/vzA
+7tsjvgsNLjThwzZuV8+yssWezkJhdk1HAUpd/Z7Q7iTOVUzddWfiYdLQmfPtWdrX
+h/ev+/r6afery++PTP84KXF/6YGx506VJqcVnX0552zvqqop8U8nvg1LF5xvLtrd
+mHx0qWznnilfmvel/AurZ63OtIypq1+0JHxjLm7dIv/Y1J9zsqoyt7TiYTmzfntH
+195jH58n98zvvntxcLDkfiR8a31jAbs2ow60jlzuuvLlXXZfafnRJJdueTOvKFLY
+1NS2e9H8+OPHB3NPF+5IjN7Q3NQ+WTo1qXUgfm37Pfeh9pXHj8Qy0TVc+kA0Nb7N
+/6Krf8aFB9F7M68vqO1dUfM5mv/kbU/Vj2O3fwJjcki6
+=1LZ6
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/xinyaanzyoy
+
+==================================================================
