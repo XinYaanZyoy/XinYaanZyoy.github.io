@@ -25,18 +25,23 @@
      <script>
      function listEntries(data){
      	arr = JSON.parse(data).feed.entry;
-	div = document.getElementById("reslist");
-	     for(let i=3; i<=arr.length; i++){
-		if(arr[i]["gs$cell"]["col"] == "{{page.column}}"){
-			text = arr[i]["gs$cell"]["$t"];
-			author = arr[i+1]["gs$cell"]["$t"];
-			p = document.createElement("p");
-			txt = document.createTextNode("\""+text+"\""+" - "+author);
-			p.appendChild(txt);
-			div.appendChild(p);
-			console.log(text, author);
-	    	}
-	     }
+		div = document.getElementById("reslist");
+        for(let i=3; i<=arr.length; i++){
+			if(arr[i]["gs$cell"]["col"] == "{{page.column}}"){
+				text = arr[i]["gs$cell"]["$t"];
+				author = arr[i+1]["gs$cell"]["$t"];
+				p = document.createElement("p");
+				txt = document.createTextNode("\""+text+"\""+" - "+author);
+				p.appendChild(txt);
+				div.appendChild(p);
+				console.log(text, author);
+			}
+     	}
+		function reverseChildren(parent) {
+	    	for (var i = 1; i < parent.childNodes.length; i++){
+			parent.insertBefore(parent.childNodes[i], parent.firstChild);
+	    }
+		reverseChildren(div);
      }
 	     
 	var xmlHttp = new XMLHttpRequest();
