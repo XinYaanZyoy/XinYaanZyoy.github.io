@@ -23,11 +23,6 @@
 {% endif %}
 
      <script>
-     function reverseChildren(parent) {
-	for (var i = 1; i < parent.childNodes.length; i++){
-		parent.insertBefore(parent.childNodes[i], parent.firstChild);
-    }
-	     
      function listEntries(data){
      	arr = JSON.parse(data).feed.entry;
 	div = document.getElementById("reslist");
@@ -42,7 +37,6 @@
 			console.log(text, author);
 		}
      	}
-	reverseChildren(div);
      }
 	     
 	var xmlHttp = new XMLHttpRequest();
