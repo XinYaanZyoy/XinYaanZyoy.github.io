@@ -27,7 +27,6 @@
      	arr = JSON.parse(data).feed.entry;
 	div = document.getElementById("reslist");
 	     for(let i=3; i<=arr.length; i++){
-//	     for(let i=arr.length; i>=3; i--){
 		if(arr[i]["gs$cell"]["col"] == "{{page.column}}"){
 			text = arr[i]["gs$cell"]["$t"];
 			author = arr[i+1]["gs$cell"]["$t"];
@@ -38,7 +37,10 @@
 			console.log(text, author);
 	    	}
 	     }
+     	for (var i = 1; i < div.childNodes.length; i++){
+        div.insertBefore(div.childNodes[i], div.firstChild);
      }
+	     
 	var xmlHttp = new XMLHttpRequest();
 	xmlHttp.onreadystatechange = function() { 
     		if (xmlHttp.readyState == 4 && xmlHttp.status == 200){
