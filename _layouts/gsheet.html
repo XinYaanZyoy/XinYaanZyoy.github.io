@@ -24,42 +24,34 @@
 
 <script>
 
+	sheet_id = "{{page.gSheetID}}";
+	cells_range = "Form%20responses%201!B2:C12"
+	API_KEY = "AIzaSyBAlEKsNRg9jWO-EEHay0vxX7iR5H3dk98"
+	url = 'https://sheets.googleapis.com/v4/spreadsheets/' + sheet_id + '/values/' + cells_range + '?majorDimension=COLUMNS&valueRenderOption=FORMULA&' + 'key=' + API_KEY;
+
     function listEntries(data){
-    	arr = JSON.parse(data).feed.entry;
+    	arr_text = JSON.parse(data).values[0].reverse();
+    	arr_auth = JSON.parse(data).values[1].reverse();
 		div = document.getElementById("reslist");
-        for(let i=3; i<=arr.length; i++){
-			if(arr[i]["gs$cell"]["col"] == "{{page.column}}"){
-				text = arr[i]["gs$cell"]["$t"];
-				author = arr[i+1]["gs$cell"]["$t"];
-				p = document.createElement("p");
-				txt = document.createTextNode("\""+text+"\""+" - "+author);
-				p.appendChild(txt);
-				div.appendChild(p);
-				console.log(text, author);
-			}
+        for(let i=0; i<arr_auth.length; i++){
+			text = arr_text[i];
+			author = arr_auth[i];
+			p = document.createElement("p");
+			txt = document.createTextNode("\""+text+"\""+" - "+author);
+			p.appendChild(txt);
+			div.appendChild(p);
+			console.log(text, author);
 	    }
     }
 	     
 	var xmlHttp = new XMLHttpRequest();
 	xmlHttp.onreadystatechange = function() { 
-    		if (xmlHttp.readyState == 4 && xmlHttp.status == 200){
-        		text = xmlHttp.responseText.substring(28);
-        		listEntries(text.substring(0, text.length-2));
-		}
+		if (xmlHttp.readyState == 4 && xmlHttp.status == 200)
+			listEntries(xmlHttp.responseText);
 	}
-	
-	xmlHttp.open("GET", "https://spreadsheets.google.com/feeds/cells/{{page.gSheetID}}/1/public/values?alt=json-in-script&callback=listEntries", true); 
+	xmlHttp.open("GET", url, true); 
 	xmlHttp.send(null);
 
-	function reverseChildren(parent) {
-		for (var i = 1; i < parent.childNodes.length; i++){
-			parent.insertBefore(parent.childNodes[i], parent.firstChild);
-		}
-	}
-
-	window.onload = function() {
-		reverseChildren(document.getElementById("reslist"));
-	};
 </script>
    
 {% if page.standalone == false %}
@@ -81,6 +73,8 @@
     {% seo %}
     {% include adsense.html %}
 {% endif %}
+
+
   	<script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
   </head>
   <body>
@@ -91,9 +85,9 @@
 {% endif %}
     <main class="page-content" aria-label="Content">
       <div class="wrapper">
-		  {{ content }}
-		  <hr/>
-		  <div id="reslist"></div>
+		{{ content }}
+		<hr/>
+	  	<div id="reslist"></div>
       </div>
     </main>
 	  <hr>
