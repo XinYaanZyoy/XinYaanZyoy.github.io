@@ -1,0 +1,4 @@
+TIMESTAMP
+will start solving advent of code, just to learn new language, Haskell, and to prepare for AOC2021, i wish to finish it all in this month, because i've got tons of other pending stuff!
+i've yet to finsih aluffi chapter 0, and few aspects of category theorey, trinitarianism, type theory, HoTT, and Topology i wish to cover this year. so that next year i can focus more on theoretical stuffs
+that is relevent to the entrance of Msc/PhD programme. though i'm not yet sure of which subject, i think it'll be either mathematics or computer science, the latter is more probable though, because it's easy for me to do what i've been doing most of the time!
