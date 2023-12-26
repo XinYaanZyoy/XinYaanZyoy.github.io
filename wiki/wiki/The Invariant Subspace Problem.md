@@ -1,0 +1,3 @@
+src: [tweet1](https://twitter.com/djmansib/status/1662177793638125568?s=20) => [paper](https://arxiv.org/abs/2305.15442), [history]([paper](https://www.nieuwarchief.nl/serie5/pdf/naw5-2005-06-2-148.pdf),); [tweet2](https://twitter.com/AMRamosDelOlmo/status/1661753542791823364) [web](https://www.ucm.es/imi/boletin00091)
+
+[MSE](https://mathoverflow.net/questions/48908/is-the-invariant-subspace-problem-interesting)

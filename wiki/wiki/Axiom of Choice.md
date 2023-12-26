@@ -1,0 +1,1 @@
+there's a book on the equivalents of AOC, check it out on [goodreads](https://www.goodreads.com/book/show/4706819-equivalents-of-the-axiom-of-choice-ii?ac=1&from_search=true&qid=Ocv4cgJqDS&rank=2), [wiki](https://en.wikipedia.org/wiki/Equivalents_of_the_Axiom_of_Choice).

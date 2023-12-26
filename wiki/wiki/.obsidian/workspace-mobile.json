@@ -1,0 +1,176 @@
+{
+  "main": {
+    "id": "44a915d236715c24",
+    "type": "split",
+    "children": [
+      {
+        "id": "609a78ebd1333e18",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "539fe8ecbf58a5d6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "White Holes by Carlo Rovelli.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7966be6e9db52995",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "07c1013a2ba1e5d0",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "902914097d9175e6",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "a6913204d6cb1ddd",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "dd10639b7200609b",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency"
+          }
+        }
+      },
+      {
+        "id": "8cefa514b255df72",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "2dc589d6efb00dae",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "bd93b5dfe53b3bc7",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "White Holes by Carlo Rovelli.md",
+            "collapseAll": true,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "d7c3329b077df377",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "White Holes by Carlo Rovelli.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "52fbd4a01f024502",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "White Holes by Carlo Rovelli.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 2
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "random-note:Open random note": false,
+      "audio-recorder:Start/stop recording": false
+    }
+  },
+  "active": "539fe8ecbf58a5d6",
+  "lastOpenFiles": [
+    "Memory and entropy by Carlo rovelli.md",
+    "White Holes by Carlo Rovelli.md",
+    "old fisherman's mistake.md",
+    "Carlo Rovelli.md",
+    "ethics by spinoza.md",
+    "time reversal invariance.md",
+    "Soft Hair on Black Holes.md",
+    "Reith Lectures.md",
+    "what is life by Paul Nurse.md",
+    "The Luminaries Eleanor Catton.md",
+    "Oxford Mathematics Public Lectures.md",
+    "Springer biography series.md",
+    "reversible process.md",
+    "History of the world the time-life series.md",
+    "The Mind-Body Problem by Jonathan Westphal.md",
+    "diary/2023-12-10.md",
+    "Swami Sarvapriyananda.md",
+    "Keith Campbell.md",
+    "Atlas Shrugged by Any Rand.md",
+    "The World Book Encyclopaedia.md",
+    "Categorical systems theory.md",
+    "palate.md",
+    "Ayn Rand.md",
+    "diary/2023-08-01.md",
+    "diary/2023-11-18.md",
+    "egalitarian.md"
+  ]
+}

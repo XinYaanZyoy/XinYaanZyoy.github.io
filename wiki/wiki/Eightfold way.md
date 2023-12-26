@@ -1,0 +1,1 @@
+both of [[physics]] and [[buddhism]].

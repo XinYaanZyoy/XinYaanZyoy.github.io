@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel><title>Philomorphic Toposophy</title><link>https://XinYaanZyoy.github.io/weblog/index.html</link>
+<description>On the romance of Physics, Philosophy, and Mathematics</description><language>en</language>
+<lastBuildDate>Mon, 19 Jun 2023 22:54:02 +0530</lastBuildDate>
+<pubDate>Mon, 19 Jun 2023 22:54:02 +0530</pubDate>
+<atom:link href="https://XinYaanZyoy.github.io/weblog/feed.xml" rel="self" type="application/rss+xml" />
+<item><title>
+testing playground for latex and markdown and stuff
+</title><description><![CDATA[
+<nav id="TOC" role="doc-toc">
+<ul>
+<li><a href="#latex-testing">1 LateX Testing</a>
+<ul>
+<li><a href="#greek-alphabet">1.1 Greek Alphabet</a></li>
+<li><a href="#mathematics">1.2 Mathematics</a></li>
+<li><a href="#footnotes">1.3 Footnotes</a></li>
+<li><a href="#bibliography">1.4 Bibliography</a></li>
+<li><a href="#diagrams">1.5 Diagrams</a></li>
+<li><a href="#mathematics-again">1.6 Mathematics again</a></li>
+<li><a href="#referencing">1.7 Referencing</a></li>
+<li><a href="#physics">1.8 Physics</a></li>
+</ul></li>
+<li><a href="#markdown">2 Markdown</a>
+<ul>
+<li><a href="#text">2.1 Text</a></li>
+<li><a href="#lists">2.2 Lists</a></li>
+<li><a href="#links">2.3 Links</a></li>
+<li><a href="#images">2.4 Images</a></li>
+<li><a href="#quotes">2.5 Quotes</a></li>
+</ul></li>
+</ul>
+</nav>
+<h3 id="latex-testing">1 LateX Testing</h3>
+<h4 id="greek-alphabet">1.1 Greek Alphabet</h4>
+<p>llet’s test some latex by typing, inline, my name in greek <span class="math inline">\(\pi\alpha\rho\theta\)</span>.</p>
+<h4 id="mathematics">1.2 Mathematics</h4>
+<p>here’s a definition of riemann integral, printing in block mode: <span class="math display">\[\begin{equation}
+    \int_a^b f(x)dx = (b-a) \lim_{n \to \infty} \frac1n \sum_{i=0}^n f(x_i)
+\end{equation}\]</span></p>
+<p>some of the latex fonts: <span class="math inline">\(\mathbb{X}\)</span>, <span class="math inline">\(\mathcal{X}\)</span>, <span class="math inline">\(\mathscr{X}\)</span>, <span class="math inline">\(\mathfrak{X}\)</span></p>
+<h4 id="footnotes">1.3 Footnotes</h4>
+<p>here<a href="#fn1" class="footnote-ref" id="fnref1" role="doc-noteref"><sup>1</sup></a> is a footnote.</p>
+<h4 id="bibliography">1.4 Bibliography</h4>
+<p>let’s also try testing bibliography thing. my whole zotero library is exported into a mylib.bib file, and it contains the rosetta paper <span class="citation" data-cites="baez_physics_2010">[<a href="#ref-baez_physics_2010" role="doc-biblioref">1</a>]</span> by sir john baez<a href="#fn2" class="footnote-ref" id="fnref2" role="doc-noteref"><sup>2</sup></a> on the most beautiful connection of Physics, Geometry, Logic, and Computation through the lense of Category Theory.</p>
+<h4 id="diagrams">1.5 Diagrams</h4>
+<p>oh, that reminds me of commutative diagrams! the following is one such diagram.</p>
+<figure>
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/84/First_isomorphism_theorem_%28plain%29.svg" alt="" /><figcaption>Coomutative diagram expressing the first isomorphism theorem<a href="#fn3" class="footnote-ref" id="fnref3" role="doc-noteref"><sup>3</sup></a></figcaption>
+</figure>
+<p>unfortunately, I’m tired and figure refs don’t seem to be working well, so I think i’ll have to live with it.</p>
+<h4 id="mathematics-again">1.6 Mathematics again</h4>
+<p>the identity matrix: <span class="math display">\[\begin{equation}
+    I = \begin{bmatrix}
+        1 &amp; 0 &amp; 0 \\ 
+        0 &amp; 1 &amp; 0 \\
+        0 &amp; 0 &amp; 1
+        \end{bmatrix}
+\label{eq:matrix}
+\end{equation}\]</span></p>
+<p>a beautiful one: <span class="math inline">\(e^{i\pi}+1=0\)</span></p>
+<p>and a basic one: <span class="math display">\[(x+y)^n = \sum_{i=0}^n \binom{n}{i} x^{n-i}y^i\]</span></p>
+<h4 id="referencing">1.7 Referencing</h4>
+<p>we can reference an equation from the document, how cool!? e.g. our identity matrix definition <span class="math inline">\(\eqref{eq:matrix}\)</span> is a cool lokking matrix of <span class="math inline">\(\mathbb{R}^3\)</span></p>
+<h4 id="physics">1.8 Physics</h4>
+<p>let’s do some physics now!</p>
+<p>classical dynamics <span class="math display">\[\overrightarrow{F} = m \overrightarrow{a}\]</span></p>
+<p>some natural inverse square forces:</p>
+<p><span class="math display">\[\begin{equation} 
+    \begin{aligned}
+        \overrightarrow{F}_G = \frac{GMm}{r^2}\hat{r} \\ \overrightarrow{F}_E = \frac{KQq}{r^2}\hat{r} 
+    \end{aligned}
+\end{equation}\]</span></p>
+<p>and a complete description of EM field in space: <span class="math display">\[\begin{equation}
+    \begin{aligned}
+        \nabla \cdot \overrightarrow{E} = \frac{\rho}{\epsilon_0} \\
+        \nabla \times \overrightarrow{E} = -\frac{\partial B}{\partial t} \\
+        \nabla \cdot \overrightarrow{B} = 0 \\
+        \nabla \times \overrightarrow{B} = \mu_0 (\overrightarrow{J}+\epsilon_0 \frac{\partial E}{\partial t})
+    \end{aligned}
+\end{equation}\]</span></p>
+<h3 id="markdown">2 Markdown</h3>
+<h4 id="text">2.1 Text</h4>
+<p>let’s test some markdown by typing <strong>bold</strong>, <em>italic</em>, <em>another italic</em>, <strong>another bold</strong>, and some of the following stuffs.</p>
+<h4 id="lists">2.2 Lists</h4>
+<p>this is list of ordinals:</p>
+<pre><code>1. first
+2. second
+3. third and so on...</code></pre>
+<p>this is list of cardinals:</p>
+<pre><code>- one
+- two
+- three and so on...</code></pre>
+<h4 id="links">2.3 Links</h4>
+<p>here’s a link to my twitter: <a href="https://twitter.com/XinYaanZyoy">XinYaanZyoy</a> and Mathstodon: <a href="https://mathstodon.xyz/@XinYaanZyoy">Mathstodon</a></p>
+<p>let’s try referencing a markdown tutorials, here’s the <a href="https://commonmark.org/help/tutorial/">first</a>, and here’s the <a href="https://www.markdowntutorial.com/">second</a>.</p>
+<h4 id="images">2.4 Images</h4>
+<p>here’s an “image” of monad: <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Monad.svg/480px-Monad.svg.png" alt="Picture of Monad" /></p>
+<p>and that of instance of brahman: <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Wassertropfen.jpg/320px-Wassertropfen.jpg" alt="Picture of water ripples" /></p>
+<h4 id="quotes">2.5 Quotes</h4>
+<p>now, this is a quote:</p>
+<blockquote>
+<p>the primary role of the classical theory is not in approximating the quantum theory, but in providing a framework for its interpretation. - Dirac, src: N.M.J Woodhouse, Geometric Quantization, OUP 1997</p>
+</blockquote>
+<p>just know that new line can be inserted either by empty line or double spaces.</p>
+<p>done, hoping for the best!</p>
+<p>Tags: <a href='tag_latex.html'>latex</a>, <a href='tag_markdown.html'>markdown</a></p><div id="refs" class="references" role="doc-bibliography">
+<div id="ref-baez_physics_2010">
+<p>[1] J. C. Baez and M. Stay, “Physics, topology, logic and computation: A rosetta stone,” vol. 813, 2010, pp. 95–172. doi: <a href="https://doi.org/10.1007/978-3-642-12821-9_2">10.1007/978-3-642-12821-9_2</a>.</p>
+</div>
+</div>
+<section class="footnotes" role="doc-endnotes">
+<hr />
+<ol>
+<li id="fn1" role="doc-endnote"><p>this is footnote! it contains greeks alphs like <span class="math inline">\(\alpha\)</span> and an equation <span class="math inline">\(\int_0^11=1\)</span><a href="#fnref1" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn2" role="doc-endnote"><p><a href="https://math.ucr.edu/home/baez/">home page</a><a href="#fnref2" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn3" role="doc-endnote"><p>btw, I don’t understand why this has a name at all! I mean this is just an instance of the fact that every map can be decomposed into three compositions: f = surj * bij * inj<a href="#fnref3" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+</ol>
+</section>
+
+<!-- text end -->
+]]></description><link>https://XinYaanZyoy.github.io/weblog/testing-playground-for-latex-and-markdown-and-stuff.html</link>
+<guid>https://XinYaanZyoy.github.io/weblog/./testing-playground-for-latex-and-markdown-and-stuff.html</guid>
+<dc:creator>Parth Patel</dc:creator>
+<pubDate>Sat, 10 Jun 2023 17:12:39 +0530</pubDate></item>
+</channel></rss>

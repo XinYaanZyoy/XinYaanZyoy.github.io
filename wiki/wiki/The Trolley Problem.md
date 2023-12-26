@@ -1,0 +1,1 @@
+we can construct all sorts of versions of this problem. [here](https://twitter.com/SteveStuWill/status/1667924657016586245)'s one such. find more.

@@ -1,0 +1,1 @@
+learn the actual syntax and those various styles and whatnot that exists. especially the bibtex thing.

@@ -1,0 +1,79 @@
+/* font */
+@font-face {
+    font-family: 'FreeMono';
+    src: url('../font/FreeMono.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+  }
+
+/* markdown style */
+#title{font-size: x-large; color: #fff;}
+h1, h2, h3, h4, h5, h6{ color: #d1cbc7;}
+a.ablack{color:#01ff70 !important;}
+li{margin-bottom:8px;}
+ul,ol{margin-left:24px;margin-right:24px;}
+#all_posts{margin-top:24px;text-align:center;}
+.subtitle{font-size:small;margin:12px 0px;}
+.content p{margin-left:24px;margin-right:24px;}
+h1{margin-bottom:12px !important;}
+#description{font-size:large;margin-bottom:12px;}
+h3{margin-top:42px;margin-bottom:8px;}
+h4{margin-left:24px;margin-right:24px;}
+img{max-width:100%;}
+#twitter{line-height:20px;vertical-align:top;text-align:right;font-style:italic;color:#01ff70;margin-top:24px;font-size:14px;}
+
+/* page style and some markdown!? */
+body{font-family:FreeMono, monospace;margin:0;padding:0;background-color:#222; color: #d1cbc7;
+  -ms-overflow-style: none;  /* IE and Edge */
+  scrollbar-width: none;  /* Firefox */
+}
+/* Hide scrollbar for Chrome, Safari and Opera */
+body::-webkit-scrollbar {
+  display: none;
+}
+#divbodyholder{padding:5px;background-color:#222;width:100%;max-width:874px;margin:24px auto;}
+.header{width:100%;max-width:800px;margin:0px auto;padding-top:24px;}
+.content{margin-bottom:5%;}
+.nomargin{margin:0;}
+.description{margin-top:10px;border-top:solid 1px #666;padding:10px 0;}
+h3{font-size:20pt;width:100%;font-weight:bold;margin-top:32px;margin-bottom:0;}
+.clear{clear:both;}
+#footer{padding-top:10px;border-top:solid 1px #666;color:#fff;text-align:center;font-size:small;font-family:FreeMono, monospace;}
+a{text-decoration:none;color:#01ff70 !important;}
+a:visited{text-decoration:none;color:#24a533 !important;}
+a:hover, a:focus, a:active {text-decoration:none;color: #24a533 !important;}
+blockquote{background-color:#222;border-left:solid 4px #666;margin-left:12px;padding:12px 12px 12px 24px; font-family:FreeMono, monospace; font-style: italic;}
+blockquote img{margin:12px 0px;}
+blockquote iframe{margin:12px 0px;}
+
+/* gcse style */
+div#gsc-iw-id1.gsc-input-box {
+  background-color: #222;
+  border-top-left-radius: 8px;
+  border-bottom-left-radius: 8px;
+}
+
+div.gsc-results.gsc-webResult {
+  background-color: #222;
+  padding-bottom: 0;
+}
+
+input#gsc-i-id1.gsc-input {
+  color: #d1cbc7;
+  background-color: #222;
+}
+
+span#gs_cb50.gscb_a {
+  color: #01ff70;
+}
+
+div.gcsc-more-maybe-branding-root, div#resInfo-0.gsc-result-info, div.gsc-above-wrapper-area {
+  display: none;
+}
+
+button.gsc-search-button.gsc-search-button-v2 {
+  border-top-right-radius: 8px;
+  border-bottom-right-radius: 8px;
+  cursor: pointer;
+}

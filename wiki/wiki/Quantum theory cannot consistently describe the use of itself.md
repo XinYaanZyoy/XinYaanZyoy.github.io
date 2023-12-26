@@ -1,0 +1,1 @@
+src: [paper](https://sci-hub.st/10.1038/s41467-018-05739-8) [lw_post](https://www.lesswrong.com/posts/pxpiGtyZpxmXg8hHW/quantum-theory-cannot-consistently-describe-the-use-of) [aaronson's response](https://scottaaronson.blog/?p=3975) 

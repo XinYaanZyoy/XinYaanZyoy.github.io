@@ -1,0 +1,2 @@
+#: [[Clojure]]
+perhaps start with [Foundations of Computational Linguistics](https://foundations-computational-linguistics.github.io/) which i found [here](https://twitter.com/prathyvsh/status/1290213433573404676).

@@ -1,0 +1,1 @@
+How connected is this to [[duality]]

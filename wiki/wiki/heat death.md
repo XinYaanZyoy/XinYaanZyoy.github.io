@@ -1,0 +1,1 @@
+something is perplexing about this, why is the energy uniformly distributed at the both of the ends of the lifespan of the universe? checkout 3rd point in [[Entropy problem of cosmology#cosmic endpoints]].

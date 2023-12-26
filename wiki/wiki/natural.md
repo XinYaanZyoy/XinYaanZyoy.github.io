@@ -1,0 +1,1 @@
+what it means for something to be natural? that which passes through time? or that which tries not to? are [[Entropy]] and [[Information]] important here?

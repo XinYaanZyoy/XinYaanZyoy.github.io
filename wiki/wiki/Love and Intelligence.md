@@ -1,0 +1,1 @@
+I feel that [[Love]] and [[Intelligence]] cant' be separated. without intelligence one can't love the way love works, and if one is not loving others they definitely lack intelligence.

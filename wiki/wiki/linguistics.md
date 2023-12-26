@@ -1,0 +1,1 @@
+perhaps start from [[Introducing Graphic Guides Series]] and some [[Noam Chomsky]] and [[Panini]] stuff.

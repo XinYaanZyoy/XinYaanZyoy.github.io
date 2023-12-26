@@ -1,0 +1,1 @@
+checkout this [thread](https://twitter.com/prathyvsh/status/1550563879788236800?s=20) by [[prathyush]] on the history of ideas of this kind. 

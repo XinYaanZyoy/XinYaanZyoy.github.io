@@ -1,0 +1,1 @@
+#: [[dichotomy]], [[ternary plot]], [[trilemma]]

@@ -1,0 +1,7 @@
+#!/usr/bin/env sh
+
+/usr/bin/pandoc -o - --quiet --from=markdown --to=html5 --bibliography=mylib.bib --csl=ieee.csl --no-highlight --mathjax --metadata=link-citations:true --toc --toc-depth=6 -s --template="./modified.html5" "$@" > body.tmp
+cat body.tmp | grep -oP "<p[^>]*>.*?<\/p>" | head -1 > title.tmp
+grep -v -F -f title.tmp body.tmp > html.tmp
+cat title.tmp html.tmp
+rm title.tmp body.tmp html.tmp

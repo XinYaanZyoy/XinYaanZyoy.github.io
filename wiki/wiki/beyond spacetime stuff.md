@@ -1,0 +1,2 @@
+- carlo rovelli mentions such things happenening while a black hole transitions into a white one, in [[White Holes by Carlo Rovelli#Chapter II.5]]. 
+- the video in [[2023-12-10#14 23]] has some ideas about this.

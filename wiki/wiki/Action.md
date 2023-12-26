@@ -1,0 +1,3 @@
+[[philosophy]]
+[[Intention]]
+[[Consciousness]]

@@ -1,0 +1,3 @@
+- ?the [_Radon–Hurwitz numbers_](https://en.wikipedia.org/wiki/Vector_fields_on_spheres#:~:text=isomorphic%20tangent%20bundles%2C-,the%20Radon%E2%80%93Hurwitz%20numbers,-%CF%81(N) $ρ(N)$ determine the maximum number of linearly independent sections of the tangent bundle of any homotopy sphere.
+- [THE GENERALIZED RADON-HURWITZ NUMBERS](http://www.numdam.org/article/CM_1986__59_1_113_0.pdf)
+- 

@@ -1,0 +1,250 @@
+{
+  "main": {
+    "id": "50be94501446dab5",
+    "type": "split",
+    "children": [
+      {
+        "id": "71392cab0987588b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cd5cd38f7f9b8ba8",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a729fa24914fcd4d",
+    "type": "split",
+    "children": [
+      {
+        "id": "c7b37bf34e5f0896",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7f2958a4777eb3a6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "66aa519301420fd7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "bbad99ed83dc0116",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 299.5,
+    "collapsed": true
+  },
+  "right": {
+    "id": "4bc9098ca0e4ecf2",
+    "type": "split",
+    "children": [
+      {
+        "id": "a73eea6ec3194b9c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "95c7319e75160562",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "diary/2023-07-13.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e175f8c9614c1339",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "diary/2023-07-13.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b0d2597fada82bf1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "059d6cf23a5b0b43",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          },
+          {
+            "id": "16601d04844dcca8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "diary/2023-07-13.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "random-note:Open random note": false,
+      "audio-recorder:Start/stop recording": false,
+      "webpage-html-export:Export Vault to HTML": false
+    }
+  },
+  "floating": {
+    "id": "fa36fd1c2c865bd4",
+    "type": "floating",
+    "children": [
+      {
+        "id": "42138f4800a8c83d",
+        "type": "window",
+        "children": [
+          {
+            "id": "e539faf4b5e18c86",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "13a87f623a0ee883",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "diary/2023-07-13.md",
+                    "mode": "preview",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 230,
+        "y": 243,
+        "width": 800,
+        "height": 400,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "13a87f623a0ee883",
+  "lastOpenFiles": [
+    "diary/2023-07-08.md",
+    "diary/2023-07-07.md",
+    "diary/2023-07-06.md",
+    "diary/2023-07-05.md",
+    "diary/2023-07-04.md",
+    "diary/2023-07-03.md",
+    "diary/2023-07-02.md",
+    "diary/2023-07-01.md",
+    "diary/2023-06-28.md",
+    "diary/2023-06-27.md",
+    "diary/2023-06-26.md",
+    "diary/2023-05-11.md",
+    "zotero.md",
+    "white-holes-by-carlo-rovelli.html",
+    "what-is-money?.html",
+    "what-is-life-by-paul-nurse.html",
+    "what-is-k-theory-and-what-is-it-good-for.html",
+    "what-is-it-like-to-be-a-bat?.html",
+    "what-is-book-series.html",
+    "what-are-physical-objects-by-ned-markosian.html",
+    "wetware.html",
+    "well-definedness.html",
+    "welfare-capitalism.html",
+    "pasted-image-20230927190509.png",
+    "pasted-image-20230706034833.png",
+    "pasted-image-20230706024011.png",
+    "pasted-image-20230706015441.png",
+    "pasted-image-20230706001619.png",
+    "pasted-image-20230625165921.png",
+    "pasted-image-20230625165125.png",
+    "pasted-image-20230607161644.png",
+    "pasted-image-20230603145841.png",
+    "pasted-image-20230529053901.png",
+    "Zhuangzi by Zhuangzi.md",
+    "Zhuangzi.md",
+    "zettelkasten.md",
+    "Yuri Manin.md",
+    "Yoshihiro Maruyama.md",
+    "yoneda lemma.md",
+    "Yeast.md",
+    "xAI.md",
+    "Wu–Yang dictionary.md",
+    "womb.md",
+    "Wolfgang Smith.md",
+    "Wojciech H. Zurek.md",
+    "Wöhler synthesis.md",
+    "analysis_E&A.canvas"
+  ]
+}

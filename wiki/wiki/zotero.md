@@ -1,0 +1,1 @@
+learn some stuff like scripting and its API. [here](https://danmackinlay.name/notebook/zotero.html#bbt-export). so a better [[bibliogrpahy system]] can be made for both this zettelkasten and the weblog.

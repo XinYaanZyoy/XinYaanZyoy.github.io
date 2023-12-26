@@ -1,0 +1,1 @@
+will explain later, but I'll say that in some verbal communication, it's fairly easy to say "you began it". but it's almost always ambiguous. no parties involved agree, and in fact they have their own theories. why? related to [[communication of mirages]]?

@@ -1,0 +1,1 @@
+what exactly is information? why is a formalization of one model of information not itself an information? is this an infinite recursion thing? find out my tweet about this hierarchy of information.

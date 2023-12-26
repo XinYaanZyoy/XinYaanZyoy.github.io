@@ -1,0 +1,3 @@
+#book 
+src: [sep](https://plato.stanford.edu/entries/principia-mathematica/), [wikipedia](https://en.wikipedia.org/wiki/Principia_Mathematica), [goodreads](https://www.goodreads.com/book/show/422881.Principia_Mathematica_to_56?from_search=true&from_srp=true&qid=QZCj7RfQNR&rank=3), [principia vol1](https://www.goodreads.com/book/show/6482515-principia-mathematica-vol-1?from_search=true&from_srp=true&qid=QZCj7RfQNR&rank=2), [vol2](https://www.goodreads.com/book/show/6662130-principia-mathematica-vol-2?from_search=true&from_srp=true&qid=QZCj7RfQNR&rank=6), [vol3](https://www.goodreads.com/book/show/6662131-principia-mathematica-vol-3?from_search=true&from_srp=true&qid=QZCj7RfQNR&rank=5) 
+@: [[Bertrand Russell]], [[Alfred North Whitehead]] 

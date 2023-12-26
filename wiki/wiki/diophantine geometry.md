@@ -1,0 +1,3 @@
+some books [goodreads1](https://www.goodreads.com/book/show/3033966-diophantine-geometry?from_search=true&from_srp=true&qid=X3JH1yVyTC&rank=1) [goodreads2](https://www.goodreads.com/book/show/1025353.Heights_in_Diophantine_Geometry?from_search=true&from_srp=true&qid=X3JH1yVyTC&rank=2) [goodreads3](https://www.goodreads.com/book/show/7543370-fundamentals-of-diophantine-geometry?from_search=true&from_srp=true&qid=X3JH1yVyTC&rank=4)
+
+[[Fermat's Last Theorem]] seems to be connected.

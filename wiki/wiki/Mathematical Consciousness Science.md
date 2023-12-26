@@ -1,0 +1,11 @@
+what exactly is this new field?
+
+perhaps start with [this video](https://www.youtube.com/playlist?list=PLZkg_IGdt3KmUWYLILcSMcTHanKKWR3qw).
+
+a short into [here](https://amcs-community.org/mathematical-consciousness-science/) from [[Association for mathematical consciousness science]]. a wiki [page](https://wiki.amcs.science/index.php?title=Mathematical_Consciousness_Science) on [[Mathematical Consciousness Science Notes]].
+
+some relevant stuff:
+- [On human consciousness: A mathematical perspective](https://watermark.silverchair.com/netn_a_00030.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAAAp0wggKZBgkqhkiG9w0BBwagggKKMIIChgIBADCCAn8GCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMX7532pLXif_Q2T4OAgEQgIICUJzWa4GbLIguly_NsGHVBTrP7LS_tKgOLca-vd7LrUorCwHHiB70XlWyX6cx05iszegYabB0ZUzQgW0bP4ssUUln6gnoBQ6FlNIyjkW2hHBLviwuAhIsakfmbP0q6eCCoLlsMkqm3Wf9_nGXOtA6NFwHorMvFhR4GiH6UKtOkHHaGTH7cg3C861sIgnWvuWwUsu7gYfRy70sH-BWjnkZBGAboIm9B1kEY7tPjZyZ6gr-TxWMB4O_bq1LtnLHkItrk0aydOsadVR0GrR7tvN2ToeCTHxOZWnaGAEuNDARSFoi641YwXr0Oc5CNMvFcU1ccefz8C-wRD_L7DUnqtIwVLKs1fSvA6sXJYEAjOmdntdLt4zqWK7DdIY5mYyXQOn0wHdPPBYLV1CBzUrNiPPYzMAeyCf7DIc_PtFHsyszoZywRsYuEO9QBGTtaD7LeYtvbzWlr9xLYg6ZTkN14MTcQqZTshu1kzHxDbdzSs-Ji1sY2RtuuM6TlzdFqlhW32Z0m7r44lnMMc3KydLYlh0wIyrNJ5vh_45-LPbCPFV_tN2ev-qP9oJe01PqNDxM8k9LRjA16EUPsFKEgrRZofBuQ9gYu1tWmeZoz9PAb0CH7I4J-HwN0tBCNGn6pP-ulXDhyqakaaRfKQ-3jHTM1DNWAYXWHgVWxePn2R0GLw_rb6mJi0ar13z8LrCAWNILRrPHdBsGPzkiYQeWb27UaJ06VyNtjTdDZz_J6EN1nqOcP-kdzICtjCWiOS95czjG7pBszmYcUKrEH8EITrCzgTHcaq4)
+- [Mathematical Foundations of Consciousness](https://arxiv.org/pdf/0810.4339.pdf)
+- https://www.imperial.ac.uk/events/143244/what-is-mathematical-consciousness-science/
+

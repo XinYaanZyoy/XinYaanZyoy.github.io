@@ -1,0 +1,2 @@
+- a brief reading of [wiki](https://en.wikipedia.org/wiki/Vector_fields_on_spheres) says: it is a classical problem of differential topology. somehow connected to [[hairy-ball theorem]] and [[classification of division algebras]]. the question is __how many linearly independent smooth nowhere-zero vector fields can be constructed on a sphere in N-dimensional euclidean space.__ and the answer is known in terms of [[Radon–Hurwitz numbers]], which i feel like, is a rank of some sort of a linear subspace.
+- 

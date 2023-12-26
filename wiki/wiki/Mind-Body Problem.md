@@ -1,0 +1,1 @@
+#: [[Consciousness]], [[The hard problem of Consciousness]], [[The hard problem of matter]], [[Mind]], [[inconsistent tetrad]], [[identity theory of mind]] 

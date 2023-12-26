@@ -1,0 +1,2 @@
+[[apparent horizon]]
+[[event horizon]]

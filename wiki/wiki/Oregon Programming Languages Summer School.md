@@ -1,0 +1,2 @@
+#school 
+checkout the 2012 version on [site](http://www.cs.uoregon.edu/research/summerschool/summer12/) and [youtube](https://www.youtube.com/playlist?list=PL8Ky8lYL8-Oh7awp0sqa82o7Ggt4AGhyf) which is where i learned [[category theory]], [[proof theory]], [[type theory]], and stuff. I still remember having [this](https://twitter.com/XinYaanZyoy/status/1472249714414219264) moment where i understood what both a [[groupoid]] is, though I still need to learn infinity stuff.

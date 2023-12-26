@@ -1,0 +1,1 @@
+there's a book by ramanan check that out. perhaps after [[Escher and Amann Analysis]].
