@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "c99613f16a2576d5",
+        "id": "9d797680f7371e66",
         "type": "tabs",
         "children": [
           {
-            "id": "f77b67cefd864d43",
+            "id": "a7af300beb303c76",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mathematical Structures in Panini Ashtaadhyaayi.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -86,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematical Structures in Panini Ashtaadhyaayi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mathematical Structures in Panini Ashtaadhyaayi.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +130,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Mathematical Structures in Panini Ashtaadhyaayi.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -163,36 +154,37 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "f77b67cefd864d43",
+  "active": "a7af300beb303c76",
   "lastOpenFiles": [
-    "wiki-files/Mathematical Structures in Panini Ashtaadhyaayi.pdf",
     "Mathematical Structures in Panini Ashtaadhyaayi.md",
-    "wiki-files",
-    "Andre Joyal.md",
-    "topos theory.md",
+    "William Woodin.md",
+    "Visualization of the Godel universe.md",
+    "Vienna Godel Lectures.md",
+    "unidentified anomalous phenomena.md",
+    "The Physical Signature of Computation.md",
+    "The Nature of the Firm.md",
+    "The Mathematics of Darwin’s Legacy.md",
+    "The Homological Nature of Entropy.md",
+    "The Higher Infinite by Kanamori.md",
+    "The Cabal Seminar.md",
+    "The Big Picture by sean carroll.md",
+    "Sketch for a Historical Picture of the Progress of the Human Mind.md",
+    "Science and Civilisation in China.md",
+    "Ross Street.md",
+    "reading.md",
+    "Man-Computer Symbiosis.md",
+    "Katalin Kariko.md",
+    "Julia Galef.md",
+    "J. B. S. Haldane.md",
+    "Illumination problem.md",
     "Hysteresis.md",
-    "Fifty Years of Quantum Chromodynamics (The Theory of The Strong Nuclear Force) - David Gross.md",
     "Heating and cooling are fundamentally asymmetric and evolve along distinct pathways.md",
-    "Foundations by Greg Egan.md",
-    "Greg Egan.md",
-    "public_journal/2024-01-03.md",
-    "Chaos theory and geometry, can they predict our world? – with Tim Palmer.md",
-    "Chaos Theory.md",
-    "public_journal/2024-01-04.md",
-    "public_journal/2024-01-01.md",
-    "public_journal/2023-12-12.md",
-    "public_journal/2023-12-11.md",
-    "public_journal/2023-12-10.md",
-    "public_journal/2023-11-18.md",
-    "public_journal/2023-08-29.md",
-    "public_journal/2023-09-28.md",
+    "Handbook of Categorical Algebra.md",
+    "Gwern Branwen.md",
+    "Godel Lectures.md",
+    "wiki-files/Mathematical Structures in Panini Ashtaadhyaayi.pdf",
+    "wiki-files",
     "Pasted image 20230927190509.png",
-    "public_journal/2023-09-27.md",
-    "public_journal/2023-09-17.md",
-    "public_journal/2023-08-24.md",
-    "public_journal/2023-08-28.md",
-    "public_journal/2023-08-07.md",
-    "public_journal/2023-08-05.md",
     "CMU 15-445",
     "white-holes-by-carlo-rovelli.html",
     "what-is-money?.html",
