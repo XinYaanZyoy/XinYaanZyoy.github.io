@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d403c8ede9e65ede",
+        "id": "8e44f918f87ea15e",
         "type": "tabs",
         "children": [
           {
-            "id": "51a18eeb9cc1cd57",
+            "id": "ece1ea0823ce270e",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -154,8 +154,11 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "51a18eeb9cc1cd57",
+  "active": "ece1ea0823ce270e",
   "lastOpenFiles": [
+    "wiki-files/Mathematical Structures in Panini Ashtaadhyaayi.pdf",
+    "wiki-files/Heating and cooling are fundamentally asymmetric and evolve along distinct pathways.pdf",
+    "wiki-files",
     "J. B. S. Haldane.md",
     "Pasted image 20230607161644.png",
     "Pasted image 20230625165921.png",
@@ -184,13 +187,9 @@
     "Wholeness and the Implicate Order.md",
     "who did it first.md",
     "whitney embedding theorem.md",
-    "White Holes by Carlo Rovelli.md",
     "analysis_E&A.canvas",
-    "wiki-files/Mathematical Structures in Panini Ashtaadhyaayi.pdf",
-    "wiki-files/Heating and cooling are fundamentally asymmetric and evolve along distinct pathways.pdf",
     "wiki-files/Heating and cooling are fundamentally asymmetric and evolve along distinct pathways.pdf.crdownload",
     "wiki-files/s41567-023-02269-z.pdf.crdownload",
-    "wiki-files",
     "Pasted image 20230927190509.png",
     "CMU 15-445",
     "white-holes-by-carlo-rovelli.html",
