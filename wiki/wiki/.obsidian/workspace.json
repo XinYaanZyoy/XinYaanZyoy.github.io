@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "9d2d5675d6cb2873",
+        "id": "d403c8ede9e65ede",
         "type": "tabs",
         "children": [
           {
-            "id": "1f9f184602b26e06",
+            "id": "51a18eeb9cc1cd57",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -154,8 +154,9 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "1f9f184602b26e06",
+  "active": "51a18eeb9cc1cd57",
   "lastOpenFiles": [
+    "J. B. S. Haldane.md",
     "Pasted image 20230607161644.png",
     "Pasted image 20230625165921.png",
     "Pasted image 20230625165125.png",
@@ -201,7 +202,6 @@
     "pasted-image-20230706024011.png",
     "pasted-image-20230706015441.png",
     "pasted-image-20230706001619.png",
-    "pasted-image-20230625165921.png",
-    "pasted-image-20230625165125.png"
+    "pasted-image-20230625165921.png"
   ]
 }
