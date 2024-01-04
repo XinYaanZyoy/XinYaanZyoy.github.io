@@ -1,0 +1,1 @@
+read [[Michael Nielsen]]'s [essay](https://michaelnotebook.com/eanotes/) 

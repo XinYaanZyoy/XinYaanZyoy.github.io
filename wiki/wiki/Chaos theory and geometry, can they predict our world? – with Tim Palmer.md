@@ -5,7 +5,7 @@ three great theories of the 20th c: [[Chaos Theory]], [[quantum mechanics]], [[r
 ![[Pasted image 20230720233230.png]]
 
 three great theorems of the 20th c.:
-1. [[Kurt Gödel]]'s [[Incompleteness Theorems]], the set of mathematical truths is much larger than those provable by algorithms
+1. [[Kurt Godel]]'s [[Incompleteness Theorems]], the set of mathematical truths is much larger than those provable by algorithms
 2. [[Alan Turing]]'s Proof of [[Halting Problem]], Hilbert's decision problem can't be solved by any computer no matter how powerful.
 3. [[Fermat's Last Theorem]], two same powers don't add up to another for the power grater than 3.
 

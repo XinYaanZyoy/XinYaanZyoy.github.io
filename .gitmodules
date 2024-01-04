@@ -1,0 +1,3 @@
+[submodule "wiki/wiki/wiki-files"]
+	path = wiki/wiki/wiki-files
+	url = git@github.com:XinYaanZyoy/wiki-files.git

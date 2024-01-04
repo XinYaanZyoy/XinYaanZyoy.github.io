@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "609a78ebd1333e18",
+        "id": "05da9a312d291416",
         "type": "tabs",
         "children": [
           {
-            "id": "539fe8ecbf58a5d6",
+            "id": "25e5ea7d172858b0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "White Holes by Carlo Rovelli.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -45,7 +40,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "",
+            "query": "tag:#course",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -84,7 +79,7 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 1
   },
   "right": {
     "id": "2dc589d6efb00dae",
@@ -96,7 +91,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "White Holes by Carlo Rovelli.md",
             "collapseAll": true,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -113,7 +107,6 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "White Holes by Carlo Rovelli.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -124,9 +117,7 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {
-            "file": "White Holes by Carlo Rovelli.md"
-          }
+          "state": {}
         }
       }
     ],
@@ -144,10 +135,13 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "539fe8ecbf58a5d6",
+  "active": "25e5ea7d172858b0",
   "lastOpenFiles": [
-    "Memory and entropy by Carlo rovelli.md",
+    "Untitled.md",
+    "CMU 15-445 and 15-645 Database Systems.md",
     "White Holes by Carlo Rovelli.md",
+    "Index.md",
+    "Memory and entropy by Carlo rovelli.md",
     "old fisherman's mistake.md",
     "Carlo Rovelli.md",
     "ethics by spinoza.md",
@@ -168,9 +162,6 @@
     "The World Book Encyclopaedia.md",
     "Categorical systems theory.md",
     "palate.md",
-    "Ayn Rand.md",
-    "diary/2023-08-01.md",
-    "diary/2023-11-18.md",
-    "egalitarian.md"
+    "Ayn Rand.md"
   ]
 }
