@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8e44f918f87ea15e",
+        "id": "58f628f1d6fc6d76",
         "type": "tabs",
         "children": [
           {
-            "id": "ece1ea0823ce270e",
+            "id": "4f28e404d114bcf4",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -154,8 +154,11 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "ece1ea0823ce270e",
+  "active": "4f28e404d114bcf4",
   "lastOpenFiles": [
+    "Real Analysis by Bruckner et al.md",
+    "Index.md",
+    "The pre-history of open games by Jules Hedges.md",
     "wiki-files/Mathematical Structures in Panini Ashtaadhyaayi.pdf",
     "wiki-files/Heating and cooling are fundamentally asymmetric and evolve along distinct pathways.pdf",
     "wiki-files",
@@ -185,8 +188,6 @@
     "Will Durant.md",
     "Wiley Series in Probability and Statistics.md",
     "Wholeness and the Implicate Order.md",
-    "who did it first.md",
-    "whitney embedding theorem.md",
     "analysis_E&A.canvas",
     "wiki-files/Heating and cooling are fundamentally asymmetric and evolve along distinct pathways.pdf.crdownload",
     "wiki-files/s41567-023-02269-z.pdf.crdownload",
