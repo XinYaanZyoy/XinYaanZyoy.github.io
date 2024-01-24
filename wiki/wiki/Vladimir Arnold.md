@@ -9,3 +9,5 @@ books:
 3. [Classical Mechanics](file:///media/xinyaanzyoy/xyz/XinYaanZyoy/port_1969/lib/STEM/sci/phy/theory/math/cm/Mathematical%20Methods%20of%20Classical%20Mechanics%20by%20V.%20I.%20Arnold%20(auth.)%20(z-lib.org)%202e.pdf)
 4. [Celestial Mechanics](file:///media/xinyaanzyoy/xyz/XinYaanZyoy/port_1969/lib/STEM/math/other/encyclopedias/EMS/Mathematical%20Aspects%20of%20Classical%20and%20Celestial%20Mechanics,%20Third%20edition%20(Encyclopaedia%20of%20Mathematical%20Sciences)%20(Vladimir%20I.%20Arnold,%20Valery%20V.%20Kozlov%20etc.)%20(z-lib.org).pdf)
 5. [Symplectic Geometry](file:///media/xinyaanzyoy/xyz/XinYaanZyoy/port_1969/lib/STEM/math/other/encyclopedias/EMS/4_Dynamical%20systems%2004%20Symplectic%20geometry%20(V.%20I.%20Arnold,%20S.%20P.%20Novikov)%20(z-lib.org).djvu)
+
+

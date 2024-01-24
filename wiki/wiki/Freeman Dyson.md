@@ -1,2 +1,2 @@
 #people 
-#: [[physics]], [[mathematics]], [[theoretical physics]], [[mathematical physics]]
+#: [[physics]], [[Mathematics]], [[theoretical physics]], [[mathematical physics]]

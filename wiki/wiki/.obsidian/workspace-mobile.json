@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "05da9a312d291416",
+        "id": "89efabbb324e9d9e",
         "type": "tabs",
         "children": [
           {
-            "id": "25e5ea7d172858b0",
+            "id": "43cce5925e3155d5",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -135,33 +135,33 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "25e5ea7d172858b0",
+  "active": "43cce5925e3155d5",
   "lastOpenFiles": [
+    "HOTW vol 1 The Human Dawn, Pre-History - 3000 BC.md",
+    "History of the world the time-life series.md",
+    "public_journal/2024-01-22.md",
+    "anarchy.md",
+    "marxism.md",
+    "White Holes by Carlo Rovelli.md",
+    "reversible process.md",
+    "time reversal invariance.md",
+    "Entropy problem of cosmology.md",
     "Untitled.md",
     "CMU 15-445 and 15-645 Database Systems.md",
-    "White Holes by Carlo Rovelli.md",
     "Index.md",
     "Memory and entropy by Carlo rovelli.md",
     "old fisherman's mistake.md",
     "Carlo Rovelli.md",
     "ethics by spinoza.md",
-    "time reversal invariance.md",
     "Soft Hair on Black Holes.md",
     "Reith Lectures.md",
     "what is life by Paul Nurse.md",
     "The Luminaries Eleanor Catton.md",
     "Oxford Mathematics Public Lectures.md",
     "Springer biography series.md",
-    "reversible process.md",
-    "History of the world the time-life series.md",
     "The Mind-Body Problem by Jonathan Westphal.md",
     "diary/2023-12-10.md",
     "Swami Sarvapriyananda.md",
-    "Keith Campbell.md",
-    "Atlas Shrugged by Any Rand.md",
-    "The World Book Encyclopaedia.md",
-    "Categorical systems theory.md",
-    "palate.md",
-    "Ayn Rand.md"
+    "Keith Campbell.md"
   ]
 }

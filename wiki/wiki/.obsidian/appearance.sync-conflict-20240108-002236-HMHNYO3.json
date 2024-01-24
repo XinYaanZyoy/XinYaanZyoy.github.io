@@ -1,0 +1,10 @@
+{
+  "accentColor": "#2fb646",
+  "interfaceFontFamily": "FreeMono",
+  "textFontFamily": "FreeMono",
+  "monospaceFontFamily": "FreeMono",
+  "baseFontSize": 17,
+  "enabledCssSnippets": [
+    "custom"
+  ]
+}

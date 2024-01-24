@@ -1,5 +1,5 @@
 - [[exact sciences]]
-	- [[mathematics]]
+	- [[Mathematics]]
 - [[observational sciences]]
 	- [[physics]]
 	- [[chemistry]]

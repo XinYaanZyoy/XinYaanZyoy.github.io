@@ -1,3 +1,4 @@
 {
-  "folder": "/public_journal"
+  "folder": "/public_journal",
+  "autorun": true
 }

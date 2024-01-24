@@ -3,4 +3,4 @@ src: [goodreads](https://www.goodreads.com/series/308060-introducing-graphic-gui
 
 this series looks fun to me! 
 
-found it [here](https://twitter.com/prathyvsh/status/1205554458404376576)
+found it [here](https://twitter.com/prathyvsh/status/1205554458404376576) 

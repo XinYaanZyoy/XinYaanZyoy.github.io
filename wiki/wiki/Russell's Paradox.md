@@ -1,1 +1,1 @@
-[[richard's paradox]]
+#: [[paradox]], [[richard's paradox]] 

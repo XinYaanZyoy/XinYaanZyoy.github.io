@@ -1,6 +1,6 @@
 there's this problem of cosmology where we try to assign [[entropy]] to the "endpoints" of the universe in a particular model.
 
-find out that video by roger penrose on Closer to truth which i sent to navya. ([here](https://closertotruth.com/video/penro-016/?referrer=8411) it is.)
+roger penrose on Closer to truth explains [here](https://closertotruth.com/video/penro-016/?referrer=8411). 
 
 there's another [[Roger Penrose]]'s [lecture](https://www.youtube.com/watch?v=B-EpHQ7yl9c) in which he explains beautifully this problem and a solution is [[Conformal Cyclic Cosmology]](?). (NEED TO REVISE THE FOLLOWING STUFF)
 

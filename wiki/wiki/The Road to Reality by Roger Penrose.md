@@ -1,5 +1,5 @@
 #book 
 src: 
 @: [[Roger Penrose]]
-#: [[mathematical physics]], [[theoretical physics]], [[physics]], [[mathematics]], [[Theory of Everything]]
+#: [[mathematical physics]], [[theoretical physics]], [[physics]], [[Mathematics]], [[Theory of Everything]]
 

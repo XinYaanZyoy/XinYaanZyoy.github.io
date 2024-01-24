@@ -1,7 +1,7 @@
 #people 
 
 [[mathematical physics]]
-[[mathematics]]
+[[Mathematics]]
 
 
 to read:
