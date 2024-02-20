@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "9281f04fa8e03213",
+        "id": "80d55a79487df8c1",
         "type": "tabs",
         "children": [
           {
-            "id": "f6cf8a1f171eaad8",
+            "id": "9d2a453aff6c7202",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -44,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "goal",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -154,8 +154,16 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "f6cf8a1f171eaad8",
+  "active": "9d2a453aff6c7202",
   "lastOpenFiles": [
+    "Math of Music.md",
+    "Index.md",
+    "nlab.md",
+    "Universal basic income.md",
+    "Universal Basic Income Short-Term Results from a Long-Term Experiment in Kenya.md",
+    "Music.md",
+    "public_journal/2023-07-04.md",
+    "public_journal/2023-07-02.md",
     "zotero.md",
     "Zhuangzi by Zhuangzi.md",
     "zettelkasten.md",
@@ -174,14 +182,6 @@
     "William Woodin.md",
     "William Paley.md",
     "William Lawvere.md",
-    "Will Kinney.md",
-    "Will Durant.md",
-    "Wiley Series in Probability and Statistics.md",
-    "Wholeness and the Implicate Order.md",
-    "who did it first.md",
-    "whitney embedding theorem.md",
-    "White Holes by Carlo Rovelli.md",
-    "What is money.md",
     "analysis_E&A.canvas",
     "wiki-files/Real Analysis by Bruckner et al.pdf",
     "wiki-files/Real Analysis by Bruckner et al.pdf.crdownload",
