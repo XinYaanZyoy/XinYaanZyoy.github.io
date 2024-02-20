@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "89efabbb324e9d9e",
+        "id": "3f7a96a7966f7605",
         "type": "tabs",
         "children": [
           {
-            "id": "43cce5925e3155d5",
+            "id": "ddd709f0d63ea5f0",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -40,7 +40,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "tag:#course",
+            "query": "",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -135,10 +135,20 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "43cce5925e3155d5",
+  "active": "ddd709f0d63ea5f0",
   "lastOpenFiles": [
-    "HOTW vol 1 The Human Dawn, Pre-History - 3000 BC.md",
+    "public_journal/2023-07-15.md",
+    "Unshackled A Practical Guide For Highly-Skilled Immigrants To Thrive In The United States.md",
+    "Index.md",
+    "public_journal/2024-01-30.md",
     "History of the world the time-life series.md",
+    "HOTW vol 1 The Human Dawn, Pre-History - 3000 BC.md",
+    "public_journal/2024-01-29.md",
+    "public_journal/2024-01-26.md",
+    "finance.md",
+    "public_journal/2024-01-25.md",
+    "Elon Musk by Ashlee Vance.md",
+    "public_journal/2024-01-24.md",
     "public_journal/2024-01-22.md",
     "anarchy.md",
     "marxism.md",
@@ -148,20 +158,10 @@
     "Entropy problem of cosmology.md",
     "Untitled.md",
     "CMU 15-445 and 15-645 Database Systems.md",
-    "Index.md",
     "Memory and entropy by Carlo rovelli.md",
     "old fisherman's mistake.md",
     "Carlo Rovelli.md",
     "ethics by spinoza.md",
-    "Soft Hair on Black Holes.md",
-    "Reith Lectures.md",
-    "what is life by Paul Nurse.md",
-    "The Luminaries Eleanor Catton.md",
-    "Oxford Mathematics Public Lectures.md",
-    "Springer biography series.md",
-    "The Mind-Body Problem by Jonathan Westphal.md",
-    "diary/2023-12-10.md",
-    "Swami Sarvapriyananda.md",
-    "Keith Campbell.md"
+    "Soft Hair on Black Holes.md"
   ]
 }
