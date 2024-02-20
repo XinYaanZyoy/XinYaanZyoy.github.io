@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b4ed1f24922436fd",
+        "id": "9281f04fa8e03213",
         "type": "tabs",
         "children": [
           {
-            "id": "47241bd58991cdf4",
+            "id": "f6cf8a1f171eaad8",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -154,7 +154,7 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "47241bd58991cdf4",
+  "active": "f6cf8a1f171eaad8",
   "lastOpenFiles": [
     "zotero.md",
     "Zhuangzi by Zhuangzi.md",
@@ -181,7 +181,7 @@
     "who did it first.md",
     "whitney embedding theorem.md",
     "White Holes by Carlo Rovelli.md",
-    "What is money?.md",
+    "What is money.md",
     "analysis_E&A.canvas",
     "wiki-files/Real Analysis by Bruckner et al.pdf",
     "wiki-files/Real Analysis by Bruckner et al.pdf.crdownload",
