@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "80d55a79487df8c1",
+        "id": "f933f4afee699a8e",
         "type": "tabs",
         "children": [
           {
-            "id": "9d2a453aff6c7202",
+            "id": "bbd8fae32a96b76b",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -154,11 +154,14 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "9d2a453aff6c7202",
+  "active": "bbd8fae32a96b76b",
   "lastOpenFiles": [
-    "Math of Music.md",
-    "Index.md",
+    "Iosif Bena.md",
+    "Special Functions A Unified Theory Based on Singularities.md",
+    "Diagonal Argument.md",
     "nlab.md",
+    "Index.md",
+    "Math of Music.md",
     "Universal basic income.md",
     "Universal Basic Income Short-Term Results from a Long-Term Experiment in Kenya.md",
     "Music.md",
@@ -179,9 +182,6 @@
     "Wojciech H. Zurek.md",
     "Wöhler synthesis.md",
     "Winter school on Gravity and Light 2015.md",
-    "William Woodin.md",
-    "William Paley.md",
-    "William Lawvere.md",
     "analysis_E&A.canvas",
     "wiki-files/Real Analysis by Bruckner et al.pdf",
     "wiki-files/Real Analysis by Bruckner et al.pdf.crdownload",
