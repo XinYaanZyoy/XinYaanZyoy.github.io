@@ -47,33 +47,3 @@ blockquote{background-color:#222;border-left:solid 4px #666;margin-left:12px;pad
 blockquote img{margin:12px 0px;}
 blockquote iframe{margin:12px 0px;}
 
-/* gcse style */
-div#gsc-iw-id1.gsc-input-box {
-  background-color: #222;
-  border-top-left-radius: 8px;
-  border-bottom-left-radius: 8px;
-}
-
-div.gsc-results.gsc-webResult {
-  background-color: #222;
-  padding-bottom: 0;
-}
-
-input#gsc-i-id1.gsc-input {
-  color: #d1cbc7;
-  background-color: #222;
-}
-
-span#gs_cb50.gscb_a {
-  color: #01ff70;
-}
-
-div.gcsc-more-maybe-branding-root, div#resInfo-0.gsc-result-info, div.gsc-above-wrapper-area {
-  display: none;
-}
-
-button.gsc-search-button.gsc-search-button-v2 {
-  border-top-right-radius: 8px;
-  border-bottom-right-radius: 8px;
-  cursor: pointer;
-}
