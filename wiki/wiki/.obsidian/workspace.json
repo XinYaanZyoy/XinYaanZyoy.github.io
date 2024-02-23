@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f933f4afee699a8e",
+        "id": "47080b6d7095f383",
         "type": "tabs",
         "children": [
           {
-            "id": "bbd8fae32a96b76b",
+            "id": "7d76d5a6afe28126",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -44,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "topos",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -154,14 +154,21 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "bbd8fae32a96b76b",
+  "active": "7d76d5a6afe28126",
   "lastOpenFiles": [
+    "The Structure of Meaning in Language Parallel Narratives in Linear Algebra and Category Theory.md",
+    "Tyler Cowen.md",
+    "Observer theory.md",
+    "Polynomial Functors A General Theory of Interaction by Spivak and Niu.md",
+    "Ross Street.md",
+    "Math of Music.md",
+    "Andre Joyal.md",
+    "olivia caramello.md",
     "Iosif Bena.md",
     "Special Functions A Unified Theory Based on Singularities.md",
     "Diagonal Argument.md",
     "nlab.md",
     "Index.md",
-    "Math of Music.md",
     "Universal basic income.md",
     "Universal Basic Income Short-Term Results from a Long-Term Experiment in Kenya.md",
     "Music.md",
@@ -175,13 +182,6 @@
     "yoneda lemma.md",
     "Yeast.md",
     "xAI.md",
-    "Wu–Yang dictionary.md",
-    "word embedding.md",
-    "womb.md",
-    "Wolfgang Smith.md",
-    "Wojciech H. Zurek.md",
-    "Wöhler synthesis.md",
-    "Winter school on Gravity and Light 2015.md",
     "analysis_E&A.canvas",
     "wiki-files/Real Analysis by Bruckner et al.pdf",
     "wiki-files/Real Analysis by Bruckner et al.pdf.crdownload",

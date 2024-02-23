@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "3f7a96a7966f7605",
+        "id": "295241d17fac3921",
         "type": "tabs",
         "children": [
           {
-            "id": "ddd709f0d63ea5f0",
+            "id": "ef55383a7227b387",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -40,7 +40,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "",
+            "query": "Cats4",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -135,8 +135,12 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "ddd709f0d63ea5f0",
+  "active": "ef55383a7227b387",
   "lastOpenFiles": [
+    "Observer theory.md",
+    "The Structure of Meaning in Language Parallel Narratives in Linear Algebra and Category Theory.md",
+    "AI-ML-DS.md",
+    "category theory.md",
     "public_journal/2023-07-15.md",
     "Unshackled A Practical Guide For Highly-Skilled Immigrants To Thrive In The United States.md",
     "Index.md",
@@ -158,10 +162,6 @@
     "Entropy problem of cosmology.md",
     "Untitled.md",
     "CMU 15-445 and 15-645 Database Systems.md",
-    "Memory and entropy by Carlo rovelli.md",
-    "old fisherman's mistake.md",
-    "Carlo Rovelli.md",
-    "ethics by spinoza.md",
-    "Soft Hair on Black Holes.md"
+    "Memory and entropy by Carlo rovelli.md"
   ]
 }
