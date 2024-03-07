@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "47080b6d7095f383",
+        "id": "311e912382633c4a",
         "type": "tabs",
         "children": [
           {
-            "id": "7d76d5a6afe28126",
+            "id": "a26e91694c5a27b8",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -44,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "topos",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -81,6 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "William Lawvere.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "William Lawvere.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "William Lawvere.md"
+              }
             }
           }
         ],
@@ -138,8 +142,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 322.5,
-    "collapsed": true
+    "width": 322.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -154,34 +157,73 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "7d76d5a6afe28126",
+  "floating": {
+    "id": "fd2acd4e95379bf5",
+    "type": "floating",
+    "children": [
+      {
+        "id": "94b80a74b1da501b",
+        "type": "window",
+        "children": [
+          {
+            "id": "dc983f88a5755141",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "27db00ca9f6c5423",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "William Lawvere.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 230,
+        "y": 243,
+        "width": 800,
+        "height": 400,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "27db00ca9f6c5423",
   "lastOpenFiles": [
-    "The Structure of Meaning in Language Parallel Narratives in Linear Algebra and Category Theory.md",
+    "Will Durant.md",
     "Tyler Cowen.md",
+    "tools for thought.md",
+    "The Great Ideas Program Series.md",
+    "superconductivity.md",
+    "stressor.md",
+    "St John's reading list.md",
+    "spin.md",
+    "spatial cognition.md",
+    "Sophomore's dream.md",
+    "semantics.md",
+    "SCP Foundation.md",
+    "Scenius.md",
+    "Sabrina Gonzalez Pasterski.md",
+    "reading.md",
+    "quantum simple pendulum.md",
+    "quantum mechanics.md",
+    "Quantum Computation.md",
+    "prediction market.md",
+    "political science.md",
+    "philosophy.md",
+    "PCA.md",
+    "open games.md",
     "Observer theory.md",
-    "Polynomial Functors A General Theory of Interaction by Spivak and Niu.md",
-    "Ross Street.md",
-    "Math of Music.md",
-    "Andre Joyal.md",
-    "olivia caramello.md",
-    "Iosif Bena.md",
-    "Special Functions A Unified Theory Based on Singularities.md",
-    "Diagonal Argument.md",
-    "nlab.md",
-    "Index.md",
-    "Universal basic income.md",
-    "Universal Basic Income Short-Term Results from a Long-Term Experiment in Kenya.md",
-    "Music.md",
-    "public_journal/2023-07-04.md",
-    "public_journal/2023-07-02.md",
-    "zotero.md",
-    "Zhuangzi by Zhuangzi.md",
-    "zettelkasten.md",
-    "Yuri Manin.md",
-    "Yoshihiro Maruyama.md",
-    "yoneda lemma.md",
-    "Yeast.md",
-    "xAI.md",
+    "Noam Chomsky.md",
+    "nano technology.md",
+    "Pasted image 20240307223748.png",
     "analysis_E&A.canvas",
     "wiki-files/Real Analysis by Bruckner et al.pdf",
     "wiki-files/Real Analysis by Bruckner et al.pdf.crdownload",
@@ -201,7 +243,6 @@
     "pasted-image-20230706034833.png",
     "pasted-image-20230706024011.png",
     "pasted-image-20230706015441.png",
-    "pasted-image-20230706001619.png",
-    "pasted-image-20230625165921.png"
+    "pasted-image-20230706001619.png"
   ]
 }

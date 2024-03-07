@@ -13,3 +13,4 @@ GWT
 https://collections.nlm.nih.gov/catalog/nlm:nlmuid-101584582X469-doc
 
 [[sean carroll]] at https://www.youtube.com/watch?v=rCPCyri1rXU has some good arguments for physicalism. (look for the last question regarding the self observing observer)
+

@@ -1,0 +1,1 @@
+https://blog.20squares.xyz/open-games-bootcamp-i/

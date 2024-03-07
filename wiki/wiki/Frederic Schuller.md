@@ -1,3 +1,6 @@
+#: [[quantum mechanics]] 
+
+
 the guy who made me love and come back to [[mathematical physics]] along with [[Vladimir Arnold]], and [[John Carlos Baez]].
 
 lectures:

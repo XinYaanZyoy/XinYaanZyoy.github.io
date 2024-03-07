@@ -7,4 +7,5 @@
 - http://robspuzzlepage.com/pattern.htm
 - game theory https://ncase.me/trust/
 - https://phet.colorado.edu
+- https://www.janestreet.com/puzzles/archive/
 - 

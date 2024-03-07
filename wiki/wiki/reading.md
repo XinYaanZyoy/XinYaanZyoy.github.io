@@ -119,7 +119,17 @@ This Fortnight (July 15th): academic: [[Escher and Amann Analysis]], non-academi
 - [wilbourhall](https://www.wilbourhall.org) 
 - [A Miniature Library of Philosophy](https://www.marxists.org/reference/subject/philosophy/front_pg.htm) 
 - https://press.stripe.com
-- 
+- http://www.technovelgy.com
+- [prathyush' threads](https://twitter.com/prathyvsh/status/1288176143221350400) 
+- [atlas library](https://atlasfellowship.notion.site/Atlas-Library-af2b3a58670c4b4d8c49856c10e8594f) 
+- [snigdha roy's reading index](https://snigdharoy.com/reading) 
+- [sam enright's reading list](https://samenright.com/reading-list/) 
+- [[Bret Victor]]
+- [[St John's reading list]] 
+- [[The Great Ideas Program Series]]
+- [[Will Durant]] 
+- http://sonic.net/~rteeter/books.html (http://sonic.net/~rteeter/grtorien.html)
+- https://en.wikipedia.org/wiki/How_to_Read_a_Book#Reading_list_(1972_edition)
 
 ### A dirty computation
 Imagine a regularly reading healthy human body, it makes sense to assume they read a book a week or about ~5x10^1 books/year, that is ~5x10^2 books/decade, further assuming the actual book count begin somewhere in late teens or early 20s, say at 21st year (in my case it's 14-15th year), and the body lives ~7x10^1 years, and that the linear model works, the total book count of the body's entire life then is ~25x10^2=BC_0. 

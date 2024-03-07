@@ -3,7 +3,7 @@ Hey there! This is my [personal wiki](https://en.wikipedia.org/wiki/Personal_wik
 
 ## Tags
 only the external stuff are tagged, internal stuff, that is the network of ideas, are not tagged, because, tags are to be used only to list the relevant stuff, and internal ideas are best represented, and therefore explored, in the graph. also, tags are definitely consistent, that is if I've assigned a tag to a note it's most likely to be correct, but they're not complete, that is not all the notes that could have a given tag has it! so use search function instead! 
-#paper #people #problem #video #book-series #link-collection #seminar #school #book #encyclopedia #to-do #blog #journal #institute #conference #question #wiki #database #course #lectures #AIQGET #art #tmp 
+#paper #people #problem #video #book-series #link-collection #seminar #school #book #encyclopedia #to-do #blog #journal #institute #conference #question #wiki #forum #database #course #lectures #AIQGET #art #tmp 
 
 ## My Love
 [[Philosophy]] of [[Mind]], 

@@ -1,0 +1,1 @@
+[QM for mathematicians](https://www.youtube.com/playlist?list=PLCe-H2N8-ny4yeLSYCMkhOjHXCrMqr1jo) 

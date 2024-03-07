@@ -20,4 +20,7 @@ https://www.goodreads.com/book/show/2110546.Mathematics_and_Chess?from_search=tr
 
 https://www.goodreads.com/book/show/58194164-corridors-the-geometry-physics-and-mathematics-of-chess-vol-1?from_search=true&from_srp=p1kp6eNp1W&qid=4
 
+___
+chess books:
+https://lichess.org/@/nikhildixit/blog/20-best-chess-books-for-advanced-players/XPqPTGXn
 

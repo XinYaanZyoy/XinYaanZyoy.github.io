@@ -1,1 +1,3 @@
 nick has suggested some good books on LA. linear algebra and geometry, shilov etc...
+
+https://www.math.brown.edu/streil/papers/LADW/LADW.html
