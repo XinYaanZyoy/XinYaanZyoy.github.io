@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "311e912382633c4a",
+        "id": "d7c928f387c149bc",
         "type": "tabs",
         "children": [
           {
-            "id": "a26e91694c5a27b8",
+            "id": "58df7a107af3d3e1",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "William Lawvere.md",
+                "file": "zotero.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "William Lawvere.md",
+                "file": "zotero.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "William Lawvere.md"
+                "file": "zotero.md"
               }
             }
           }
@@ -158,24 +158,24 @@
     }
   },
   "floating": {
-    "id": "fd2acd4e95379bf5",
+    "id": "efcfbbcb7363b256",
     "type": "floating",
     "children": [
       {
-        "id": "94b80a74b1da501b",
+        "id": "f421dfcd181e8aa4",
         "type": "window",
         "children": [
           {
-            "id": "dc983f88a5755141",
+            "id": "4456bd8cb78cfef1",
             "type": "tabs",
             "children": [
               {
-                "id": "27db00ca9f6c5423",
+                "id": "ec00e24eca1d0fcc",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "William Lawvere.md",
+                    "file": "zotero.md",
                     "mode": "source",
                     "backlinks": true,
                     "source": false
@@ -186,45 +186,45 @@
           }
         ],
         "direction": "vertical",
-        "x": 230,
-        "y": 243,
-        "width": 800,
-        "height": 400,
+        "x": 246,
+        "y": 164,
+        "width": 900,
+        "height": 500,
         "maximize": false,
         "zoom": 0
       }
     ]
   },
-  "active": "27db00ca9f6c5423",
+  "active": "16601d04844dcca8",
   "lastOpenFiles": [
+    "Zhuangzi by Zhuangzi.md",
+    "zettelkasten.md",
+    "Yuri Manin.md",
+    "Yoshihiro Maruyama.md",
+    "yoneda lemma.md",
+    "Yeast.md",
+    "xAI.md",
+    "Wu–Yang dictionary.md",
+    "word embedding.md",
+    "womb.md",
+    "Wolfgang Smith.md",
+    "Wojciech H. Zurek.md",
+    "Wöhler synthesis.md",
+    "Winter school on Gravity and Light 2015.md",
+    "William Woodin.md",
+    "William Paley.md",
+    "William Lawvere.md",
+    "Will Kinney.md",
     "Will Durant.md",
-    "Tyler Cowen.md",
-    "tools for thought.md",
-    "The Great Ideas Program Series.md",
-    "superconductivity.md",
-    "stressor.md",
-    "St John's reading list.md",
-    "spin.md",
-    "spatial cognition.md",
-    "Sophomore's dream.md",
-    "semantics.md",
-    "SCP Foundation.md",
-    "Scenius.md",
-    "Sabrina Gonzalez Pasterski.md",
-    "reading.md",
-    "quantum simple pendulum.md",
-    "quantum mechanics.md",
-    "Quantum Computation.md",
-    "prediction market.md",
-    "political science.md",
-    "philosophy.md",
-    "PCA.md",
-    "open games.md",
-    "Observer theory.md",
-    "Noam Chomsky.md",
-    "nano technology.md",
-    "Pasted image 20240307223748.png",
+    "Wiley Series in Probability and Statistics.md",
+    "Wholeness and the Implicate Order.md",
+    "who did it first.md",
+    "whitney embedding theorem.md",
+    "White Holes by Carlo Rovelli.md",
+    "What is money.md",
+    "What is K-theory and what is it good for.md",
     "analysis_E&A.canvas",
+    "Pasted image 20240307223748.png",
     "wiki-files/Real Analysis by Bruckner et al.pdf",
     "wiki-files/Real Analysis by Bruckner et al.pdf.crdownload",
     "wiki-files/Mathematical Structures in Panini Ashtaadhyaayi.pdf",
