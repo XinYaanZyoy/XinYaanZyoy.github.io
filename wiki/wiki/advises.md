@@ -11,3 +11,6 @@ there're some math/phy advises from Nobel laureates but let's add things later, 
 6. [advice by boaz barak for theorist](https://windowsontheory.org/2015/11/03/advice-for-the-budding-theorist/)
 7. [neeldhara's advice for phd student](https://slides.com/neeldhara/aarohan-2023)
 8. [steven miller's advice](https://web.williams.edu/Mathematics/sjmiller/public_html/advice.htm) 
+9. https://handbookto.life
+10. [andrew's thread of advice](https://twitter.com/__drewface/status/1765782251067830719) (and [The Intellectual Frontier](https://vienna.earth/plate/andrew/frontier)) 
+11. [sam altman's advices](https://blog.samaltman.com/archive?query=advice) (and [this](https://blog.samaltman.com/what-i-wish-someone-had-told-me))

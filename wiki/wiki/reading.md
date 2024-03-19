@@ -115,6 +115,7 @@ This Fortnight (July 15th): academic: [[Escher and Amann Analysis]], non-academi
 
 
 ### The Ocean
+#link-collection 
 - [Creon's list of profound books](https://docs.google.com/document/d/1ScT4mRP03zJVAYtKk3JQ1ty456P5cXJbbyzV_mWvT-c/) 
 - [wilbourhall](https://www.wilbourhall.org) 
 - [A Miniature Library of Philosophy](https://www.marxists.org/reference/subject/philosophy/front_pg.htm) 
@@ -130,6 +131,8 @@ This Fortnight (July 15th): academic: [[Escher and Amann Analysis]], non-academi
 - [[Will Durant]] 
 - http://sonic.net/~rteeter/books.html (http://sonic.net/~rteeter/grtorien.html)
 - https://en.wikipedia.org/wiki/How_to_Read_a_Book#Reading_list_(1972_edition)
+- [dan schulz's list](https://www.danschulz.net/books/) 
+- 
 
 ### A dirty computation
 Imagine a regularly reading healthy human body, it makes sense to assume they read a book a week or about ~5x10^1 books/year, that is ~5x10^2 books/decade, further assuming the actual book count begin somewhere in late teens or early 20s, say at 21st year (in my case it's 14-15th year), and the body lives ~7x10^1 years, and that the linear model works, the total book count of the body's entire life then is ~25x10^2=BC_0. 

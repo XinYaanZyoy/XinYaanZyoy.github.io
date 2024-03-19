@@ -1,5 +1,5 @@
 there's a beautiful thing: [https://learnct.lol](https://learnct.lol). category theory for various subjects! I'd definitely love to learn them all!
-https://github.com/bgavran/Category_Theory_Resources
+https://github.com/bgavran/Category_Theory_Resources (^: [tweet](https://x.com/bgavran3/status/1574081416270258176?s=20))
 https://www.localcharts.org/t/learning-resources-for-applied-category-theory/8285
 
 

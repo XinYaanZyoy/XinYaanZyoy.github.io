@@ -1,0 +1,1 @@
+https://rationalwiki.org/wiki/Rapoport%27s_Rules

@@ -4,18 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "d7c928f387c149bc",
+        "id": "67115228cc404a5b",
         "type": "tabs",
         "children": [
           {
-            "id": "58df7a107af3d3e1",
+            "id": "358eec4c838986c8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "midnight's simulacra.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6641093874c3bc9d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "reading.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zotero.md",
+                "file": "reading.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "zotero.md",
+                "file": "reading.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "zotero.md"
+                "file": "reading.md"
               }
             }
           }
@@ -157,72 +176,35 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "floating": {
-    "id": "efcfbbcb7363b256",
-    "type": "floating",
-    "children": [
-      {
-        "id": "f421dfcd181e8aa4",
-        "type": "window",
-        "children": [
-          {
-            "id": "4456bd8cb78cfef1",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "ec00e24eca1d0fcc",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "zotero.md",
-                    "mode": "source",
-                    "backlinks": true,
-                    "source": false
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 246,
-        "y": 164,
-        "width": 900,
-        "height": 500,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "16601d04844dcca8",
+  "active": "6641093874c3bc9d",
   "lastOpenFiles": [
-    "Zhuangzi by Zhuangzi.md",
-    "zettelkasten.md",
-    "Yuri Manin.md",
-    "Yoshihiro Maruyama.md",
-    "yoneda lemma.md",
-    "Yeast.md",
-    "xAI.md",
-    "Wu–Yang dictionary.md",
-    "word embedding.md",
-    "womb.md",
-    "Wolfgang Smith.md",
-    "Wojciech H. Zurek.md",
-    "Wöhler synthesis.md",
-    "Winter school on Gravity and Light 2015.md",
-    "William Woodin.md",
-    "William Paley.md",
-    "William Lawvere.md",
-    "Will Kinney.md",
-    "Will Durant.md",
-    "Wiley Series in Probability and Statistics.md",
-    "Wholeness and the Implicate Order.md",
-    "who did it first.md",
-    "whitney embedding theorem.md",
-    "White Holes by Carlo Rovelli.md",
-    "What is money.md",
-    "What is K-theory and what is it good for.md",
+    "interesting homepages.md",
+    "midnight's simulacra.md",
+    "reading.md",
+    "Paul Graham.md",
+    "Gwern Branwen.md",
+    "conformal field theory.md",
+    "Quantum Field Theory.md",
+    "Index.md",
+    "links.md",
+    "mathematical finance.md",
+    "Global Problems of Population Growth.md",
+    "Financial Markets with Robert Shiller.md",
+    "categorical probability theory.md",
+    "probability theory.md",
+    "the number systems foundations of algebra and analysis by solomon feferman.md",
+    "regression.md",
+    "Ronald Brown.md",
+    "Topology and Groupoids by Ronald Brown.md",
+    "Cambridge Mathematical Library Series.md",
+    "Rothschild Distinguished Visiting Fellows Lectures.md",
+    "Issac Newton Institute for mathematical sciences.md",
+    "moduli space.md",
+    "free-will.md",
+    "depression.md",
+    "Robert Morris Sapolsky.md",
+    "Quantum Gravity.md",
+    "Pasted image 20240311053451.png",
     "analysis_E&A.canvas",
     "Pasted image 20240307223748.png",
     "wiki-files/Real Analysis by Bruckner et al.pdf",
@@ -242,7 +224,6 @@
     "pasted-image-20230927190509.png",
     "pasted-image-20230706034833.png",
     "pasted-image-20230706024011.png",
-    "pasted-image-20230706015441.png",
-    "pasted-image-20230706001619.png"
+    "pasted-image-20230706015441.png"
   ]
 }
