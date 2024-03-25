@@ -7,4 +7,4 @@ I want to watch all of the talks https://www.youtube.com/playlist?list=PLbnrZHfN
 - [ ] Why is Life the Way it Is with Nick Lane
 - [ ] The Physics of Life How Water Folds Proteins with Sylvia McLain
 - [ ] The Rules that Govern Life on Earth with Sean B Carroll
-- [ ] 
+- [ ] A history of Islam and science with Timothy Winter

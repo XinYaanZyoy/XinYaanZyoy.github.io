@@ -1,31 +1,19 @@
 #encyclopedia 
 Src: [goodreads](https://www.goodreads.com/book/show/14763109-world-book-encyclopedia-2012) 
 
-## Schedule
+I have stopped reading this. doing the nlab and wikipedia reading projects instead.
 
-| volume | first day | last day |
-|---|---|---|
-|vol1|2023-11-18|2023-11-28|
-|vol2|2023-11-29|2023-12-09|
-|vol3|2023-12-10|2023-12-20|
-|vol4|2023-12-21|2023-12-31|
-|vol5|2024-01-01|2024-01-11|
-|vol6|2024-01-12|2024-01-22|
-|vol7|2024-01-23|2024-02-02|
-|vol8|2024-02-03|2024-02-13|
-|vol9|2024-02-14|2024-02-24|
-|vol10|2024-02-25|2024-03-06|
-|vol11|2024-03-07|2024-03-17|
-|vol12|2024-03-18|2024-03-28|
-|vol13|2024-03-29|2024-04-08|
-|vol14|2024-04-09|2024-04-19|
-|vol15|2024-04-20|2024-04-30|
-|vol16|2024-05-01|2024-05-11|
-|vol17|2024-05-12|2024-05-22|
-|vol18|2024-05-23|2024-06-02|
-|vol19|2024-06-03|2024-06-13|
-|vol20|2024-06-14|2024-06-24|
-|vol21|2024-06-25|2024-07-05|
+## Review
+This is a wonderful thing I wish I had access to as a child who mostly spent his summer afternoons in lonely projects thinking about aliens and space exploration and the existence of the universe and stuff.  
+  
+I have access to a gold gilded 1990 version because it's there in my new residential library.  
+  
+I planned to read the entire encyclopedia cover to cover but I am abandoning it for three reasons:  
+1. it takes a LOT of time to go through physical encyclopedias, and I am no longer a free kid  
+2. I'm better off reading Wikipedia and nlab articles  
+3. I have skimmed through most of the volumes enough to know the depth to which a given entry goes, which is a bit shallow for a graduate subjects student, and to claim that I have "skimmed through" it, lol.  
+  
+If your kid loves encyclopedias, better make them read Wikipedia and nlab, or perhaps modern physical versions of [[Childcraft The How And Why Library]]. 
 
 ## logs
 [[2023-12-12#16 38]]

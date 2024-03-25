@@ -1,6 +1,6 @@
 {
   "vaultName": "wiki",
-  "lastExport": 1709860472444,
+  "lastExport": 1711347768386,
   "pluginVersion": "1.8.01",
   "validBodyClasses": "publish css-settings-manager theme-dark show-inline-title",
   "useCustomHeadContent": false,
@@ -52,6 +52,7 @@
     "A formalization of set theory without variables by tarski et al.md",
     "A Lambda Calculus Satellite.md",
     "A New Experiment To Test If Consciousness Gives Rise to Physics & Not Vice Versa.md",
+    "a note on the categorical notions of normal subobject and of equivalence class.md",
     "A Postquantum Theory of Classical Gravity.md",
     "A Prehistory of n-Categorical Physics.md",
     "A short introduction to the quantum formalism(s).md",
@@ -67,6 +68,7 @@
     "ACT2023.md",
     "Action.md",
     "Action, or the fungibility of computation.md",
+    "activation function.md",
     "Active matter.md",
     "adenosine diphosphate.md",
     "adenosine triphosphate.md",
@@ -117,6 +119,7 @@
     "Anaximander.md",
     "Andre Joyal.md",
     "Andrej Bauer.md",
+    "Andrew Strominger.md",
     "Andrew Wiles.md",
     "Anil Seth.md",
     "Anki.md",
@@ -160,6 +163,7 @@
     "Axiom of Choice.md",
     "Axioms of ZF Set Theory.md",
     "Ayn Rand.md",
+    "baby books.md",
     "backpropagation.md",
     "bacteria.md",
     "Barbara Gail Montero.md",
@@ -203,6 +207,7 @@
     "Bohr–Einstein debates.md",
     "Bounded rationality.md",
     "Brandolini's law.md",
+    "Breakthrough Propulsion Physics Program.md",
     "Bret Victor.md",
     "Brian Keating.md",
     "Bruno Gavranović.md",
@@ -213,6 +218,7 @@
     "calendar.md",
     "Cambridge Companions to Religion Series.md",
     "Cambridge Introductions to Philosophy Series.md",
+    "Cambridge Mathematical Library Series.md",
     "Cambridge Monographs on Mathematical Physics Series.md",
     "Cambridge Philosophy Classics Series.md",
     "Cambridge Studies in Advanced Mathematics Series.md",
@@ -242,6 +248,7 @@
     "causality.md",
     "Causality Models, Reasoning, and Inference by Judea Pearl.md",
     "cdc2.md",
+    "Celestial Holography.md",
     "Celestial Navigation.md",
     "Cell.md",
     "cell cycle.md",
@@ -253,6 +260,7 @@
     "Center for Consciousness Studies.md",
     "center for the future mind.md",
     "Centrifugal Governor.md",
+    "Cephalopod intelligence.md",
     "chain rule.md",
     "Chaos Theory.md",
     "Chaos theory and geometry, can they predict our world – with Tim Palmer.md",
@@ -277,6 +285,7 @@
     "Clairvoyance.md",
     "Clarence Irving Lewis.md",
     "Classical Mechanics.md",
+    "classical unified field theories.md",
     "classification of division algebras.md",
     "Claude Shannon.md",
     "Claudia Passos.md",
@@ -303,6 +312,7 @@
     "communication of mirages.md",
     "Commutative Diagrams.md",
     "compact.md",
+    "Compact Textbooks in Mathematics.md",
     "compartmentation.md",
     "Complete works of Swami Vivekananda.md",
     "Complex Numbers.md",
@@ -321,11 +331,13 @@
     "computational linguistics.md",
     "computational physics.md",
     "Computational Trinitarinism.md",
+    "computer.md",
     "computer science.md",
     "computing machinery and intelligence by Alan Turing.md",
     "Conceptual Mathematics A First Introduction to Categories.md",
     "Condorcet paradox.md",
     "Conformal Cyclic Cosmology.md",
+    "conformal field theory.md",
     "Confucius.md",
     "Conjectures and Refutations The Growth of Scientific Knowledge by Karl Popper.md",
     "Conjoining Meanings Semantics Without Truth Values.md",
@@ -344,6 +356,7 @@
     "correlation.md",
     "cosmic history.md",
     "cosmic inflation.md",
+    "CosmoCoffe.md",
     "cosmological evolution.md",
     "cosmology.md",
     "countable.md",
@@ -365,6 +378,8 @@
     "Dance.md",
     "Dante's Divine Comedy.md",
     "Data Science.md",
+    "data visualization.md",
+    "David Blackwell.md",
     "David Bohm.md",
     "David Chalmers.md",
     "David Deutsch.md",
@@ -379,6 +394,7 @@
     "David Pingree.md",
     "David Pollard.md",
     "David Spivak.md",
+    "David Wallace.md",
     "David Wolpert.md",
     "de rham's theorem.md",
     "Dear Qubitzers, GR=QM.md",
@@ -386,6 +402,7 @@
     "Deep learning A philosophical introduction by buckner.md",
     "Dennis Bray.md",
     "deoxyribonucleic acid.md",
+    "depression.md",
     "derivations of 2nd law of thermodynamics.md",
     "developmental biology.md",
     "Diagonal Argument.md",
@@ -461,7 +478,9 @@
     "Emily Patterson.md",
     "Emily Riehl.md",
     "Emmanuel Kant.md",
+    "Emmy Noether.md",
     "Emmy Noether lecture series.md",
+    "encryption.md",
     "Encyclopaedia of Mathematical Sciences.md",
     "Encyclopedia of life.md",
     "Encyclopedia of Mathematics and its Applications Series.md",
@@ -496,11 +515,13 @@
     "Erwin Schrödinger.md",
     "Escher and Amann Analysis.md",
     "Escherichia Coli.md",
+    "Establishing the accuracy of self-diagnosis in psychiatry.md",
     "ethanol.md",
     "ethics by spinoza.md",
     "Euclid.md",
     "euclidean geometry.md",
     "Euclidean Norm.md",
+    "Euclidean Twistor Unification.md",
     "Eugene Paul Wigner.md",
     "Eugenia Cheng.md",
     "eukaryotes.md",
@@ -529,6 +550,7 @@
     "Fifty Years of Quantum Chromodynamics (The Theory of The Strong Nuclear Force) - David Gross.md",
     "final object.md",
     "finance.md",
+    "Financial Markets with Robert Shiller.md",
     "fine arts.md",
     "Finite and Infinite Games A Vision of Life as Play and Possibility.md",
     "fission yeast.md",
@@ -538,6 +560,7 @@
     "formal theory.md",
     "Foundations by Greg Egan.md",
     "foundations of mathematics.md",
+    "foundations of physics.md",
     "fourier expandable functions.md",
     "fractal.md",
     "fractal geometry.md",
@@ -556,6 +579,7 @@
     "Friedmann equations.md",
     "Friedmann–Lemaître–Robertson–Walker metric.md",
     "Friedrich Wöhler.md",
+    "From Finite Sets to Feynman Diagrams.md",
     "fructose.md",
     "function composition.md",
     "functional analysis.md",
@@ -565,6 +589,7 @@
     "functorial construction.md",
     "Functorial evolution of quantum fields.md",
     "functoriality.md",
+    "Fundamental Components of Deep Learning A category-theoretic approach.md",
     "fundamental particle.md",
     "fundamental theorem of calculus.md",
     "fundamental theorem of linear algebra.md",
@@ -602,6 +627,7 @@
     "geothermal energy.md",
     "glial cell.md",
     "global calculus.md",
+    "Global Problems of Population Growth.md",
     "glucose.md",
     "GOAT Who is the Greatest Economist of all Time and Why Does it Matter.md",
     "Godel Lectures.md",
@@ -622,6 +648,7 @@
     "Greg Egan.md",
     "Gregor Mendel.md",
     "group homomorphism.md",
+    "group theory.md",
     "groupoid.md",
     "GSM Graduate Studies in Mathematics by AMS.md",
     "GTM Graduate Texts in Mathematics by Springer.md",
@@ -652,6 +679,7 @@
     "hierarchy.md",
     "hierarchy in group governance problem.md",
     "hierarchy of sciences.md",
+    "high energy physics.md",
     "Higher Category Theory.md",
     "higher structures.md",
     "Higher Structures in M-Theory.md",
@@ -669,6 +697,7 @@
     "Homo.md",
     "Homo Sapiens Sapiens.md",
     "homology group.md",
+    "Homomorphic encryption.md",
     "homomorphism.md",
     "homotopy type theory.md",
     "hormone.md",
@@ -710,6 +739,7 @@
     "intension-extension duality.md",
     "Intention.md",
     "Interactive theorem prover.md",
+    "interesting homepages.md",
     "International Society for Quantum Gravity.md",
     "interpretation.md",
     "interpretation of equality.md",
@@ -729,9 +759,11 @@
     "Isomorphism invariance and isomorphism reflection in type theory.md",
     "Israel Moiseevich Gelfand.md",
     "Issac Newton.md",
+    "Issac Newton Institute for mathematical sciences.md",
     "J. B. S. Haldane.md",
     "J. Robert Oppenheimer Lectures.md",
     "Jacques Monod.md",
+    "Jakob Schwichtenberg.md",
     "James Clerk Maxwell.md",
     "James Robert Brown.md",
     "James Watson.md",
@@ -744,12 +776,14 @@
     "John Carlos Baez.md",
     "John Conway.md",
     "John D. Norton.md",
+    "John Lilly.md",
     "John M. Butler.md",
     "John Preskill.md",
     "John Vervaeke.md",
     "Jon Awbrey.md",
     "Jon Sterling.md",
     "Jonathan Blow.md",
+    "Jonathan Gorard.md",
     "Jonathan Oppenheim.md",
     "Jonathan Westphal.md",
     "Joscha Bach.md",
@@ -767,6 +801,7 @@
     "Katalin Kariko.md",
     "Keith Campbell.md",
     "kevin buzzard.md",
+    "Kevin Costello.md",
     "kinase.md",
     "Kirk Ludwig.md",
     "klein bottle.md",
@@ -792,6 +827,7 @@
     "Lee Smolin.md",
     "Lenses.md",
     "Leonard Susskind.md",
+    "leonardo da vinci.md",
     "let me think.md",
     "Lev Okun.md",
     "liberal arts.md",
@@ -807,6 +843,7 @@
     "LISP.md",
     "literature.md",
     "Little People, Big Dreams Series.md",
+    "Lives of the Artists Series.md",
     "living vs non-living.md",
     "local theories.md",
     "locale theory.md",
@@ -831,6 +868,9 @@
     "management.md",
     "manga and anime stuffverse.md",
     "Manga and comic guides.md",
+    "many worlds.md",
+    "Many Worlds Everett, Quantum Theory, Reality.md",
+    "Many Worlds, the Born Rule, and Self-Locating Uncertainty.md",
     "Marcelin Berthelot.md",
     "markov categories.md",
     "markov kernel.md",
@@ -847,9 +887,11 @@
     "math writing softwares.md",
     "Mathematical Consciousness Science.md",
     "Mathematical Consciousness Science Notes.md",
+    "mathematical finance.md",
     "mathematical model.md",
     "mathematical physics.md",
     "Mathematical Structures in Panini Ashtaadhyaayi.md",
+    "Mathematically Structured Programming Group.md",
     "Mathematics.md",
     "mathematics films.md",
     "Mathematics under the Microscope.md",
@@ -878,8 +920,10 @@
     "Michael Levin.md",
     "Michael Nielsen.md",
     "Michaelis–Menten kinetics.md",
+    "Michel Talagrand.md",
     "microbe.md",
     "microeconomics.md",
+    "midnight's simulacra.md",
     "milky way galaxy.md",
     "Mimetic theory.md",
     "Mind.md",
@@ -892,6 +936,7 @@
     "Models of Consciousness 2019.md",
     "Modern Scholar recorded audiobooks.md",
     "modularity.md",
+    "moduli space.md",
     "molecule.md",
     "Monad.md",
     "monadology.md",
@@ -912,6 +957,8 @@
     "Myth and Mankind Series.md",
     "mythology.md",
     "Nagarjuna.md",
+    "Nagendra Vijay.md",
+    "Nancy Cartwright.md",
     "nano material.md",
     "nano technology.md",
     "NASA.md",
@@ -937,6 +984,7 @@
     "Nicolas gisin.md",
     "Niels Bohr.md",
     "Nigel James Hitchin.md",
+    "Nima Arkani-Hamed.md",
     "nlab.md",
     "no-go theorems.md",
     "no-hair theorem.md",
@@ -979,6 +1027,7 @@
     "optic chiasm.md",
     "optic nerve.md",
     "optics.md",
+    "optimism.md",
     "order theory.md",
     "Oregon Programming Languages Summer School.md",
     "organ.md",
@@ -1028,6 +1077,7 @@
     "Pasted image 20230706034833.png",
     "Pasted image 20230720233230.png",
     "Pasted image 20240307223748.png",
+    "Pasted image 20240311053451.png",
     "Patrick Matthew.md",
     "Paul Dirac.md",
     "Paul Graham.md",
@@ -1066,7 +1116,9 @@
     "physics.md",
     "Physics 283b by Nima Arkani-Hamed.md",
     "physics and mathematics lectures.md",
+    "Physics From Symmetry.md",
     "Physics of the Analytic S-Matrix.md",
+    "Physics Travel Guide.md",
     "physiology.md",
     "physmatics.md",
     "Picard Groups of Moduli Functors.md",
@@ -1112,6 +1164,7 @@
     "proof theory.md",
     "Property vs Structure.md",
     "proposition.md",
+    "propulsion.md",
     "protein.md",
     "Protein Folding Problem.md",
     "protein kinase.md",
@@ -1119,6 +1172,7 @@
     "Proxima Centauri.md",
     "psychology.md",
     "purpose.md",
+    "pursuing stacks.md",
     "Python.md",
     "quadruped.md",
     "qualia.md",
@@ -1127,6 +1181,7 @@
     "Quantum Computation.md",
     "Quantum Computing for Computer Scientists by yanofsky et al.md",
     "Quantum Field Theory.md",
+    "Quantum Field Theory A Tourist Guide for Mathematicians.md",
     "Quantum Gravity.md",
     "Quantum Gravity Seminar.md",
     "Quantum Gravity Seminar - Fall 2006.md",
@@ -1147,6 +1202,7 @@
     "quotient set.md",
     "Radon–Hurwitz numbers.md",
     "Random Access Memory.md",
+    "Rapoport's Rules.md",
     "Ravi Vakil.md",
     "reaction-diffusion model.md",
     "Read Only Memory.md",
@@ -1159,6 +1215,7 @@
     "red blood cell.md",
     "reflexivity.md",
     "refrigerator.md",
+    "regression.md",
     "Reith Lectures.md",
     "relativity theory.md",
     "Rene Descartes.md",
@@ -1186,12 +1243,14 @@
     "Robert Hooke.md",
     "Robert Langland.md",
     "Robert Morris Sapolsky.md",
+    "rocket.md",
     "Roger Penrose.md",
     "Roget’s International Thesaurus of English Words and Phrases.md",
     "Ronald Brown.md",
     "Rosalind Franklin.md",
     "Rosetta Stone Paper.md",
     "Ross Street.md",
+    "Rothschild Distinguished Visiting Fellows Lectures.md",
     "Roy Kerr.md",
     "Royal Institution CHRISTMAS LECTURES.md",
     "Rudolf Carnap.md",
@@ -1217,6 +1276,7 @@
     "Sculpture.md",
     "sean carroll.md",
     "search engeines.md",
+    "Searching for Interstellar Communications.md",
     "self.md",
     "self-organization.md",
     "selfishness.md",
@@ -1235,6 +1295,7 @@
     "signalling pathways.md",
     "silicon.md",
     "Simant Dube.md",
+    "Simon Saunders.md",
     "Simple-looking problems that are not.md",
     "singularity.md",
     "Singularity Theorems.md",
@@ -1259,6 +1320,7 @@
     "space.md",
     "space exploration.md",
     "space-time.md",
+    "spaceship.md",
     "Spanish.md",
     "spatial cognition.md",
     "Special Functions A Unified Theory Based on Singularities.md",
@@ -1324,6 +1386,7 @@
     "system.md",
     "systems biology.md",
     "systems theory.md",
+    "Tadashi Tokieda.md",
     "Tai-Danae Bradley.md",
     "Tamil.md",
     "Tangent Vector Space.md",
@@ -1342,6 +1405,7 @@
     "The compositional structure of multipartite quantum entanglement.md",
     "The devil in the Data.md",
     "The Emergence of Man Series.md",
+    "The Emergent Multiverse Quantum Theory according to the Everett Interpretation.md",
     "The Extended Phenotype by Dawkins.md",
     "The Feynman Lectures on Physics.md",
     "The Foundations of Mathematics by kenneth kunen.md",
@@ -1396,6 +1460,7 @@
     "The Structure of Meaning in Language Parallel Narratives in Linear Algebra and Category Theory.md",
     "The Teaching Company Audiobooks.md",
     "The Theoretical Minimum.md",
+    "The Thirring Institute.md",
     "The Trolley Problem.md",
     "The unphysicality of Hilbert spaces by Carcassi et al.md",
     "The Unreasonable Effectiveness of Mathematics in the Natural Sciences.md",
@@ -1421,10 +1486,12 @@
     "Thomas Heath.md",
     "Thomas Judson.md",
     "Thomas Nagel.md",
+    "Three Decades of Activations A Comprehensive Survey of 400 Activation Functions for Neural Networks.md",
     "Three Lectures on Complexity and Black Holes by susskind.md",
     "three modes of existence.md",
     "Tim Henke.md",
     "Tim Hunt.md",
+    "Tim Maudlin.md",
     "time.md",
     "time reversal invariance.md",
     "Timeline of category theory and related mathematics.md",
@@ -1449,16 +1516,20 @@
     "Treatise on Man.md",
     "trichotomy.md",
     "trilemma.md",
+    "Trusted timestamping.md",
     "tuberculosis.md",
     "Turil Cronburg.md",
     "Turing machine.md",
     "twin paradox.md",
+    "Twistor string theory.md",
+    "twistor theory.md",
     "Tyler Cowen.md",
     "type theory.md",
     "Ultimate physical limits to computation.md",
     "Uncomputability and physical law by Seth Lloyd.md",
     "uncountable.md",
     "unidentified anomalous phenomena.md",
+    "unification.md",
     "Unification of Physical theories.md",
     "Union.md",
     "unique up to unique isomorphism.md",
@@ -1480,6 +1551,7 @@
     "utilitarian arts.md",
     "UV radiation.md",
     "vaccine.md",
+    "Vajrayana.md",
     "Van Fraassen.md",
     "vector bundle.md",
     "Vector fields on spheres.md",
@@ -1504,6 +1576,7 @@
     "Well-definedness.md",
     "wetware.md",
     "What are Physical Objects by Ned Markosian.md",
+    "What Is a Quantum Field Theory.md",
     "What is book series.md",
     "What Is It Like to Be a Bat.md",
     "What is K-theory and what is it good for.md",
@@ -1550,28 +1623,6 @@
     "lib/fonts/05b618077343fbbd92b7.ttf",
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
     "lib/media/874d8b8e340f75575caa.svg",
-    "lib/fonts/mathjax_zero.woff",
-    "lib/fonts/mathjax_main-regular.woff",
-    "lib/fonts/mathjax_main-bold.woff",
-    "lib/fonts/mathjax_math-italic.woff",
-    "lib/fonts/mathjax_main-italic.woff",
-    "lib/fonts/mathjax_math-bolditalic.woff",
-    "lib/fonts/mathjax_size1-regular.woff",
-    "lib/fonts/mathjax_size2-regular.woff",
-    "lib/fonts/mathjax_size3-regular.woff",
-    "lib/fonts/mathjax_size4-regular.woff",
-    "lib/fonts/mathjax_ams-regular.woff",
-    "lib/fonts/mathjax_calligraphic-regular.woff",
-    "lib/fonts/mathjax_calligraphic-bold.woff",
-    "lib/fonts/mathjax_fraktur-regular.woff",
-    "lib/fonts/mathjax_fraktur-bold.woff",
-    "lib/fonts/mathjax_sansserif-regular.woff",
-    "lib/fonts/mathjax_sansserif-bold.woff",
-    "lib/fonts/mathjax_sansserif-italic.woff",
-    "lib/fonts/mathjax_script-regular.woff",
-    "lib/fonts/mathjax_typewriter-regular.woff",
-    "lib/fonts/mathjax_vector-regular.woff",
-    "lib/fonts/mathjax_vector-bold.woff",
     "lib/html/file-tree.html",
     "lib/scripts/webpage.js",
     "lib/scripts/graph-view.js",
@@ -1618,28 +1669,6 @@
     "lib/fonts/05b618077343fbbd92b7.ttf",
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
     "lib/media/874d8b8e340f75575caa.svg",
-    "lib/fonts/mathjax_zero.woff",
-    "lib/fonts/mathjax_main-regular.woff",
-    "lib/fonts/mathjax_main-bold.woff",
-    "lib/fonts/mathjax_math-italic.woff",
-    "lib/fonts/mathjax_main-italic.woff",
-    "lib/fonts/mathjax_math-bolditalic.woff",
-    "lib/fonts/mathjax_size1-regular.woff",
-    "lib/fonts/mathjax_size2-regular.woff",
-    "lib/fonts/mathjax_size3-regular.woff",
-    "lib/fonts/mathjax_size4-regular.woff",
-    "lib/fonts/mathjax_ams-regular.woff",
-    "lib/fonts/mathjax_calligraphic-regular.woff",
-    "lib/fonts/mathjax_calligraphic-bold.woff",
-    "lib/fonts/mathjax_fraktur-regular.woff",
-    "lib/fonts/mathjax_fraktur-bold.woff",
-    "lib/fonts/mathjax_sansserif-regular.woff",
-    "lib/fonts/mathjax_sansserif-bold.woff",
-    "lib/fonts/mathjax_sansserif-italic.woff",
-    "lib/fonts/mathjax_script-regular.woff",
-    "lib/fonts/mathjax_typewriter-regular.woff",
-    "lib/fonts/mathjax_vector-regular.woff",
-    "lib/fonts/mathjax_vector-bold.woff",
     "lib/html/file-tree.html",
     "lib/scripts/webpage.js",
     "lib/scripts/graph-view.js",
@@ -1903,8 +1932,8 @@
       "dependencies": []
     },
     "A First Course in Causal Inference.md": {
-      "modifiedTime": 1709860472444,
-      "sourceSize": 69,
+      "modifiedTime": 1711347768386,
+      "sourceSize": 50,
       "exportedPath": "a-first-course-in-causal-inference.html",
       "dependencies": []
     },
@@ -2059,14 +2088,14 @@
       "dependencies": []
     },
     "advises.md": {
-      "modifiedTime": 1709860472444,
-      "sourceSize": 951,
+      "modifiedTime": 1711347768386,
+      "sourceSize": 1297,
       "exportedPath": "advises.html",
       "dependencies": []
     },
     "Aerospace Engineering.md": {
-      "modifiedTime": 1709860472444,
-      "sourceSize": 101,
+      "modifiedTime": 1711347768386,
+      "sourceSize": 128,
       "exportedPath": "aerospace-engineering.html",
       "dependencies": []
     },
@@ -2445,10 +2474,12 @@
       "dependencies": []
     },
     "Artifical Intelligence.md": {
-      "modifiedTime": 1709860472444,
-      "sourceSize": 81,
+      "modifiedTime": 1711347768386,
+      "sourceSize": 191,
       "exportedPath": "artifical-intelligence.html",
-      "dependencies": []
+      "dependencies": [
+        "pasted-image-20240311053451.png"
+      ]
     },
     "Artificial Intelligence Mathematical Olympiad Prize.md": {
       "modifiedTime": 1709860472444,
@@ -2817,8 +2848,8 @@
       "dependencies": []
     },
     "Bohr–Einstein debates.md": {
-      "modifiedTime": 1709860472444,
-      "sourceSize": 696,
+      "modifiedTime": 1711347768386,
+      "sourceSize": 979,
       "exportedPath": "bohr–einstein-debates.html",
       "dependencies": []
     },
@@ -3015,8 +3046,8 @@
       "dependencies": []
     },
     "categorical probability theory.md": {
-      "modifiedTime": 1709860472444,
-      "sourceSize": 137,
+      "modifiedTime": 1711347768386,
+      "sourceSize": 218,
       "exportedPath": "categorical-probability-theory.html",
       "dependencies": []
     },
@@ -3039,8 +3070,8 @@
       "dependencies": []
     },
     "category theory.md": {
-      "modifiedTime": 1709860472444,
-      "sourceSize": 636,
+      "modifiedTime": 1711347768386,
+      "sourceSize": 705,
       "exportedPath": "category-theory.html",
       "dependencies": []
     },
@@ -3491,8 +3522,8 @@
       "dependencies": []
     },
     "Computational Complexity and High Energy Physics.md": {
-      "modifiedTime": 1709860472444,
-      "sourceSize": 279,
+      "modifiedTime": 1711347768386,
+      "sourceSize": 305,
       "exportedPath": "computational-complexity-and-high-energy-physics.html",
       "dependencies": []
     },
@@ -3521,8 +3552,8 @@
       "dependencies": []
     },
     "computer science.md": {
-      "modifiedTime": 1709860472444,
-      "sourceSize": 0,
+      "modifiedTime": 1711347768386,
+      "sourceSize": 15,
       "exportedPath": "computer-science.html",
       "dependencies": []
     },
@@ -3659,8 +3690,8 @@
       "dependencies": []
     },
     "cosmology.md": {
-      "modifiedTime": 1709860472444,
-      "sourceSize": 234,
+      "modifiedTime": 1711347768386,
+      "sourceSize": 236,
       "exportedPath": "cosmology.html",
       "dependencies": []
     },
@@ -4085,8 +4116,8 @@
       "dependencies": []
     },
     "Donald Hoffman.md": {
-      "modifiedTime": 1709860472444,
-      "sourceSize": 605,
+      "modifiedTime": 1711347768386,
+      "sourceSize": 690,
       "exportedPath": "donald-hoffman.html",
       "dependencies": []
     },
@@ -4361,8 +4392,8 @@
       "dependencies": []
     },
     "Encyclopedias and wikis.md": {
-      "modifiedTime": 1709860472444,
-      "sourceSize": 2491,
+      "modifiedTime": 1711347768386,
+      "sourceSize": 2591,
       "exportedPath": "encyclopedias-and-wikis.html",
       "dependencies": []
     },
@@ -4403,8 +4434,8 @@
       "dependencies": []
     },
     "entrepreneurship.md": {
-      "modifiedTime": 1709860472444,
-      "sourceSize": 689,
+      "modifiedTime": 1711347768386,
+      "sourceSize": 612,
       "exportedPath": "entrepreneurship.html",
       "dependencies": []
     },
@@ -4851,8 +4882,8 @@
       "dependencies": []
     },
     "free-will.md": {
-      "modifiedTime": 1709860472444,
-      "sourceSize": 79,
+      "modifiedTime": 1711347768386,
+      "sourceSize": 164,
       "exportedPath": "free-will.html",
       "dependencies": []
     },
@@ -5301,8 +5332,8 @@
       "dependencies": []
     },
     "Gwern Branwen.md": {
-      "modifiedTime": 1709860472444,
-      "sourceSize": 86,
+      "modifiedTime": 1711347768386,
+      "sourceSize": 101,
       "exportedPath": "gwern-branwen.html",
       "dependencies": []
     },
@@ -5439,8 +5470,8 @@
       "dependencies": []
     },
     "hierarchy in group governance problem.md": {
-      "modifiedTime": 1709860472444,
-      "sourceSize": 138,
+      "modifiedTime": 1711347768386,
+      "sourceSize": 148,
       "exportedPath": "hierarchy-in-group-governance-problem.html",
       "dependencies": []
     },
@@ -5499,8 +5530,8 @@
       "dependencies": []
     },
     "History of the world the time-life series.md": {
-      "modifiedTime": 1709860472444,
-      "sourceSize": 939,
+      "modifiedTime": 1711347768386,
+      "sourceSize": 137,
       "exportedPath": "history-of-the-world-the-time-life-series.html",
       "dependencies": []
     },
@@ -5799,8 +5830,8 @@
       "dependencies": []
     },
     "interpretation of quantum mechanics.md": {
-      "modifiedTime": 1709860472444,
-      "sourceSize": 0,
+      "modifiedTime": 1711347768386,
+      "sourceSize": 18,
       "exportedPath": "interpretation-of-quantum-mechanics.html",
       "dependencies": []
     },
@@ -6545,8 +6576,8 @@
       "dependencies": []
     },
     "math CASes.md": {
-      "modifiedTime": 1709860472444,
-      "sourceSize": 37,
+      "modifiedTime": 1711347768386,
+      "sourceSize": 162,
       "exportedPath": "math-cases.html",
       "dependencies": []
     },
@@ -6587,8 +6618,8 @@
       "dependencies": []
     },
     "mathematical physics.md": {
-      "modifiedTime": 1709860472444,
-      "sourceSize": 0,
+      "modifiedTime": 1711347768386,
+      "sourceSize": 21,
       "exportedPath": "mathematical-physics.html",
       "dependencies": []
     },
@@ -6875,8 +6906,8 @@
       "dependencies": []
     },
     "Moore's paradox.md": {
-      "modifiedTime": 1709860472444,
-      "sourceSize": 153,
+      "modifiedTime": 1711347768386,
+      "sourceSize": 288,
       "exportedPath": "moore's-paradox.html",
       "dependencies": []
     },
@@ -6929,8 +6960,8 @@
       "dependencies": []
     },
     "Music.md": {
-      "modifiedTime": 1709860472444,
-      "sourceSize": 84,
+      "modifiedTime": 1711347768386,
+      "sourceSize": 139,
       "exportedPath": "music.html",
       "dependencies": []
     },
@@ -7199,7 +7230,7 @@
       "dependencies": []
     },
     "observer.md": {
-      "modifiedTime": 1709860472444,
+      "modifiedTime": 1711347768386,
       "sourceSize": 182,
       "exportedPath": "observer.html",
       "dependencies": []
@@ -7289,14 +7320,14 @@
       "dependencies": []
     },
     "open Problems.md": {
-      "modifiedTime": 1709860472444,
-      "sourceSize": 233,
+      "modifiedTime": 1711347768386,
+      "sourceSize": 476,
       "exportedPath": "open-problems.html",
       "dependencies": []
     },
     "Open Problems in Mathematical Biology.md": {
-      "modifiedTime": 1709860472444,
-      "sourceSize": 51,
+      "modifiedTime": 1711347768386,
+      "sourceSize": 59,
       "exportedPath": "open-problems-in-mathematical-biology.html",
       "dependencies": []
     },
@@ -7307,8 +7338,8 @@
       "dependencies": []
     },
     "open TLCA Problems.md": {
-      "modifiedTime": 1709860472444,
-      "sourceSize": 0,
+      "modifiedTime": 1711347768386,
+      "sourceSize": 43,
       "exportedPath": "open-tlca-problems.html",
       "dependencies": []
     },
@@ -7367,8 +7398,8 @@
       "dependencies": []
     },
     "origin of life.md": {
-      "modifiedTime": 1709860472444,
-      "sourceSize": 38,
+      "modifiedTime": 1711347768386,
+      "sourceSize": 116,
       "exportedPath": "origin-of-life.html",
       "dependencies": []
     },
@@ -7409,8 +7440,8 @@
       "dependencies": []
     },
     "Oxford Mathematics Public Lectures.md": {
-      "modifiedTime": 1709860472444,
-      "sourceSize": 118,
+      "modifiedTime": 1711347768386,
+      "sourceSize": 250,
       "exportedPath": "oxford-mathematics-public-lectures.html",
       "dependencies": []
     },
@@ -8063,8 +8094,8 @@
       "dependencies": []
     },
     "Programming Languages.md": {
-      "modifiedTime": 1709860472444,
-      "sourceSize": 148,
+      "modifiedTime": 1711347768386,
+      "sourceSize": 261,
       "exportedPath": "programming-languages.html",
       "dependencies": []
     },
@@ -8189,14 +8220,14 @@
       "dependencies": []
     },
     "Quantum Field Theory.md": {
-      "modifiedTime": 1709860472444,
-      "sourceSize": 0,
+      "modifiedTime": 1711347768386,
+      "sourceSize": 250,
       "exportedPath": "quantum-field-theory.html",
       "dependencies": []
     },
     "Quantum Gravity.md": {
-      "modifiedTime": 1709860472444,
-      "sourceSize": 201,
+      "modifiedTime": 1711347768386,
+      "sourceSize": 393,
       "exportedPath": "quantum-gravity.html",
       "dependencies": []
     },
@@ -8327,8 +8358,8 @@
       "dependencies": []
     },
     "reading.md": {
-      "modifiedTime": 1709860472444,
-      "sourceSize": 8278,
+      "modifiedTime": 1711347768386,
+      "sourceSize": 8436,
       "exportedPath": "reading.html",
       "dependencies": []
     },
@@ -8445,8 +8476,8 @@
       "dependencies": []
     },
     "RI Talks.md": {
-      "modifiedTime": 1709860472444,
-      "sourceSize": 462,
+      "modifiedTime": 1711347768386,
+      "sourceSize": 512,
       "exportedPath": "ri-talks.html",
       "dependencies": []
     },
@@ -8541,8 +8572,8 @@
       "dependencies": []
     },
     "Robert Morris Sapolsky.md": {
-      "modifiedTime": 1709860472444,
-      "sourceSize": 359,
+      "modifiedTime": 1711347768386,
+      "sourceSize": 446,
       "exportedPath": "robert-morris-sapolsky.html",
       "dependencies": []
     },
@@ -8559,8 +8590,8 @@
       "dependencies": []
     },
     "Ronald Brown.md": {
-      "modifiedTime": 1709860472444,
-      "sourceSize": 64,
+      "modifiedTime": 1711347768386,
+      "sourceSize": 227,
       "exportedPath": "ronald-brown.html",
       "dependencies": []
     },
@@ -8763,8 +8794,8 @@
       "dependencies": []
     },
     "SETI.md": {
-      "modifiedTime": 1709860472444,
-      "sourceSize": 0,
+      "modifiedTime": 1711347768386,
+      "sourceSize": 436,
       "exportedPath": "seti.html",
       "dependencies": []
     },
@@ -8943,8 +8974,8 @@
       "dependencies": []
     },
     "space.md": {
-      "modifiedTime": 1709860472444,
-      "sourceSize": 0,
+      "modifiedTime": 1711347768386,
+      "sourceSize": 222,
       "exportedPath": "space.html",
       "dependencies": []
     },
@@ -8955,8 +8986,8 @@
       "dependencies": []
     },
     "space-time.md": {
-      "modifiedTime": 1709860472444,
-      "sourceSize": 0,
+      "modifiedTime": 1711347768386,
+      "sourceSize": 141,
       "exportedPath": "space-time.html",
       "dependencies": []
     },
@@ -9489,14 +9520,14 @@
       "dependencies": []
     },
     "The hard problem of Consciousness.md": {
-      "modifiedTime": 1709860472444,
-      "sourceSize": 487,
+      "modifiedTime": 1711347768386,
+      "sourceSize": 497,
       "exportedPath": "the-hard-problem-of-consciousness.html",
       "dependencies": []
     },
     "The hard problem of matter.md": {
-      "modifiedTime": 1709860472444,
-      "sourceSize": 39,
+      "modifiedTime": 1711347768386,
+      "sourceSize": 49,
       "exportedPath": "the-hard-problem-of-matter.html",
       "dependencies": []
     },
@@ -9719,8 +9750,8 @@
       "dependencies": []
     },
     "The sheafification fast track.md": {
-      "modifiedTime": 1709860472444,
-      "sourceSize": 201,
+      "modifiedTime": 1711347768386,
+      "sourceSize": 249,
       "exportedPath": "the-sheafification-fast-track.html",
       "dependencies": []
     },
@@ -9785,8 +9816,8 @@
       "dependencies": []
     },
     "The World Book Encyclopaedia.md": {
-      "modifiedTime": 1709860472444,
-      "sourceSize": 821,
+      "modifiedTime": 1711347768386,
+      "sourceSize": 1167,
       "exportedPath": "the-world-book-encyclopaedia.html",
       "dependencies": []
     },
@@ -9845,8 +9876,8 @@
       "dependencies": []
     },
     "Theory of Everything.md": {
-      "modifiedTime": 1709860472444,
-      "sourceSize": 90,
+      "modifiedTime": 1711347768386,
+      "sourceSize": 148,
       "exportedPath": "theory-of-everything.html",
       "dependencies": []
     },
@@ -10160,8 +10191,8 @@
       "dependencies": []
     },
     "Universal basic income.md": {
-      "modifiedTime": 1709860472444,
-      "sourceSize": 0,
+      "modifiedTime": 1711347768386,
+      "sourceSize": 395,
       "exportedPath": "universal-basic-income.html",
       "dependencies": []
     },
@@ -10668,91 +10699,91 @@
       "dependencies": []
     },
     "lib/scripts/graph-wasm.wasm": {
-      "modifiedTime": 1709860472444,
+      "modifiedTime": 1711347768386,
       "sourceSize": 23377,
       "exportedPath": "lib/scripts/graph-wasm.wasm",
       "dependencies": []
     },
     "lib/fonts/94f2f163d4b698242fef.otf": {
-      "modifiedTime": 1709860472444,
+      "modifiedTime": 1711347768386,
       "sourceSize": 66800,
       "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
       "dependencies": []
     },
     "lib/fonts/72505e6a122c6acd5471.woff2": {
-      "modifiedTime": 1709860472444,
+      "modifiedTime": 1711347768386,
       "sourceSize": 104232,
       "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
       "dependencies": []
     },
     "lib/fonts/2d5198822ab091ce4305.woff2": {
-      "modifiedTime": 1709860472444,
+      "modifiedTime": 1711347768386,
       "sourceSize": 104332,
       "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
       "dependencies": []
     },
     "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
-      "modifiedTime": 1709860472444,
+      "modifiedTime": 1711347768386,
       "sourceSize": 98868,
       "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
       "dependencies": []
     },
     "lib/fonts/cb10ffd7684cd9836a05.woff2": {
-      "modifiedTime": 1709860472444,
+      "modifiedTime": 1711347768386,
       "sourceSize": 106876,
       "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
       "dependencies": []
     },
     "lib/fonts/b5f0f109bc88052d4000.woff2": {
-      "modifiedTime": 1709860472444,
+      "modifiedTime": 1711347768386,
       "sourceSize": 105804,
       "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
       "dependencies": []
     },
     "lib/fonts/cbe0ae49c52c920fd563.woff2": {
-      "modifiedTime": 1709860472444,
+      "modifiedTime": 1711347768386,
       "sourceSize": 106108,
       "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
       "dependencies": []
     },
     "lib/fonts/535a6cf662596b3bd6a6.woff2": {
-      "modifiedTime": 1709860472444,
+      "modifiedTime": 1711347768386,
       "sourceSize": 111708,
       "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
       "dependencies": []
     },
     "lib/fonts/70cc7ff27245e82ad414.ttf": {
-      "modifiedTime": 1709860472444,
+      "modifiedTime": 1711347768386,
       "sourceSize": 192740,
       "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
       "dependencies": []
     },
     "lib/fonts/454577c22304619db035.ttf": {
-      "modifiedTime": 1709860472444,
+      "modifiedTime": 1711347768386,
       "sourceSize": 161376,
       "exportedPath": "lib/fonts/454577c22304619db035.ttf",
       "dependencies": []
     },
     "lib/fonts/52ac8f3034507f1d9e53.ttf": {
-      "modifiedTime": 1709860472444,
+      "modifiedTime": 1711347768386,
       "sourceSize": 191568,
       "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
       "dependencies": []
     },
     "lib/fonts/05b618077343fbbd92b7.ttf": {
-      "modifiedTime": 1709860472444,
+      "modifiedTime": 1711347768386,
       "sourceSize": 155288,
       "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
       "dependencies": []
     },
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
-      "modifiedTime": 1709860472444,
+      "modifiedTime": 1711347768386,
       "sourceSize": 7876,
       "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
       "dependencies": []
     },
     "lib/media/874d8b8e340f75575caa.svg": {
-      "modifiedTime": 1709860472444,
+      "modifiedTime": 1711347768386,
       "sourceSize": 317,
       "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
       "dependencies": []
@@ -10890,85 +10921,85 @@
       "dependencies": []
     },
     "lib/html/file-tree.html": {
-      "modifiedTime": 1709860472444,
-      "sourceSize": 510838,
+      "modifiedTime": 1711347768386,
+      "sourceSize": 535864,
       "exportedPath": "lib/html/file-tree.html",
       "dependencies": []
     },
     "lib/scripts/webpage.js": {
-      "modifiedTime": 1709860472444,
+      "modifiedTime": 1711347768386,
       "sourceSize": 47290,
       "exportedPath": "lib/scripts/webpage.js",
       "dependencies": []
     },
     "lib/scripts/graph-view.js": {
-      "modifiedTime": 1709860472444,
+      "modifiedTime": 1711347768386,
       "sourceSize": 15519,
       "exportedPath": "lib/scripts/graph-view.js",
       "dependencies": []
     },
     "lib/scripts/graph-wasm.js": {
-      "modifiedTime": 1709860472444,
+      "modifiedTime": 1711347768386,
       "sourceSize": 14021,
       "exportedPath": "lib/scripts/graph-wasm.js",
       "dependencies": []
     },
     "lib/scripts/graph-render-worker.js": {
-      "modifiedTime": 1709860472444,
+      "modifiedTime": 1711347768386,
       "sourceSize": 5179,
       "exportedPath": "lib/scripts/graph-render-worker.js",
       "dependencies": []
     },
     "lib/scripts/tinycolor.js": {
-      "modifiedTime": 1709860472444,
+      "modifiedTime": 1711347768386,
       "sourceSize": 29832,
       "exportedPath": "lib/scripts/tinycolor.js",
       "dependencies": []
     },
     "lib/scripts/pixi.js": {
-      "modifiedTime": 1709860472444,
+      "modifiedTime": 1711347768386,
       "sourceSize": 449509,
       "exportedPath": "lib/scripts/pixi.js",
       "dependencies": []
     },
     "lib/scripts/minisearch.js": {
-      "modifiedTime": 1709860472444,
+      "modifiedTime": 1711347768386,
       "sourceSize": 29422,
       "exportedPath": "lib/scripts/minisearch.js",
       "dependencies": []
     },
     "lib/media/favicon.ico": {
-      "modifiedTime": 1709860472444,
+      "modifiedTime": 1711347768386,
       "sourceSize": 1150,
       "exportedPath": "lib/media/favicon.ico",
       "dependencies": []
     },
     "lib/scripts/graph-data.js": {
-      "modifiedTime": 1709860472444,
-      "sourceSize": 118161,
+      "modifiedTime": 1711347768386,
+      "sourceSize": 124431,
       "exportedPath": "lib/scripts/graph-data.js",
       "dependencies": []
     },
     "lib/styles/obsidian.css": {
-      "modifiedTime": 1709860472444,
-      "sourceSize": 157356,
+      "modifiedTime": 1711347768386,
+      "sourceSize": 157786,
       "exportedPath": "lib/styles/obsidian.css",
       "dependencies": []
     },
     "lib/styles/global-variable-styles.css": {
-      "modifiedTime": 1709860472444,
+      "modifiedTime": 1711347768386,
       "sourceSize": 482,
       "exportedPath": "lib/styles/global-variable-styles.css",
       "dependencies": []
     },
     "lib/styles/main-styles.css": {
-      "modifiedTime": 1709860472444,
+      "modifiedTime": 1711347768386,
       "sourceSize": 23130,
       "exportedPath": "lib/styles/main-styles.css",
       "dependencies": []
     },
     "lib/styles/snippets.css": {
-      "modifiedTime": 1709860472444,
+      "modifiedTime": 1711347768386,
       "sourceSize": 43,
       "exportedPath": "lib/styles/snippets.css",
       "dependencies": []
@@ -11022,8 +11053,8 @@
       "dependencies": []
     },
     "Emmy Noether lecture series.md": {
-      "modifiedTime": 1709860472444,
-      "sourceSize": 160,
+      "modifiedTime": 1711347768386,
+      "sourceSize": 182,
       "exportedPath": "emmy-noether-lecture-series.html",
       "dependencies": []
     },
@@ -11178,8 +11209,8 @@
       "dependencies": []
     },
     "Sabrina Gonzalez Pasterski.md": {
-      "modifiedTime": 1709860472444,
-      "sourceSize": 55,
+      "modifiedTime": 1711347768386,
+      "sourceSize": 376,
       "exportedPath": "sabrina-gonzalez-pasterski.html",
       "dependencies": []
     },
@@ -11249,6 +11280,450 @@
       "modifiedTime": 1709860472444,
       "sourceSize": 2154508,
       "exportedPath": "pasted-image-20240307223748.png",
+      "dependencies": []
+    },
+    "a note on the categorical notions of normal subobject and of equivalence class.md": {
+      "modifiedTime": 1711347768386,
+      "sourceSize": 150,
+      "exportedPath": "a-note-on-the-categorical-notions-of-normal-subobject-and-of-equivalence-class.html",
+      "dependencies": []
+    },
+    "activation function.md": {
+      "modifiedTime": 1711347768386,
+      "sourceSize": 26,
+      "exportedPath": "activation-function.html",
+      "dependencies": []
+    },
+    "Andrew Strominger.md": {
+      "modifiedTime": 1711347768386,
+      "sourceSize": 92,
+      "exportedPath": "andrew-strominger.html",
+      "dependencies": []
+    },
+    "baby books.md": {
+      "modifiedTime": 1711347768386,
+      "sourceSize": 148,
+      "exportedPath": "baby-books.html",
+      "dependencies": []
+    },
+    "Breakthrough Propulsion Physics Program.md": {
+      "modifiedTime": 1711347768386,
+      "sourceSize": 277,
+      "exportedPath": "breakthrough-propulsion-physics-program.html",
+      "dependencies": []
+    },
+    "Cambridge Mathematical Library Series.md": {
+      "modifiedTime": 1711347768386,
+      "sourceSize": 105,
+      "exportedPath": "cambridge-mathematical-library-series.html",
+      "dependencies": []
+    },
+    "Celestial Holography.md": {
+      "modifiedTime": 1711347768386,
+      "sourceSize": 152,
+      "exportedPath": "celestial-holography.html",
+      "dependencies": []
+    },
+    "Cephalopod intelligence.md": {
+      "modifiedTime": 1711347768386,
+      "sourceSize": 74,
+      "exportedPath": "cephalopod-intelligence.html",
+      "dependencies": []
+    },
+    "classical unified field theories.md": {
+      "modifiedTime": 1711347768386,
+      "sourceSize": 192,
+      "exportedPath": "classical-unified-field-theories.html",
+      "dependencies": []
+    },
+    "Compact Textbooks in Mathematics.md": {
+      "modifiedTime": 1711347768386,
+      "sourceSize": 71,
+      "exportedPath": "compact-textbooks-in-mathematics.html",
+      "dependencies": []
+    },
+    "computer.md": {
+      "modifiedTime": 1711347768386,
+      "sourceSize": 1126,
+      "exportedPath": "computer.html",
+      "dependencies": []
+    },
+    "conformal field theory.md": {
+      "modifiedTime": 1711347768386,
+      "sourceSize": 102,
+      "exportedPath": "conformal-field-theory.html",
+      "dependencies": []
+    },
+    "CosmoCoffe.md": {
+      "modifiedTime": 1711347768386,
+      "sourceSize": 64,
+      "exportedPath": "cosmocoffe.html",
+      "dependencies": []
+    },
+    "data visualization.md": {
+      "modifiedTime": 1711347768386,
+      "sourceSize": 20,
+      "exportedPath": "data-visualization.html",
+      "dependencies": []
+    },
+    "David Blackwell.md": {
+      "modifiedTime": 1711347768386,
+      "sourceSize": 158,
+      "exportedPath": "david-blackwell.html",
+      "dependencies": []
+    },
+    "David Wallace.md": {
+      "modifiedTime": 1711347768386,
+      "sourceSize": 384,
+      "exportedPath": "david-wallace.html",
+      "dependencies": []
+    },
+    "depression.md": {
+      "modifiedTime": 1711347768386,
+      "sourceSize": 210,
+      "exportedPath": "depression.html",
+      "dependencies": []
+    },
+    "Emmy Noether.md": {
+      "modifiedTime": 1711347768386,
+      "sourceSize": 9,
+      "exportedPath": "emmy-noether.html",
+      "dependencies": []
+    },
+    "encryption.md": {
+      "modifiedTime": 1711347768386,
+      "sourceSize": 0,
+      "exportedPath": "encryption.html",
+      "dependencies": []
+    },
+    "Establishing the accuracy of self-diagnosis in psychiatry.md": {
+      "modifiedTime": 1711347768386,
+      "sourceSize": 109,
+      "exportedPath": "establishing-the-accuracy-of-self-diagnosis-in-psychiatry.html",
+      "dependencies": []
+    },
+    "Euclidean Twistor Unification.md": {
+      "modifiedTime": 1711347768386,
+      "sourceSize": 439,
+      "exportedPath": "euclidean-twistor-unification.html",
+      "dependencies": []
+    },
+    "Financial Markets with Robert Shiller.md": {
+      "modifiedTime": 1711347768386,
+      "sourceSize": 85,
+      "exportedPath": "financial-markets-with-robert-shiller.html",
+      "dependencies": []
+    },
+    "foundations of physics.md": {
+      "modifiedTime": 1711347768386,
+      "sourceSize": 0,
+      "exportedPath": "foundations-of-physics.html",
+      "dependencies": []
+    },
+    "From Finite Sets to Feynman Diagrams.md": {
+      "modifiedTime": 1711347768386,
+      "sourceSize": 87,
+      "exportedPath": "from-finite-sets-to-feynman-diagrams.html",
+      "dependencies": []
+    },
+    "Fundamental Components of Deep Learning A category-theoretic approach.md": {
+      "modifiedTime": 1711347768386,
+      "sourceSize": 293,
+      "exportedPath": "fundamental-components-of-deep-learning-a-category-theoretic-approach.html",
+      "dependencies": []
+    },
+    "Global Problems of Population Growth.md": {
+      "modifiedTime": 1711347768386,
+      "sourceSize": 363,
+      "exportedPath": "global-problems-of-population-growth.html",
+      "dependencies": []
+    },
+    "group theory.md": {
+      "modifiedTime": 1711347768386,
+      "sourceSize": 94,
+      "exportedPath": "group-theory.html",
+      "dependencies": []
+    },
+    "high energy physics.md": {
+      "modifiedTime": 1711347768386,
+      "sourceSize": 0,
+      "exportedPath": "high-energy-physics.html",
+      "dependencies": []
+    },
+    "Homomorphic encryption.md": {
+      "modifiedTime": 1711347768386,
+      "sourceSize": 92,
+      "exportedPath": "homomorphic-encryption.html",
+      "dependencies": []
+    },
+    "interesting homepages.md": {
+      "modifiedTime": 1711347768386,
+      "sourceSize": 183,
+      "exportedPath": "interesting-homepages.html",
+      "dependencies": []
+    },
+    "Issac Newton Institute for mathematical sciences.md": {
+      "modifiedTime": 1711347768386,
+      "sourceSize": 178,
+      "exportedPath": "issac-newton-institute-for-mathematical-sciences.html",
+      "dependencies": []
+    },
+    "Jakob Schwichtenberg.md": {
+      "modifiedTime": 1711347768386,
+      "sourceSize": 121,
+      "exportedPath": "jakob-schwichtenberg.html",
+      "dependencies": []
+    },
+    "John Lilly.md": {
+      "modifiedTime": 1711347768386,
+      "sourceSize": 86,
+      "exportedPath": "john-lilly.html",
+      "dependencies": []
+    },
+    "Jonathan Gorard.md": {
+      "modifiedTime": 1711347768386,
+      "sourceSize": 392,
+      "exportedPath": "jonathan-gorard.html",
+      "dependencies": []
+    },
+    "Kevin Costello.md": {
+      "modifiedTime": 1711347768386,
+      "sourceSize": 89,
+      "exportedPath": "kevin-costello.html",
+      "dependencies": []
+    },
+    "leonardo da vinci.md": {
+      "modifiedTime": 1711347768386,
+      "sourceSize": 278,
+      "exportedPath": "leonardo-da-vinci.html",
+      "dependencies": []
+    },
+    "Lives of the Artists Series.md": {
+      "modifiedTime": 1711347768386,
+      "sourceSize": 94,
+      "exportedPath": "lives-of-the-artists-series.html",
+      "dependencies": []
+    },
+    "many worlds.md": {
+      "modifiedTime": 1711347768386,
+      "sourceSize": 0,
+      "exportedPath": "many-worlds.html",
+      "dependencies": []
+    },
+    "Many Worlds Everett, Quantum Theory, Reality.md": {
+      "modifiedTime": 1711347768386,
+      "sourceSize": 242,
+      "exportedPath": "many-worlds-everett,-quantum-theory,-reality.html",
+      "dependencies": []
+    },
+    "Many Worlds, the Born Rule, and Self-Locating Uncertainty.md": {
+      "modifiedTime": 1711347768386,
+      "sourceSize": 217,
+      "exportedPath": "many-worlds,-the-born-rule,-and-self-locating-uncertainty.html",
+      "dependencies": []
+    },
+    "mathematical finance.md": {
+      "modifiedTime": 1711347768386,
+      "sourceSize": 109,
+      "exportedPath": "mathematical-finance.html",
+      "dependencies": []
+    },
+    "Mathematically Structured Programming Group.md": {
+      "modifiedTime": 1711347768386,
+      "sourceSize": 112,
+      "exportedPath": "mathematically-structured-programming-group.html",
+      "dependencies": []
+    },
+    "Michel Talagrand.md": {
+      "modifiedTime": 1711347768386,
+      "sourceSize": 136,
+      "exportedPath": "michel-talagrand.html",
+      "dependencies": []
+    },
+    "midnight's simulacra.md": {
+      "modifiedTime": 1711347768386,
+      "sourceSize": 134,
+      "exportedPath": "midnight's-simulacra.html",
+      "dependencies": []
+    },
+    "moduli space.md": {
+      "modifiedTime": 1711347768386,
+      "sourceSize": 43,
+      "exportedPath": "moduli-space.html",
+      "dependencies": []
+    },
+    "Nagendra Vijay.md": {
+      "modifiedTime": 1711347768386,
+      "sourceSize": 759,
+      "exportedPath": "nagendra-vijay.html",
+      "dependencies": []
+    },
+    "Nancy Cartwright.md": {
+      "modifiedTime": 1711347768386,
+      "sourceSize": 212,
+      "exportedPath": "nancy-cartwright.html",
+      "dependencies": []
+    },
+    "Nima Arkani-Hamed.md": {
+      "modifiedTime": 1711347768386,
+      "sourceSize": 115,
+      "exportedPath": "nima-arkani-hamed.html",
+      "dependencies": []
+    },
+    "optimism.md": {
+      "modifiedTime": 1711347768386,
+      "sourceSize": 247,
+      "exportedPath": "optimism.html",
+      "dependencies": []
+    },
+    "Pasted image 20240311053451.png": {
+      "modifiedTime": 1711347768386,
+      "sourceSize": 2289596,
+      "exportedPath": "pasted-image-20240311053451.png",
+      "dependencies": []
+    },
+    "Physics From Symmetry.md": {
+      "modifiedTime": 1711347768386,
+      "sourceSize": 268,
+      "exportedPath": "physics-from-symmetry.html",
+      "dependencies": []
+    },
+    "Physics Travel Guide.md": {
+      "modifiedTime": 1711347768386,
+      "sourceSize": 52,
+      "exportedPath": "physics-travel-guide.html",
+      "dependencies": []
+    },
+    "propulsion.md": {
+      "modifiedTime": 1711347768386,
+      "sourceSize": 0,
+      "exportedPath": "propulsion.html",
+      "dependencies": []
+    },
+    "pursuing stacks.md": {
+      "modifiedTime": 1711347768386,
+      "sourceSize": 293,
+      "exportedPath": "pursuing-stacks.html",
+      "dependencies": []
+    },
+    "Quantum Field Theory A Tourist Guide for Mathematicians.md": {
+      "modifiedTime": 1711347768386,
+      "sourceSize": 175,
+      "exportedPath": "quantum-field-theory-a-tourist-guide-for-mathematicians.html",
+      "dependencies": []
+    },
+    "Rapoport's Rules.md": {
+      "modifiedTime": 1711347768386,
+      "sourceSize": 48,
+      "exportedPath": "rapoport's-rules.html",
+      "dependencies": []
+    },
+    "regression.md": {
+      "modifiedTime": 1711347768386,
+      "sourceSize": 42,
+      "exportedPath": "regression.html",
+      "dependencies": []
+    },
+    "rocket.md": {
+      "modifiedTime": 1711347768386,
+      "sourceSize": 0,
+      "exportedPath": "rocket.html",
+      "dependencies": []
+    },
+    "Rothschild Distinguished Visiting Fellows Lectures.md": {
+      "modifiedTime": 1711347768386,
+      "sourceSize": 137,
+      "exportedPath": "rothschild-distinguished-visiting-fellows-lectures.html",
+      "dependencies": []
+    },
+    "Searching for Interstellar Communications.md": {
+      "modifiedTime": 1711347768386,
+      "sourceSize": 239,
+      "exportedPath": "searching-for-interstellar-communications.html",
+      "dependencies": []
+    },
+    "Simon Saunders.md": {
+      "modifiedTime": 1711347768386,
+      "sourceSize": 208,
+      "exportedPath": "simon-saunders.html",
+      "dependencies": []
+    },
+    "spaceship.md": {
+      "modifiedTime": 1711347768386,
+      "sourceSize": 0,
+      "exportedPath": "spaceship.html",
+      "dependencies": []
+    },
+    "Tadashi Tokieda.md": {
+      "modifiedTime": 1711347768386,
+      "sourceSize": 304,
+      "exportedPath": "tadashi-tokieda.html",
+      "dependencies": []
+    },
+    "The Emergent Multiverse Quantum Theory according to the Everett Interpretation.md": {
+      "modifiedTime": 1711347768386,
+      "sourceSize": 192,
+      "exportedPath": "the-emergent-multiverse-quantum-theory-according-to-the-everett-interpretation.html",
+      "dependencies": []
+    },
+    "The Thirring Institute.md": {
+      "modifiedTime": 1711347768386,
+      "sourceSize": 118,
+      "exportedPath": "the-thirring-institute.html",
+      "dependencies": []
+    },
+    "Three Decades of Activations A Comprehensive Survey of 400 Activation Functions for Neural Networks.md": {
+      "modifiedTime": 1711347768386,
+      "sourceSize": 106,
+      "exportedPath": "three-decades-of-activations-a-comprehensive-survey-of-400-activation-functions-for-neural-networks.html",
+      "dependencies": []
+    },
+    "Tim Maudlin.md": {
+      "modifiedTime": 1711347768386,
+      "sourceSize": 371,
+      "exportedPath": "tim-maudlin.html",
+      "dependencies": []
+    },
+    "Trusted timestamping.md": {
+      "modifiedTime": 1711347768386,
+      "sourceSize": 286,
+      "exportedPath": "trusted-timestamping.html",
+      "dependencies": []
+    },
+    "Twistor string theory.md": {
+      "modifiedTime": 1711347768386,
+      "sourceSize": 201,
+      "exportedPath": "twistor-string-theory.html",
+      "dependencies": []
+    },
+    "twistor theory.md": {
+      "modifiedTime": 1711347768386,
+      "sourceSize": 182,
+      "exportedPath": "twistor-theory.html",
+      "dependencies": []
+    },
+    "unification.md": {
+      "modifiedTime": 1711347768386,
+      "sourceSize": 31,
+      "exportedPath": "unification.html",
+      "dependencies": []
+    },
+    "Vajrayana.md": {
+      "modifiedTime": 1711347768386,
+      "sourceSize": 70,
+      "exportedPath": "vajrayana.html",
+      "dependencies": []
+    },
+    "What Is a Quantum Field Theory.md": {
+      "modifiedTime": 1711347768386,
+      "sourceSize": 157,
+      "exportedPath": "what-is-a-quantum-field-theory.html",
+      "dependencies": []
+    },
+    "pasted-image-20240311053451.png": {
+      "modifiedTime": 1711347768386,
+      "sourceSize": 2289596,
+      "exportedPath": "pasted-image-20240311053451.png",
       "dependencies": []
     }
   }

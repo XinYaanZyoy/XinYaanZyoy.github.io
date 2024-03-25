@@ -12,7 +12,7 @@ repo: [goodreads profile](https://goodreads.com/XinYaanZyoy), [all books](https:
 30. 3-4 young scientist series
 31. 2-3 dictionaries
 33. 2-3 dictionaries 
-34. [[The World Book Encyclopaedia]]
+34. ~~[[The World Book Encyclopaedia]]
 35. [[Geometry of Physics by Theodore Frankel]]
 36. [[Geometry of Physics by Urs Schreiber]]
 37. [[Geometry and Meaning by Dominic Widdows]]
@@ -65,7 +65,8 @@ a list of plans. reading, watching, skimming, etc...
 - theories of life:
 - music theories, western and eastern:
 - geography and history
-- 
+- read entire wikipedia
+- read entire [[nlab]] 
 
 **checkout these stuff for making more plans**:
 - analysis-diff-geo-etc https://math.stackexchange.com/questions/307966/a-really-complicated-calculus-book
@@ -132,7 +133,7 @@ This Fortnight (July 15th): academic: [[Escher and Amann Analysis]], non-academi
 - http://sonic.net/~rteeter/books.html (http://sonic.net/~rteeter/grtorien.html)
 - https://en.wikipedia.org/wiki/How_to_Read_a_Book#Reading_list_(1972_edition)
 - [dan schulz's list](https://www.danschulz.net/books/) 
-- 
+- [[The sheafification fast track]]
 
 ### A dirty computation
 Imagine a regularly reading healthy human body, it makes sense to assume they read a book a week or about ~5x10^1 books/year, that is ~5x10^2 books/decade, further assuming the actual book count begin somewhere in late teens or early 20s, say at 21st year (in my case it's 14-15th year), and the body lives ~7x10^1 years, and that the linear model works, the total book count of the body's entire life then is ~25x10^2=BC_0. 

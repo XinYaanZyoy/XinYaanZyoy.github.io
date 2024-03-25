@@ -8,3 +8,7 @@ I'd like to do this:
 https://github.com/techmexdev/fromthetransistor
 
 and perhaps first the LFS thing, and things [this](https://www.reddit.com/r/AskComputerScience/comments/jugfsf/from_the_transistor_to_the_web_browser_george/) post advises, I have already went down the https://www.nand2tetris.org path, would love to do it again with my sister.
+
+[BBC documetry on the history of computing](https://www.youtube.com/playlist?list=PL1331A4548513EA81) 
+
+[The Machine that Changed the World](https://www.youtube.com/playlist?list=PLiSiLzxjp5v4C14U-1AX8YbIUXLrcQnQk) 

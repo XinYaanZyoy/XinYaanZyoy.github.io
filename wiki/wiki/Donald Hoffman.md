@@ -9,3 +9,4 @@ path: understanding consciousness through falsifiable theories, aggregate consci
 [The Origin of Time in Conscious Agents](https://sites.socsci.uci.edu/~ddhoff/HoffmanTime.pdf)
 
 
+podcast about his book: https://twitter.com/donalddhoffman/status/1769427950326481109

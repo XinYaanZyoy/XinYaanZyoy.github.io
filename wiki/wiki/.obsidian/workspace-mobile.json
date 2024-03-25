@@ -11,8 +11,13 @@
             "id": "ef55383a7227b387",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "AI-ML-DS.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -66,7 +71,9 @@
         "state": {
           "type": "all-properties",
           "state": {
-            "sortOrder": "frequency"
+            "sortOrder": "frequency",
+            "showSearch": false,
+            "searchQuery": ""
           }
         }
       },
@@ -91,6 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "AI-ML-DS.md",
             "collapseAll": true,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -107,6 +115,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "AI-ML-DS.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -117,7 +126,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "AI-ML-DS.md"
+          }
         }
       }
     ],
@@ -137,6 +148,7 @@
   },
   "active": "ef55383a7227b387",
   "lastOpenFiles": [
+    "machine learning.md",
     "Observer theory.md",
     "The Structure of Meaning in Language Parallel Narratives in Linear Algebra and Category Theory.md",
     "AI-ML-DS.md",
@@ -161,7 +173,6 @@
     "time reversal invariance.md",
     "Entropy problem of cosmology.md",
     "Untitled.md",
-    "CMU 15-445 and 15-645 Database Systems.md",
-    "Memory and entropy by Carlo rovelli.md"
+    "CMU 15-445 and 15-645 Database Systems.md"
   ]
 }

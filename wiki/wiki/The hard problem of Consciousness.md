@@ -1,3 +1,4 @@
+#problem 
 [[The hard problem of matter]]
 [[Consciousness]]
 [[Mind]]

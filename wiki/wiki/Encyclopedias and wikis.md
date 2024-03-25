@@ -1,4 +1,4 @@
-#link-collection 
+#link-collection #wiki #encyclopedia 
 1. https://ncatlab.org/nlab/show/Encyclopedia+of+the+Philosophical+Sciences
 2. https://radiopaedia.org/?lang=us
 3. [[The World Book Encyclopaedia]]
@@ -33,3 +33,4 @@
 32. http://www.scholarpedia.org/article/Main_Page
 33. [Information Science & Technology](https://www.igi-global.com/dictionary/) 
 34. https://rationalwiki.org/wiki/Main_Page
+35. https://handwiki.org/wiki/Start

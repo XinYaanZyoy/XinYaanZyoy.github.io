@@ -4,37 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "67115228cc404a5b",
+        "id": "ed53a6c98ef58dc7",
         "type": "tabs",
         "children": [
           {
-            "id": "358eec4c838986c8",
+            "id": "72c0714604ee7994",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "midnight's simulacra.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6641093874c3bc9d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "reading.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "reading.md",
+                "file": "What Is a Quantum Field Theory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "reading.md",
+                "file": "What Is a Quantum Field Theory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "reading.md"
+                "file": "What Is a Quantum Field Theory.md"
               }
             }
           }
@@ -176,34 +157,72 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "6641093874c3bc9d",
+  "floating": {
+    "id": "238db38549057a11",
+    "type": "floating",
+    "children": [
+      {
+        "id": "5592e80b0e8454a1",
+        "type": "window",
+        "children": [
+          {
+            "id": "a128065d90ac53c4",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "aef127781b5bb83f",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "What Is a Quantum Field Theory.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 230,
+        "y": 243,
+        "width": 800,
+        "height": 400,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "aef127781b5bb83f",
   "lastOpenFiles": [
-    "interesting homepages.md",
-    "midnight's simulacra.md",
-    "reading.md",
-    "Paul Graham.md",
-    "Gwern Branwen.md",
-    "conformal field theory.md",
-    "Quantum Field Theory.md",
-    "Index.md",
-    "links.md",
-    "mathematical finance.md",
-    "Global Problems of Population Growth.md",
-    "Financial Markets with Robert Shiller.md",
-    "categorical probability theory.md",
-    "probability theory.md",
-    "the number systems foundations of algebra and analysis by solomon feferman.md",
-    "regression.md",
-    "Ronald Brown.md",
-    "Topology and Groupoids by Ronald Brown.md",
-    "Cambridge Mathematical Library Series.md",
+    "Vajrayana.md",
+    "Universal basic income.md",
+    "unification.md",
+    "twistor theory.md",
+    "Twistor string theory.md",
+    "Trusted timestamping.md",
+    "Tim Maudlin.md",
+    "Three Decades of Activations A Comprehensive Survey of 400 Activation Functions for Neural Networks.md",
+    "Theory of Everything.md",
+    "The World Book Encyclopaedia.md",
+    "The Thirring Institute.md",
+    "The sheafification fast track.md",
+    "The hard problem of matter.md",
+    "The hard problem of Consciousness.md",
+    "The Emergent Multiverse Quantum Theory according to the Everett Interpretation.md",
+    "Tadashi Tokieda.md",
+    "spaceship.md",
+    "space-time.md",
+    "space.md",
+    "Simon Saunders.md",
+    "SETI.md",
+    "Searching for Interstellar Communications.md",
+    "Sabrina Gonzalez Pasterski.md",
     "Rothschild Distinguished Visiting Fellows Lectures.md",
-    "Issac Newton Institute for mathematical sciences.md",
-    "moduli space.md",
-    "free-will.md",
-    "depression.md",
-    "Robert Morris Sapolsky.md",
-    "Quantum Gravity.md",
+    "Ronald Brown.md",
+    "rocket.md",
     "Pasted image 20240311053451.png",
     "analysis_E&A.canvas",
     "Pasted image 20240307223748.png",
